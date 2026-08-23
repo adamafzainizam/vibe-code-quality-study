@@ -43,7 +43,8 @@ confounders (repo type, size, age, popularity, author skill).
   (two-sample t-test, α=0.05) — adequate for pilot claims, framed as exploratory.
 
 ## Open questions
-- [ ] Should controls also exclude repos that merely *mention* AI tools anywhere
-      (not just declaration)? Decide during pilot.
-- [ ] License requirement? (Probably exclude unlicensed to avoid legal gray areas
-      when cloning — both arms, same rule.)
+- [x] Controls: exclude any repo that *mentions* AI tools anywhere in README,
+      not just declarations (strict anti-contamination; decided 2026-08-23).
+- [x] Licensing: clone only repos with a recognized OSS license (MIT/Apache-2.0/
+      GPL/BSD...), same rule both arms (decided 2026-08-23). Preprint publishes
+      aggregate statistics only, never source.

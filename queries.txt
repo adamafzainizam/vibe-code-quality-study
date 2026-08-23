@@ -1,0 +1,8 @@
+# Candidate queries for the AI-assisted arm (Python only).
+# Each line is a GitHub search qualifier string.
+vibe-coding language:python stars:>=1
+vibe-coded language:python stars:>=1
+"built with cursor" language:python
+"generated with claude" language:python
+"vibe coded" language:python
+topic:vibe-coding language:python
