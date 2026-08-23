@@ -20,6 +20,8 @@ import os
 import re
 import sys
 import time
+import urllib.error
+import urllib.parse
 import urllib.request
 
 API = "https://api.github.com"
@@ -40,8 +42,11 @@ BOT_RE = re.compile(
     r"(\[bot\])?$|bot$", re.IGNORECASE)
 
 
-def gh_json(path, token):
-    req = urllib.request.Request(API + path)
+def gh_json(path, token, params=None):
+    url = API + path
+    if params:
+        url += "?" + urllib.parse.urlencode(params)
+    req = urllib.request.Request(url)
     req.add_header("Accept", "application/vnd.github+json")
     if token:
         req.add_header("Authorization", f"Bearer {token}")
