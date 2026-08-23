@@ -42,6 +42,15 @@ confounders (repo type, size, age, popularity, author skill).
 - Power note: with n=50/arm we can detect ~0.55 SD differences at 80% power
   (two-sample t-test, α=0.05) — adequate for pilot claims, framed as exploratory.
 
+## Provenance signals
+- **Commit/contributor bot signatures** (`claude[bot]`, `cursor`, `codex`,
+  `copilot`, `devin` etc. appearing as commit authors or contributors) are
+  treated as *strong positive evidence* of AI-assisted development.
+- **One-directional signal:** their absence proves nothing — many vibe-coders
+  strip bot attribution from history. Never use absence as evidence of
+  traditional authorship.
+- For controls: ANY bot contributor = automatic disqualification.
+
 ## Open questions
 - [x] Controls: exclude any repo that *mentions* AI tools anywhere in README,
       not just declarations (strict anti-contamination; decided 2026-08-23).
