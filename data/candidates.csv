@@ -1,0 +1,837 @@
+full_name,query,stars,size_kb,created,pushed,url,passed_filter,reason,arm
+Noahffiliation/auto-watch-later,vibe-coding language:python stars:>=1,2,641,2025-05-17,2026-08-23,https://github.com/Noahffiliation/auto-watch-later,False,only 4 py files,ai-assisted
+FonaTech/Clouds-Coder,vibe-coding language:python stars:>=1,293,41144,2026-03-05,2026-08-23,https://github.com/FonaTech/Clouds-Coder,True,no-readme-declaration,ai-assisted
+CorvinLabs/CorvinOS,vibe-coding language:python stars:>=1,4,27420,2026-06-28,2026-08-23,https://github.com/CorvinLabs/CorvinOS,True,no-readme-declaration,ai-assisted
+MnemeHQ/mneme,vibe-coding language:python stars:>=1,17,54187,2026-03-24,2026-08-23,https://github.com/MnemeHQ/mneme,False,"size 54187KB outside [50,50000]",ai-assisted
+avibe-bot/avibe,vibe-coding language:python stars:>=1,492,104521,2025-08-09,2026-08-23,https://github.com/avibe-bot/avibe,False,"size 104521KB outside [50,50000]",ai-assisted
+pranava0x0/vibe-coding-security,vibe-coding language:python stars:>=1,3,3691,2026-05-16,2026-08-23,https://github.com/pranava0x0/vibe-coding-security,False,docs/prompt-heavy (263 md/yaml vs 16 py),ai-assisted
+zhnt/loushang,vibe-coding language:python stars:>=1,1220,17989,2026-05-29,2026-08-23,https://github.com/zhnt/loushang,True,no-readme-declaration,ai-assisted
+lucasfugisawa/deliberate-engineering,vibe-coding language:python stars:>=1,6,565,2026-06-27,2026-08-23,https://github.com/lucasfugisawa/deliberate-engineering,False,only 2 py files,ai-assisted
+RealThalesGit/Site2Local,vibe-coding language:python stars:>=1,4,2385,2026-05-01,2026-08-23,https://github.com/RealThalesGit/Site2Local,True,no-readme-declaration,ai-assisted
+adigb6170/kunpeng-skill,vibe-coding language:python stars:>=1,1,2600,2026-08-07,2026-08-23,https://github.com/adigb6170/kunpeng-skill,False,docs/prompt-heavy (21 md/yaml vs 11 py),ai-assisted
+111Hamo111/kiro-stack,vibe-coding language:python stars:>=1,1,1044,2024-03-01,2026-08-23,https://github.com/111Hamo111/kiro-stack,True,no-readme-declaration,ai-assisted
+estevanhernandez-stack-ed/vibe-plugins,vibe-coding language:python stars:>=1,1,2357,2026-04-16,2026-08-23,https://github.com/estevanhernandez-stack-ed/vibe-plugins,False,only 4 py files,ai-assisted
+chunzhong06/jiejian,vibe-coding language:python stars:>=1,1,2103,2026-08-08,2026-08-23,https://github.com/chunzhong06/jiejian,True,no-readme-declaration,ai-assisted
+intent-driven-dev/intent-driven-template,vibe-coding language:python stars:>=1,115,85,2026-05-10,2026-08-23,https://github.com/intent-driven-dev/intent-driven-template,False,only 4 py files,ai-assisted
+mrelvisnow/ChoreBoard,vibe-coding language:python stars:>=1,1,2813,2025-12-28,2026-08-23,https://github.com/mrelvisnow/ChoreBoard,True,no-readme-declaration,ai-assisted
+moaju0/Vibe-Prolog,vibe-coding language:python stars:>=1,1,3727,2025-12-13,2026-08-23,https://github.com/moaju0/Vibe-Prolog,True,no-readme-declaration,ai-assisted
+corerudo/for-vibecoders,vibe-coding language:python stars:>=1,1,167,2026-05-14,2026-08-23,https://github.com/corerudo/for-vibecoders,False,only 1 py files,ai-assisted
+Baelfyre/Orchestra,vibe-coding language:python stars:>=1,26,25734,2026-06-20,2026-08-23,https://github.com/Baelfyre/Orchestra,False,docs/prompt-heavy (684 md/yaml vs 245 py),ai-assisted
+keaizuizui/CodeRef-AI,vibe-coding language:python stars:>=1,3,3291,2026-06-25,2026-08-23,https://github.com/keaizuizui/CodeRef-AI,True,no-readme-declaration,ai-assisted
+zydo/agent-readable,vibe-coding language:python stars:>=1,6,89719,2026-05-10,2026-08-23,https://github.com/zydo/agent-readable,False,"size 89719KB outside [50,50000]",ai-assisted
+megocn/vibe-holding,vibe-coding language:python stars:>=1,5,41195,2026-07-24,2026-08-23,https://github.com/megocn/vibe-holding,True,no-readme-declaration,ai-assisted
+a2578348864a-sys/web-product-vibe,vibe-coding language:python stars:>=1,1,130,2026-08-23,2026-08-23,https://github.com/a2578348864a-sys/web-product-vibe,False,only 1 py files,ai-assisted
+Priivacy-ai/spec-kitty,vibe-coding language:python stars:>=1,1568,144426,2025-10-09,2026-08-23,https://github.com/Priivacy-ai/spec-kitty,False,"size 144426KB outside [50,50000]",ai-assisted
+jasuoh/42-exam-rank03-tester,vibe-coding language:python stars:>=1,2,149,2026-08-16,2026-08-23,https://github.com/jasuoh/42-exam-rank03-tester,True,no-readme-declaration,ai-assisted
+Pylxyr/PyxeeBot,vibe-coding language:python stars:>=1,1,924,2026-06-01,2026-08-23,https://github.com/Pylxyr/PyxeeBot,True,no-readme-declaration,ai-assisted
+eugenelim/agent-ready-repo,vibe-coding language:python stars:>=1,17,35386,2026-05-04,2026-08-23,https://github.com/eugenelim/agent-ready-repo,False,docs/prompt-heavy (2698 md/yaml vs 1052 py),ai-assisted
+jaurakunal/isitsecure,vibe-coding language:python stars:>=1,38,5071,2026-05-19,2026-08-23,https://github.com/jaurakunal/isitsecure,True,no-readme-declaration,ai-assisted
+recollective-genuseptatretus377/askproof-skill,vibe-coding language:python stars:>=1,3,540,2026-05-06,2026-08-23,https://github.com/recollective-genuseptatretus377/askproof-skill,False,only 4 py files,ai-assisted
+montgomeryunpopular607/anywhere-agents,vibe-coding language:python stars:>=1,1,2669,2026-05-04,2026-08-23,https://github.com/montgomeryunpopular607/anywhere-agents,True,no-readme-declaration,ai-assisted
+sarenarococo641/nopua,vibe-coding language:python stars:>=1,1,3556,2026-03-28,2026-08-23,https://github.com/sarenarococo641/nopua,False,docs/prompt-heavy (44 md/yaml vs 34 py),ai-assisted
+Kartikpanel2008/best-skills,vibe-coding language:python stars:>=1,2,1279,2026-03-15,2026-08-23,https://github.com/Kartikpanel2008/best-skills,False,only 1 py files,ai-assisted
+manindersingh130/vibe-local,vibe-coding language:python stars:>=1,1,1524,2024-07-07,2026-08-23,https://github.com/manindersingh130/vibe-local,True,no-readme-declaration,ai-assisted
+faraday-95/cursor-free-vip,vibe-coding language:python stars:>=1,13,8027,2025-08-06,2026-08-23,https://github.com/faraday-95/cursor-free-vip,True,no-readme-declaration,ai-assisted
+kubawer21/StealthIt,vibe-coding language:python stars:>=1,4,1896,2025-12-16,2026-08-23,https://github.com/kubawer21/StealthIt,False,only 4 py files,ai-assisted
+iamsocool24/dbt-core-mcp,vibe-coding language:python stars:>=1,3,2035,2025-08-11,2026-08-23,https://github.com/iamsocool24/dbt-core-mcp,True,no-readme-declaration,ai-assisted
+adammatthewsteinberger/vibey-skills,vibe-coding language:python stars:>=1,1,4443,2026-08-11,2026-08-23,https://github.com/adammatthewsteinberger/vibey-skills,False,docs/prompt-heavy (796 md/yaml vs 11 py),ai-assisted
+jborrajo21/genesis,vibe-coding language:python stars:>=1,1,55,2026-07-19,2026-08-23,https://github.com/jborrajo21/genesis,True,no-readme-declaration,ai-assisted
+imMamdouhaboammar/linkedin-animated-infographics,vibe-coding language:python stars:>=1,2,115864,2026-08-06,2026-08-23,https://github.com/imMamdouhaboammar/linkedin-animated-infographics,False,"size 115864KB outside [50,50000]",ai-assisted
+axisrow/vibetools,vibe-coding language:python stars:>=1,1,12050,2026-07-02,2026-08-23,https://github.com/axisrow/vibetools,True,declared-ai,ai-assisted
+bluespore/slop.exe,vibe-coding language:python stars:>=1,2,529,2026-08-23,2026-08-23,https://github.com/bluespore/slop.exe,False,docs/prompt-heavy (63 md/yaml vs 5 py),ai-assisted
+WILLOSCAR/research-units-pipeline-skills,vibe-coding language:python stars:>=1,498,17603,2026-01-07,2026-08-23,https://github.com/WILLOSCAR/research-units-pipeline-skills,False,docs/prompt-heavy (328 md/yaml vs 161 py),ai-assisted
+ZpFhnu/vibe-coding-cases,vibe-coding language:python stars:>=1,3,2527,2026-05-19,2026-08-23,https://github.com/ZpFhnu/vibe-coding-cases,False,docs/prompt-heavy (10 md/yaml vs 8 py),ai-assisted
+Zhang-Zhiyuan/api-switcher,vibe-coding language:python stars:>=1,8,68849,2026-05-08,2026-08-23,https://github.com/Zhang-Zhiyuan/api-switcher,False,"size 68849KB outside [50,50000]",ai-assisted
+mjrskiles/vibe-hacker,vibe-coding language:python stars:>=1,3,281,2025-12-08,2026-08-22,https://github.com/mjrskiles/vibe-hacker,False,docs/prompt-heavy (34 md/yaml vs 15 py),ai-assisted
+ratingtesting/keelwright,vibe-coding language:python stars:>=1,2,2809,2026-07-22,2026-08-22,https://github.com/ratingtesting/keelwright,False,docs/prompt-heavy (44 md/yaml vs 18 py),ai-assisted
+andre-simplifica/oracle-apex-ai-skills,vibe-coding language:python stars:>=1,18,2050,2026-04-25,2026-08-22,https://github.com/andre-simplifica/oracle-apex-ai-skills,False,docs/prompt-heavy (56 md/yaml vs 8 py),ai-assisted
+danielsimisi-coder/coverloop,vibe-coding language:python stars:>=1,3,1039,2026-06-26,2026-08-22,https://github.com/danielsimisi-coder/coverloop,False,docs/prompt-heavy (20 md/yaml vs 6 py),ai-assisted
+xiaoran007/TokenCat,vibe-coding language:python stars:>=1,2,807,2026-03-15,2026-08-22,https://github.com/xiaoran007/TokenCat,True,no-readme-declaration,ai-assisted
+infotradescout/Selective-Intelligence,vibe-coding language:python stars:>=1,3,4090,2026-07-22,2026-08-22,https://github.com/infotradescout/Selective-Intelligence,False,docs/prompt-heavy (115 md/yaml vs 46 py),ai-assisted
+keith-yan/vibe-service-guardian,vibe-coding language:python stars:>=1,112,1019,2026-08-14,2026-08-22,https://github.com/keith-yan/vibe-service-guardian,True,no-readme-declaration,ai-assisted
+Yormask/PDF-Library-Reader,vibe-coding language:python stars:>=1,1,343,2026-08-08,2026-08-22,https://github.com/Yormask/PDF-Library-Reader,True,no-readme-declaration,ai-assisted
+XiaoMaColtAI/math-modeling-skill,vibe-coding language:python stars:>=1,831,69797,2026-01-24,2026-08-22,https://github.com/XiaoMaColtAI/math-modeling-skill,False,"size 69797KB outside [50,50000]",ai-assisted
+genehand/ha-apps,vibe-coding language:python stars:>=1,1,3419,2025-08-22,2026-08-22,https://github.com/genehand/ha-apps,True,no-readme-declaration,ai-assisted
+lhh1301506137/CoTend,vibe-coding language:python stars:>=1,2,2304,2026-07-09,2026-08-22,https://github.com/lhh1301506137/CoTend,False,docs/prompt-heavy (210 md/yaml vs 97 py),ai-assisted
+zszz3/dsh-VibeCoding,vibe-coding language:python stars:>=1,1,1272,2026-08-19,2026-08-22,https://github.com/zszz3/dsh-VibeCoding,False,only 1 py files,ai-assisted
+sohretaga/vibeguard,vibe-coding language:python stars:>=1,1,65,2026-08-22,2026-08-22,https://github.com/sohretaga/vibeguard,False,only 1 py files,ai-assisted
+jkblank/VCpod,vibe-coding language:python stars:>=1,1,2434,2026-07-19,2026-08-22,https://github.com/jkblank/VCpod,True,no-readme-declaration,ai-assisted
+waldur/slurm-emulator,vibe-coding language:python stars:>=1,1,4026,2025-11-05,2026-08-22,https://github.com/waldur/slurm-emulator,True,no-readme-declaration,ai-assisted
+HibbanAmmar/Proyek_web_crm,vibe-coding language:python stars:>=1,1,54582,2026-07-23,2026-08-22,https://github.com/HibbanAmmar/Proyek_web_crm,False,"size 54582KB outside [50,50000]",ai-assisted
+Bazza1982/HASHI,vibe-coding language:python stars:>=1,1,143337,2026-03-10,2026-08-22,https://github.com/Bazza1982/HASHI,False,"size 143337KB outside [50,50000]",ai-assisted
+herreravalenz6620/context-compression,vibe-coding language:python stars:>=1,3,606,2026-05-23,2026-08-22,https://github.com/herreravalenz6620/context-compression,True,no-readme-declaration,ai-assisted
+fonscutup654/ELAI-DevKit,vibe-coding language:python stars:>=1,1,1438,2026-05-05,2026-08-22,https://github.com/fonscutup654/ELAI-DevKit,True,no-readme-declaration,ai-assisted
+enginkaraarslan/smart_ai_assistant,vibe-coding language:python stars:>=1,2,745,2023-08-07,2026-08-22,https://github.com/enginkaraarslan/smart_ai_assistant,True,no-readme-declaration,ai-assisted
+Labored-nontricyclicdrug743/vibecheck,vibe-coding language:python stars:>=1,1,577,2026-04-20,2026-08-22,https://github.com/Labored-nontricyclicdrug743/vibecheck,False,docs/prompt-heavy (22 md/yaml vs 17 py),ai-assisted
+Lilchris007/AGENTS.md_generator,vibe-coding language:python stars:>=1,2,2070,2026-02-21,2026-08-22,https://github.com/Lilchris007/AGENTS.md_generator,True,no-readme-declaration,ai-assisted
+zgrwo/VibeCodingTemplate,vibe-coding language:python stars:>=1,1,617,2026-08-07,2026-08-22,https://github.com/zgrwo/VibeCodingTemplate,False,docs/prompt-heavy (73 md/yaml vs 27 py),ai-assisted
+ThayDuke/WSRCore,vibe-coding language:python stars:>=1,2,3467,2026-07-13,2026-08-22,https://github.com/ThayDuke/WSRCore,False,docs/prompt-heavy (33 md/yaml vs 8 py),ai-assisted
+xhluca/session-migrate,vibe-coding language:python stars:>=1,1,96657,2026-08-17,2026-08-21,https://github.com/xhluca/session-migrate,False,"size 96657KB outside [50,50000]",ai-assisted
+cwfitzgerald/claude-usage,vibe-coding language:python stars:>=1,2,288,2026-06-29,2026-08-21,https://github.com/cwfitzgerald/claude-usage,True,no-readme-declaration,ai-assisted
+SixOfFive/infiniteModel,vibe-coding language:python stars:>=1,9,3813,2026-06-27,2026-08-21,https://github.com/SixOfFive/infiniteModel,True,no-readme-declaration,ai-assisted
+Sistema2D/FrameCode-VibeWork,vibe-coding language:python stars:>=1,21,1320,2026-05-15,2026-08-21,https://github.com/Sistema2D/FrameCode-VibeWork,False,docs/prompt-heavy (200 md/yaml vs 15 py),ai-assisted
+haideai-pm/Inkyspec,vibe-coding language:python stars:>=1,1,130,2026-06-07,2026-08-21,https://github.com/haideai-pm/Inkyspec,False,docs/prompt-heavy (28 md/yaml vs 5 py),ai-assisted
+freelawproject/wiki,vibe-coding language:python stars:>=1,2,2418,2026-02-23,2026-08-21,https://github.com/freelawproject/wiki,True,declared-ai,ai-assisted
+GabrielV-Engineer/AILIENANT,vibe-coding language:python stars:>=1,2,27182,2026-04-13,2026-08-21,https://github.com/GabrielV-Engineer/AILIENANT,True,no-readme-declaration,ai-assisted
+GiuseppeBellamacina/atlas,vibe-coding language:python stars:>=1,1,61,2026-08-20,2026-08-21,https://github.com/GiuseppeBellamacina/atlas,True,no-readme-declaration,ai-assisted
+1m01m0/VibeGuard,vibe-coding language:python stars:>=1,1,44,2026-08-21,2026-08-21,https://github.com/1m01m0/VibeGuard,False,"size 44KB outside [50,50000]",ai-assisted
+Mark-Libetter/ai-conversation-hub,vibe-coding language:python stars:>=1,2,1671,2026-08-06,2026-08-21,https://github.com/Mark-Libetter/ai-conversation-hub,True,no-readme-declaration,ai-assisted
+rusin-dev/Rp-plus-plus,vibe-coding language:python stars:>=1,1,559,2026-08-13,2026-08-21,https://github.com/rusin-dev/Rp-plus-plus,True,no-readme-declaration,ai-assisted
+kendeng25/VibeSecretary-public,vibe-coding language:python stars:>=1,3,6604,2026-08-21,2026-08-21,https://github.com/kendeng25/VibeSecretary-public,True,no-readme-declaration,ai-assisted
+neracu/rebrief,vibe-coding language:python stars:>=1,5,21639,2026-07-22,2026-08-21,https://github.com/neracu/rebrief,True,no-readme-declaration,ai-assisted
+unknowbug/anchorlaw,vibe-coding language:python stars:>=1,4,886,2026-06-17,2026-08-21,https://github.com/unknowbug/anchorlaw,False,docs/prompt-heavy (55 md/yaml vs 23 py),ai-assisted
+iskandarsulaili/hermes-ultimate-coding,vibe-coding language:python stars:>=1,4,640,2026-07-10,2026-08-21,https://github.com/iskandarsulaili/hermes-ultimate-coding,False,docs/prompt-heavy (26 md/yaml vs 20 py),ai-assisted
+ShouZhengAI/CS146S_CN,vibe-coding language:python stars:>=1,1490,46093,2025-11-30,2026-08-21,https://github.com/ShouZhengAI/CS146S_CN,True,no-readme-declaration,ai-assisted
+bell-0211/ggk-web-portfolio,vibe-coding language:python stars:>=1,1,619,2026-08-21,2026-08-21,https://github.com/bell-0211/ggk-web-portfolio,False,only 3 py files,ai-assisted
+kargnas/skills,vibe-coding language:python stars:>=1,5,211,2026-07-16,2026-08-21,https://github.com/kargnas/skills,False,docs/prompt-heavy (30 md/yaml vs 6 py),ai-assisted
+Elguajo/Progressive-Context-Kit,vibe-coding language:python stars:>=1,1,763,2026-08-17,2026-08-21,https://github.com/Elguajo/Progressive-Context-Kit,False,docs/prompt-heavy (116 md/yaml vs 41 py),ai-assisted
+Wunderlandmedia/launchworthy,vibe-coding language:python stars:>=1,95,163,2026-07-13,2026-08-21,https://github.com/Wunderlandmedia/launchworthy,False,only 1 py files,ai-assisted
+prodpilotai/ProdPilot,vibe-coding language:python stars:>=1,1,38,2026-08-17,2026-08-21,https://github.com/prodpilotai/ProdPilot,False,"size 38KB outside [50,50000]",ai-assisted
+mr-tinkle-winkle/puppetry,vibe-coding language:python stars:>=1,1,587,2026-08-14,2026-08-21,https://github.com/mr-tinkle-winkle/puppetry,False,only 2 py files,ai-assisted
+jasminemo1110/coding-manager,vibe-coding language:python stars:>=1,1,2515,2026-05-26,2026-08-21,https://github.com/jasminemo1110/coding-manager,True,no-readme-declaration,ai-assisted
+breakstring/agent-deck,vibe-coding language:python stars:>=1,38,7960,2026-06-22,2026-08-21,https://github.com/breakstring/agent-deck,True,no-readme-declaration,ai-assisted
+alpacax/alpacon-mcp,vibe-coding language:python stars:>=1,1,2196,2025-09-23,2026-08-21,https://github.com/alpacax/alpacon-mcp,True,no-readme-declaration,ai-assisted
+FlorianBruniaux/claude-code-ultimate-guide,vibe-coding language:python stars:>=1,5786,27982,2026-01-09,2026-08-20,https://github.com/FlorianBruniaux/claude-code-ultimate-guide,False,docs/prompt-heavy (709 md/yaml vs 23 py),ai-assisted
+7ey-7ey/DKUAutoScheduler,vibe-coding language:python stars:>=1,4,256,2026-05-20,2026-08-20,https://github.com/7ey-7ey/DKUAutoScheduler,True,no-readme-declaration,ai-assisted
+cwinvestments/memstack,vibe-coding language:python stars:>=1,414,1282,2026-02-19,2026-08-20,https://github.com/cwinvestments/memstack,False,docs/prompt-heavy (120 md/yaml vs 8 py),ai-assisted
+wedsamuel1230/arduino-skills,vibe-coding language:python stars:>=1,20,824,2026-01-04,2026-08-20,https://github.com/wedsamuel1230/arduino-skills,False,docs/prompt-heavy (222 md/yaml vs 32 py),ai-assisted
+Noahffiliation/smart-playlists,vibe-coding language:python stars:>=1,1,466,2025-02-02,2026-08-20,https://github.com/Noahffiliation/smart-playlists,True,declared-ai,ai-assisted
+LiJinHao999/astrbot_plugin_hapi_connector,vibe-coding language:python stars:>=1,195,4096,2026-02-09,2026-08-20,https://github.com/LiJinHao999/astrbot_plugin_hapi_connector,True,no-readme-declaration,ai-assisted
+TTT-qq-TT/tau-loop,vibe-coding language:python stars:>=1,2,1841,2026-08-04,2026-08-20,https://github.com/TTT-qq-TT/tau-loop,False,docs/prompt-heavy (41 md/yaml vs 14 py),ai-assisted
+harris-ahmad/deadpush,vibe-coding language:python stars:>=1,1,941,2026-06-20,2026-08-20,https://github.com/harris-ahmad/deadpush,True,no-readme-declaration,ai-assisted
+TerenceLiu98/prewalk,vibe-coding language:python stars:>=1,4,343,2026-07-24,2026-08-20,https://github.com/TerenceLiu98/prewalk,True,no-readme-declaration,ai-assisted
+j33433/clankbox,vibe-coding language:python stars:>=1,1,296,2026-07-11,2026-08-20,https://github.com/j33433/clankbox,False,only 3 py files,ai-assisted
+whyrnld/banco-inter-api-skill,vibe-coding language:python stars:>=1,18,1068,2026-08-19,2026-08-20,https://github.com/whyrnld/banco-inter-api-skill,False,only 4 py files,ai-assisted
+LysanderPhong/big-jump,vibe-coding language:python stars:>=1,2,1408,2026-08-18,2026-08-20,https://github.com/LysanderPhong/big-jump,False,only 3 py files,ai-assisted
+asJEI/Multi-platform-video-downloader,vibe-coding language:python stars:>=1,1,27,2026-04-07,2026-08-20,https://github.com/asJEI/Multi-platform-video-downloader,False,"size 27KB outside [50,50000]",ai-assisted
+ZhaoXingPeng/DBJavaGenix,vibe-coding language:python stars:>=1,35,742,2025-09-09,2026-08-20,https://github.com/ZhaoXingPeng/DBJavaGenix,False,docs/prompt-heavy (108 md/yaml vs 104 py),ai-assisted
+oraios/serena,vibe-coding language:python stars:>=1,28399,11439,2025-03-23,2026-08-20,https://github.com/oraios/serena,True,no-readme-declaration,ai-assisted
+S-zhi/Subtitles-AI,vibe-coding language:python stars:>=1,2,4829,2026-06-29,2026-08-20,https://github.com/S-zhi/Subtitles-AI,True,no-readme-declaration,ai-assisted
+SilentFlower/vibecoding-bench,vibe-coding language:python stars:>=1,1,2925,2026-05-24,2026-08-20,https://github.com/SilentFlower/vibecoding-bench,False,docs/prompt-heavy (625 md/yaml vs 54 py),ai-assisted
+microsoft/RPG-ZeroRepo,vibe-coding language:python stars:>=1,590,19570,2025-11-26,2026-08-20,https://github.com/microsoft/RPG-ZeroRepo,True,no-readme-declaration,ai-assisted
+DBsecurities/dbsec-open-api,vibe-coding language:python stars:>=1,14,1369,2026-07-03,2026-08-20,https://github.com/DBsecurities/dbsec-open-api,True,no-readme-declaration,ai-assisted
+mikec-chi/kcf-oss,vibe-coding language:python stars:>=1,1,5716,2026-07-24,2026-08-19,https://github.com/mikec-chi/kcf-oss,False,docs/prompt-heavy (131 md/yaml vs 61 py),ai-assisted
+Certifiedcook/killzone,vibe-coding language:python stars:>=1,1,635,2026-08-18,2026-08-19,https://github.com/Certifiedcook/killzone,True,no-readme-declaration,ai-assisted
+javimoya/gg,vibe-coding language:python stars:>=1,1,5496,2026-06-16,2026-08-19,https://github.com/javimoya/gg,False,only 1 py files,ai-assisted
+jaakla/vibecheck,vibe-coding language:python stars:>=1,1,2536,2026-08-11,2026-08-19,https://github.com/jaakla/vibecheck,True,declared-ai,ai-assisted
+KaletoAI/anima-verse,vibe-coding language:python stars:>=1,3,236255,2026-02-14,2026-08-19,https://github.com/KaletoAI/anima-verse,False,"size 236255KB outside [50,50000]",ai-assisted
+oliver-kriska/claude-elixir-phoenix,vibe-coding language:python stars:>=1,529,3782,2026-02-12,2026-08-19,https://github.com/oliver-kriska/claude-elixir-phoenix,False,docs/prompt-heavy (1182 md/yaml vs 85 py),ai-assisted
+datawhalechina/vibe-blog,vibe-coding language:python stars:>=1,252,120120,2025-12-30,2026-08-19,https://github.com/datawhalechina/vibe-blog,False,"size 120120KB outside [50,50000]",ai-assisted
+nseniak/coyodex,vibe-coding language:python stars:>=1,2,7736,2026-06-26,2026-08-19,https://github.com/nseniak/coyodex,True,no-readme-declaration,ai-assisted
+Factotum8/networking4j,vibe-coding language:python stars:>=1,2,262,2026-08-07,2026-08-19,https://github.com/Factotum8/networking4j,True,no-readme-declaration,ai-assisted
+vibe-motion/skills,vibe-coding language:python stars:>=1,1101,60335,2026-03-17,2026-08-19,https://github.com/vibe-motion/skills,False,"size 60335KB outside [50,50000]",ai-assisted
+senda-labs/DQIII8,vibe-coding language:python stars:>=1,11,104624,2026-03-18,2026-08-19,https://github.com/senda-labs/DQIII8,False,"size 104624KB outside [50,50000]",ai-assisted
+devanshutak25/blenderKey,vibe-coding language:python stars:>=1,16,29482,2026-03-12,2026-08-19,https://github.com/devanshutak25/blenderKey,True,declared-ai,ai-assisted
+shamsiyevshamsiddin19/vibe-coding,vibe-coding language:python stars:>=1,2,33633,2026-07-05,2026-08-19,https://github.com/shamsiyevshamsiddin19/vibe-coding,True,no-readme-declaration,ai-assisted
+slungus57/Kestrel,vibe-coding language:python stars:>=1,4,113,2026-08-16,2026-08-19,https://github.com/slungus57/Kestrel,True,no-readme-declaration,ai-assisted
+dereknguyen269/AI-Powered-Coding-Tools,vibe-coding language:python stars:>=1,85,236,2025-03-24,2026-08-19,https://github.com/dereknguyen269/AI-Powered-Coding-Tools,False,only 4 py files,ai-assisted
+tettethu/VibeGame,vibe-coding language:python stars:>=1,89,10693,2026-08-12,2026-08-19,https://github.com/tettethu/VibeGame,False,docs/prompt-heavy (92 md/yaml vs 74 py),ai-assisted
+g3rhard/sysops-framework,vibe-coding language:python stars:>=1,1,7508,2025-09-04,2026-08-21,https://github.com/g3rhard/sysops-framework,False,docs/prompt-heavy (42 md/yaml vs 7 py),ai-assisted
+MartinOlivero/saas-builder,vibe-coding language:python stars:>=1,2,696,2026-06-05,2026-08-19,https://github.com/MartinOlivero/saas-builder,False,only 1 py files,ai-assisted
+r3vs/keel,vibe-coding language:python stars:>=1,1,5556,2026-07-08,2026-08-20,https://github.com/r3vs/keel,False,docs/prompt-heavy (388 md/yaml vs 169 py),ai-assisted
+darkChench/vibeCoding-host-platform,vibe-coding language:python stars:>=1,1,660,2026-06-09,2026-08-19,https://github.com/darkChench/vibeCoding-host-platform,False,docs/prompt-heavy (43 md/yaml vs 37 py),ai-assisted
+Thairu-dev/StealthIt,vibe-coding language:python stars:>=1,11,657,2025-11-23,2026-08-19,https://github.com/Thairu-dev/StealthIt,True,declared-ai,ai-assisted
+IITA-Proyectos/iita-vibe-robotics-martes-SL,vibe-coding language:python stars:>=1,2,50062,2026-03-24,2026-08-19,https://github.com/IITA-Proyectos/iita-vibe-robotics-martes-SL,False,"size 50062KB outside [50,50000]",ai-assisted
+tody-agent/codymaster,vibe-coding language:python stars:>=1,51,24121,2026-03-17,2026-08-20,https://github.com/tody-agent/codymaster,False,docs/prompt-heavy (1715 md/yaml vs 216 py),ai-assisted
+mmr710/nightmux,vibe-coding language:python stars:>=1,22,1192,2026-08-12,2026-08-18,https://github.com/mmr710/nightmux,False,docs/prompt-heavy (17 md/yaml vs 5 py),ai-assisted
+anCode1143/dsa-diary,vibe-coding language:python stars:>=1,2,179,2025-09-03,2026-08-18,https://github.com/anCode1143/dsa-diary,True,no-readme-declaration,ai-assisted
+m008v/fbchat-v2,vibe-coding language:python stars:>=1,120,1670,2022-07-21,2026-08-19,https://github.com/m008v/fbchat-v2,True,no-readme-declaration,ai-assisted
+taniyatamanna5885-dot/ReciteWords-agent,vibe-coding language:python stars:>=1,2,19651,2026-07-30,2026-08-18,https://github.com/taniyatamanna5885-dot/ReciteWords-agent,False,docs/prompt-heavy (206 md/yaml vs 12 py),ai-assisted
+MindFlock/MindFlock,vibe-coding language:python stars:>=1,11,14168,2026-07-24,2026-08-18,https://github.com/MindFlock/MindFlock,True,no-readme-declaration,ai-assisted
+filthyrake/vlog,vibe-coding language:python stars:>=1,4,3652,2025-12-03,2026-08-18,https://github.com/filthyrake/vlog,True,no-readme-declaration,ai-assisted
+barryqy/vibe-coding,vibe-coding language:python stars:>=1,1,5473,2026-05-08,2026-08-18,https://github.com/barryqy/vibe-coding,True,no-readme-declaration,ai-assisted
+PavelKoff2025/ResumeScore,vibe-coding language:python stars:>=1,1,515,2026-06-28,2026-08-18,https://github.com/PavelKoff2025/ResumeScore,True,no-readme-declaration,ai-assisted
+backblaze-b2-samples/agentic-rag-vector-starter-kit,vibe-coding language:python stars:>=1,2,736,2026-03-10,2026-08-18,https://github.com/backblaze-b2-samples/agentic-rag-vector-starter-kit,True,no-readme-declaration,ai-assisted
+stefanoginella/auto-bmad,vibe-coding language:python stars:>=1,30,2449,2026-05-27,2026-08-18,https://github.com/stefanoginella/auto-bmad,False,docs/prompt-heavy (25 md/yaml vs 13 py),ai-assisted
+jeffhong824/vibe-coding,vibe-coding language:python stars:>=1,2,7566,2026-08-18,2026-08-18,https://github.com/jeffhong824/vibe-coding,False,docs/prompt-heavy (40 md/yaml vs 16 py),ai-assisted
+Patdolitse/piia-engram,vibe-coding language:python stars:>=1,157,9500,2026-05-18,2026-08-18,https://github.com/Patdolitse/piia-engram,True,no-readme-declaration,ai-assisted
+abe238/hotinai,vibe-coding language:python stars:>=1,3,3103,2026-07-20,2026-08-18,https://github.com/abe238/hotinai,True,no-readme-declaration,ai-assisted
+Bruce1986/vibe-to-prod-lab,vibe-coding language:python stars:>=1,2,188,2026-07-15,2026-08-21,https://github.com/Bruce1986/vibe-to-prod-lab,False,docs/prompt-heavy (39 md/yaml vs 9 py),ai-assisted
+Ilyat9/mutagen-cli,vibe-coding language:python stars:>=1,1,11048,2026-08-13,2026-08-18,https://github.com/Ilyat9/mutagen-cli,False,docs/prompt-heavy (111 md/yaml vs 43 py),ai-assisted
+Jebroa774/PocketLab-Card,vibe-coding language:python stars:>=1,2,7639,2026-08-08,2026-08-21,https://github.com/Jebroa774/PocketLab-Card,False,docs/prompt-heavy (17 md/yaml vs 7 py),ai-assisted
+thomwebb/gac,vibe-coding language:python stars:>=1,318,12117,2024-12-12,2026-08-17,https://github.com/thomwebb/gac,True,no-readme-declaration,ai-assisted
+rgsneddon/restore-privacy,vibe-coding language:python stars:>=1,1,309547,2026-07-16,2026-08-17,https://github.com/rgsneddon/restore-privacy,False,"size 309547KB outside [50,50000]",ai-assisted
+stared/trmnl-x-claude-codex,vibe-coding language:python stars:>=1,6,195,2026-07-22,2026-08-17,https://github.com/stared/trmnl-x-claude-codex,False,only 1 py files,ai-assisted
+madara88645/VibeGraph,vibe-coding language:python stars:>=1,6,13456,2026-02-20,2026-08-20,https://github.com/madara88645/VibeGraph,True,no-readme-declaration,ai-assisted
+ga1ien/claude-cache,vibe-coding language:python stars:>=1,6,384,2025-09-21,2026-08-17,https://github.com/ga1ien/claude-cache,True,no-readme-declaration,ai-assisted
+6cubed/216labs,vibe-coding language:python stars:>=1,3,95765,2026-01-27,2026-08-17,https://github.com/6cubed/216labs,False,"size 95765KB outside [50,50000]",ai-assisted
+tommo/sublime-claude,vibe-coding language:python stars:>=1,20,6091,2025-12-08,2026-08-17,https://github.com/tommo/sublime-claude,True,no-readme-declaration,ai-assisted
+0xWelt/VibeRL,vibe-coding language:python stars:>=1,18,1318,2025-07-11,2026-08-17,https://github.com/0xWelt/VibeRL,True,no-readme-declaration,ai-assisted
+resemble-ai/resemble-mcp,vibe-coding language:python stars:>=1,1,2992,2025-12-09,2026-08-17,https://github.com/resemble-ai/resemble-mcp,False,only 2 py files,ai-assisted
+adand-91/requirement-ledger,vibe-coding language:python stars:>=1,29,114,2026-08-17,2026-08-17,https://github.com/adand-91/requirement-ledger,False,docs/prompt-heavy (18 md/yaml vs 6 py),ai-assisted
+mousomer/tet4d,vibe-coding language:python stars:>=1,1,20450,2025-12-09,2026-08-18,https://github.com/mousomer/tet4d,True,no-readme-declaration,ai-assisted
+matrixfuck/klyvo,vibe-coding language:python stars:>=1,1,609,2026-08-08,2026-08-17,https://github.com/matrixfuck/klyvo,True,no-readme-declaration,ai-assisted
+amazing12135/hearthcode,vibe-coding language:python stars:>=1,4,357,2026-08-17,2026-08-17,https://github.com/amazing12135/hearthcode,True,no-readme-declaration,ai-assisted
+johnxie/awesome-code-docs,vibe-coding language:python stars:>=1,61,28572,2025-09-04,2026-08-17,https://github.com/johnxie/awesome-code-docs,False,docs/prompt-heavy (1866 md/yaml vs 13 py),ai-assisted
+r4shsec/merchant-qr-parser,vibe-coding language:python stars:>=1,1,4,2026-04-21,2026-08-17,https://github.com/r4shsec/merchant-qr-parser,False,"size 4KB outside [50,50000]",ai-assisted
+Elguajo/Token-Efficient-Spec-Kit,vibe-coding language:python stars:>=1,1,359,2026-08-07,2026-08-17,https://github.com/Elguajo/Token-Efficient-Spec-Kit,False,only 4 py files,ai-assisted
+vicsanity623/PyOB,vibe-coding language:python stars:>=1,2,2913,2026-03-03,2026-08-17,https://github.com/vicsanity623/PyOB,True,no-readme-declaration,ai-assisted
+CurbSoftware/Chafftafarian-Chaff-Generator,vibe-coding language:python stars:>=1,2,33857,2025-06-11,2026-08-17,https://github.com/CurbSoftware/Chafftafarian-Chaff-Generator,True,no-readme-declaration,ai-assisted
+lavyoung/vibe-coding-starter,vibe-coding language:python stars:>=1,1,661,2026-06-18,2026-08-17,https://github.com/lavyoung/vibe-coding-starter,False,docs/prompt-heavy (131 md/yaml vs 7 py),ai-assisted
+glowElephant/context-forge,vibe-coding language:python stars:>=1,2,344,2026-04-28,2026-08-17,https://github.com/glowElephant/context-forge,False,docs/prompt-heavy (142 md/yaml vs 5 py),ai-assisted
+alphaparkinc/genpark-natural-language-spec-to-fullstack-app-generator-skill,vibe-coding language:python stars:>=1,8,4,2026-08-17,2026-08-17,https://github.com/alphaparkinc/genpark-natural-language-spec-to-fullstack-app-generator-skill,False,"size 4KB outside [50,50000]",ai-assisted
+jx-hxxx/hi-vibe,vibe-coding language:python stars:>=1,3,2928,2026-07-11,2026-08-17,https://github.com/jx-hxxx/hi-vibe,True,declared-ai,ai-assisted
+werxiao882-cell/NanoHermes,vibe-coding language:python stars:>=1,13,259136,2026-05-26,2026-08-16,https://github.com/werxiao882-cell/NanoHermes,False,"size 259136KB outside [50,50000]",ai-assisted
+Zts0hg/codexspec,vibe-coding language:python stars:>=1,4,3504,2026-02-15,2026-08-16,https://github.com/Zts0hg/codexspec,False,docs/prompt-heavy (494 md/yaml vs 84 py),ai-assisted
+stuehler-training/Pico-PIO-Tracer,vibe-coding language:python stars:>=1,4,268,2026-08-16,2026-08-16,https://github.com/stuehler-training/Pico-PIO-Tracer,True,no-readme-declaration,ai-assisted
+LeiLiLab/susvibes,vibe-coding language:python stars:>=1,49,5832,2025-12-02,2026-08-16,https://github.com/LeiLiLab/susvibes,True,no-readme-declaration,ai-assisted
+abab996/dsh-desktop-little,vibe-coding language:python stars:>=1,1,724,2026-08-14,2026-08-16,https://github.com/abab996/dsh-desktop-little,True,no-readme-declaration,ai-assisted
+secprog/dependency-track-mcp,vibe-coding language:python stars:>=1,5,370,2026-02-03,2026-08-16,https://github.com/secprog/dependency-track-mcp,True,no-readme-declaration,ai-assisted
+alien-sprout/autobackup,vibe-coding language:python stars:>=1,1,1,2026-08-09,2026-08-16,https://github.com/alien-sprout/autobackup,False,"size 1KB outside [50,50000]",ai-assisted
+inboxpraveen/Minimize-Cursor-Cost,vibe-coding language:python stars:>=1,6,1429,2026-05-03,2026-08-16,https://github.com/inboxpraveen/Minimize-Cursor-Cost,False,only 1 py files,ai-assisted
+KKKKhazix/khazix-skills,vibe-coding language:python stars:>=1,19987,291,2026-04-06,2026-08-16,https://github.com/KKKKhazix/khazix-skills,False,docs/prompt-heavy (79 md/yaml vs 7 py),ai-assisted
+rootcastleco/rei-skills,vibe-coding language:python stars:>=1,6,43837,2026-02-21,2026-08-16,https://github.com/rootcastleco/rei-skills,False,docs/prompt-heavy (1743 md/yaml vs 462 py),ai-assisted
+vouchdev/vouch,vibe-coding language:python stars:>=1,109,22305,2026-05-17,2026-08-23,https://github.com/vouchdev/vouch,False,docs/prompt-heavy (294 md/yaml vs 290 py),ai-assisted
+d03n3rfr1tz3/bzflag-bot,vibe-coding language:python stars:>=1,1,2865,2026-06-30,2026-08-16,https://github.com/d03n3rfr1tz3/bzflag-bot,True,no-readme-declaration,ai-assisted
+cz1993/vibe-coding-repository-standard,vibe-coding language:python stars:>=1,10,263,2026-08-16,2026-08-16,https://github.com/cz1993/vibe-coding-repository-standard,False,docs/prompt-heavy (76 md/yaml vs 10 py),ai-assisted
+EricEEEEEEE/loopwork-skill-codex,vibe-coding language:python stars:>=1,1,72,2026-07-21,2026-08-15,https://github.com/EricEEEEEEE/loopwork-skill-codex,False,only 4 py files,ai-assisted
+DejaVu5792/NanokaLeaks,vibe-coding language:python stars:>=1,1,182,2026-03-25,2026-08-15,https://github.com/DejaVu5792/NanokaLeaks,True,no-readme-declaration,ai-assisted
+AymanShams/codex-coding-os,vibe-coding language:python stars:>=1,1,5368,2026-06-04,2026-08-15,https://github.com/AymanShams/codex-coding-os,False,docs/prompt-heavy (389 md/yaml vs 72 py),ai-assisted
+dhanarkusuma/restaurant-waiter-agent,vibe-coding language:python stars:>=1,1,473,2026-08-15,2026-08-15,https://github.com/dhanarkusuma/restaurant-waiter-agent,True,no-readme-declaration,ai-assisted
+KKingZero/Zypheron-CLI,vibe-coding language:python stars:>=1,174,34918,2025-10-31,2026-08-15,https://github.com/KKingZero/Zypheron-CLI,True,no-readme-declaration,ai-assisted
+f0zzy2727/musubi,vibe-coding language:python stars:>=1,8,2822,2026-03-23,2026-08-15,https://github.com/f0zzy2727/musubi,False,docs/prompt-heavy (56 md/yaml vs 47 py),ai-assisted
+intent-driven-dev/behavior-driven-template,vibe-coding language:python stars:>=1,2,119,2026-07-16,2026-08-15,https://github.com/intent-driven-dev/behavior-driven-template,False,only 4 py files,ai-assisted
+solotop999/Viber-Coding,vibe-coding language:python stars:>=1,1,196212,2026-03-29,2026-08-15,https://github.com/solotop999/Viber-Coding,False,"size 196212KB outside [50,50000]",ai-assisted
+alphaparkinc/genpark-command-line-developer-terminal-agent-scaffolder-skill,vibe-coding language:python stars:>=1,8,4,2026-08-15,2026-08-15,https://github.com/alphaparkinc/genpark-command-line-developer-terminal-agent-scaffolder-skill,False,"size 4KB outside [50,50000]",ai-assisted
+ZacharyZcR/annoying-customer,vibe-coding language:python stars:>=1,8,2069,2026-08-15,2026-08-15,https://github.com/ZacharyZcR/annoying-customer,False,only 4 py files,ai-assisted
+dgenio/vibeguard,vibe-coding language:python stars:>=1,3,1286,2026-05-18,2026-08-17,https://github.com/dgenio/vibeguard,True,no-readme-declaration,ai-assisted
+MarkDonish/round-table-workspace,vibe-coding language:python stars:>=1,2,3006,2026-04-21,2026-08-15,https://github.com/MarkDonish/round-table-workspace,False,docs/prompt-heavy (292 md/yaml vs 119 py),ai-assisted
+pcopu/coco,vibe-coding language:python stars:>=1,4,2238,2026-03-16,2026-08-14,https://github.com/pcopu/coco,True,no-readme-declaration,ai-assisted
+kravtandr/vibe-coding-guidelines,vibe-coding language:python stars:>=1,1,60,2026-07-11,2026-08-14,https://github.com/kravtandr/vibe-coding-guidelines,False,only 2 py files,ai-assisted
+Joopinhontas/claude-repo-audit,vibe-coding language:python stars:>=1,2,32,2026-08-14,2026-08-14,https://github.com/Joopinhontas/claude-repo-audit,False,"size 32KB outside [50,50000]",ai-assisted
+phodal/vibe-hardware-coding,vibe-coding language:python stars:>=1,2,6122,2026-06-13,2026-08-14,https://github.com/phodal/vibe-hardware-coding,False,docs/prompt-heavy (47 md/yaml vs 32 py),ai-assisted
+Foamtor/AgentBridge,vibe-coding language:python stars:>=1,4,3854,2026-07-28,2026-08-14,https://github.com/Foamtor/AgentBridge,True,no-readme-declaration,ai-assisted
+lirenjie95/tool-inspection,vibe-coding language:python stars:>=1,1,230,2026-06-10,2026-08-14,https://github.com/lirenjie95/tool-inspection,True,no-readme-declaration,ai-assisted
+ebbyw/HoyoVoice,vibe-coding language:python stars:>=1,1,4005,2026-07-26,2026-08-14,https://github.com/ebbyw/HoyoVoice,True,no-readme-declaration,ai-assisted
+RockingSisyphus/vibeflow,vibe-coding language:python stars:>=1,1,176040,2026-06-09,2026-08-14,https://github.com/RockingSisyphus/vibeflow,False,"size 176040KB outside [50,50000]",ai-assisted
+aiforging/aiforging,vibe-coding language:python stars:>=1,4,662,2026-04-03,2026-08-13,https://github.com/aiforging/aiforging,False,only 4 py files,ai-assisted
+ecoson16/Faltu,vibe-coding language:python stars:>=1,1,47,2026-08-12,2026-08-13,https://github.com/ecoson16/Faltu,False,"size 47KB outside [50,50000]",ai-assisted
+Coolgiserz/apple-chain-graph,vibe-coding language:python stars:>=1,1,3527,2026-08-08,2026-08-13,https://github.com/Coolgiserz/apple-chain-graph,False,docs/prompt-heavy (25 md/yaml vs 22 py),ai-assisted
+pialexandraa/tech-event-finder,vibe-coding language:python stars:>=1,1,3807,2026-07-04,2026-08-13,https://github.com/pialexandraa/tech-event-finder,True,no-readme-declaration,ai-assisted
+feiskyer/codex-settings,vibe-coding language:python stars:>=1,236,277,2025-10-06,2026-08-13,https://github.com/feiskyer/codex-settings,False,docs/prompt-heavy (34 md/yaml vs 11 py),ai-assisted
+feiskyer/claude-code-settings,vibe-coding language:python stars:>=1,1635,505,2025-07-18,2026-08-13,https://github.com/feiskyer/claude-code-settings,False,docs/prompt-heavy (41 md/yaml vs 17 py),ai-assisted
+A/claude-booping,vibe-coding language:python stars:>=1,14,7064,2026-04-21,2026-08-15,https://github.com/A/claude-booping,False,docs/prompt-heavy (632 md/yaml vs 68 py),ai-assisted
+fraudLeo/Kinder_Joy_Pet,vibe-coding language:python stars:>=1,2,187,2026-08-13,2026-08-14,https://github.com/fraudLeo/Kinder_Joy_Pet,True,no-readme-declaration,ai-assisted
+llm-insights-share/hx-lite,vibe-coding language:python stars:>=1,1,3158,2026-07-14,2026-08-13,https://github.com/llm-insights-share/hx-lite,True,no-readme-declaration,ai-assisted
+Dimlitter/tankstorm-keepalive,vibe-coding language:python stars:>=1,1,792,2026-07-19,2026-08-13,https://github.com/Dimlitter/tankstorm-keepalive,True,no-readme-declaration,ai-assisted
+theRolento/devibify,vibe-coding language:python stars:>=1,7,75,2026-04-30,2026-08-12,https://github.com/theRolento/devibify,False,only 4 py files,ai-assisted
+hmr-BH/HMAP,vibe-coding language:python stars:>=1,5,149,2026-08-11,2026-08-12,https://github.com/hmr-BH/HMAP,False,only 2 py files,ai-assisted
+cekuu35/supabase-rls-monitor,vibe-coding language:python stars:>=1,1,51,2026-08-07,2026-08-12,https://github.com/cekuu35/supabase-rls-monitor,False,only 2 py files,ai-assisted
+Glenskii/Glenski-Toolkit,vibe-coding language:python stars:>=1,1,577,2026-04-10,2026-08-12,https://github.com/Glenskii/Glenski-Toolkit,False,docs/prompt-heavy (34 md/yaml vs 16 py),ai-assisted
+rv198-star/wff-release,vibe-coding language:python stars:>=1,16,38092,2026-06-11,2026-08-12,https://github.com/rv198-star/wff-release,False,docs/prompt-heavy (314 md/yaml vs 306 py),ai-assisted
+Unclecheng-li/DeepSec,vibe-coding language:python stars:>=1,321,53474,2026-07-09,2026-08-12,https://github.com/Unclecheng-li/DeepSec,False,"size 53474KB outside [50,50000]",ai-assisted
+ZhenHaoFu810/StataFlow,vibe-coding language:python stars:>=1,74,13618,2026-04-20,2026-08-12,https://github.com/ZhenHaoFu810/StataFlow,True,no-readme-declaration,ai-assisted
+Batushn/deskflick,vibe-coding language:python stars:>=1,2,14458,2026-08-12,2026-08-12,https://github.com/Batushn/deskflick,False,only 2 py files,ai-assisted
+neo4-svg/cybersh,vibe-coding language:python stars:>=1,5,4666,2026-06-01,2026-08-12,https://github.com/neo4-svg/cybersh,False,only 2 py files,ai-assisted
+ykn-cpu/campus-survivor,vibe-coding language:python stars:>=1,1,286,2026-08-12,2026-08-12,https://github.com/ykn-cpu/campus-survivor,True,no-readme-declaration,ai-assisted
+lanv3538/codemodify,vibe-coding language:python stars:>=1,1,2435,2026-07-24,2026-08-12,https://github.com/lanv3538/codemodify,True,no-readme-declaration,ai-assisted
+alphaparkinc/genpark-vibe-coding-ide-extension-helper-skill,vibe-coding language:python stars:>=1,8,3,2026-08-12,2026-08-12,https://github.com/alphaparkinc/genpark-vibe-coding-ide-extension-helper-skill,False,"size 3KB outside [50,50000]",ai-assisted
+a349482180/vibe-guardrails,vibe-coding language:python stars:>=1,2,36,2026-08-12,2026-08-12,https://github.com/a349482180/vibe-guardrails,False,"size 36KB outside [50,50000]",ai-assisted
+partrita/wiki-topic-words,vibe-coding language:python stars:>=1,1,70,2025-04-12,2026-08-12,https://github.com/partrita/wiki-topic-words,False,only 2 py files,ai-assisted
+vce7246-cell/vibe-coding-workframe,vibe-coding language:python stars:>=1,1,78,2026-07-22,2026-08-12,https://github.com/vce7246-cell/vibe-coding-workframe,False,only 4 py files,ai-assisted
+OpenSQZ/GTPlanner,vibe-coding language:python stars:>=1,305,30140,2025-06-30,2026-08-17,https://github.com/OpenSQZ/GTPlanner,True,declared-ai,ai-assisted
+zalerapraxis/Koito-Scrobbler,vibe-coding language:python stars:>=1,1,34,2025-06-25,2026-08-11,https://github.com/zalerapraxis/Koito-Scrobbler,False,"size 34KB outside [50,50000]",ai-assisted
+foryourhealth111-pixel/Vibe-Skills,vibe-coding language:python stars:>=1,2967,30319,2026-02-22,2026-08-11,https://github.com/foryourhealth111-pixel/Vibe-Skills,False,docs/prompt-heavy (1280 md/yaml vs 687 py),ai-assisted
+surya-shreevathsa11/CloGem,vibe-coding language:python stars:>=1,9,404,2026-03-21,2026-08-11,https://github.com/surya-shreevathsa11/CloGem,True,no-readme-declaration,ai-assisted
+CodeCraftsmaniac/NSU-CSE226-VIBE-CODING,vibe-coding language:python stars:>=1,1,8615,2026-03-03,2026-08-18,https://github.com/CodeCraftsmaniac/NSU-CSE226-VIBE-CODING,True,declared-ai,ai-assisted
+Shelpuk-AI-Technology-Consulting/lad_mcp_server,vibe-coding language:python stars:>=1,22,992,2026-01-14,2026-08-11,https://github.com/Shelpuk-AI-Technology-Consulting/lad_mcp_server,True,no-readme-declaration,ai-assisted
+liyupi/yu-ai-learn,vibe-coding language:python stars:>=1,86,393,2026-08-05,2026-08-11,https://github.com/liyupi/yu-ai-learn,True,no-readme-declaration,ai-assisted
+scottturnercanterbury/NTRAI,vibe-coding language:python stars:>=1,1,9,2026-08-11,2026-08-11,https://github.com/scottturnercanterbury/NTRAI,False,"size 9KB outside [50,50000]",ai-assisted
+ChengxuanOuyang/ai-coding-tutor-rebuild,vibe-coding language:python stars:>=1,1,246,2026-08-10,2026-08-12,https://github.com/ChengxuanOuyang/ai-coding-tutor-rebuild,True,no-readme-declaration,ai-assisted
+tomwey2/cleankoda,vibe-coding language:python stars:>=1,3,48001,2025-11-22,2026-08-13,https://github.com/tomwey2/cleankoda,True,no-readme-declaration,ai-assisted
+tertiarycourses/TGS-2020503207-AI-Vibe-Coding-for-Multi-Agents-System,vibe-coding language:python stars:>=1,1,35564,2026-03-06,2026-08-11,https://github.com/tertiarycourses/TGS-2020503207-AI-Vibe-Coding-for-Multi-Agents-System,True,declared-ai,ai-assisted
+AmsonntagChow/rate-my-code,vibe-coding language:python stars:>=1,2,632,2026-07-24,2026-08-11,https://github.com/AmsonntagChow/rate-my-code,False,docs/prompt-heavy (54 md/yaml vs 10 py),ai-assisted
+gongdeyin/agent_learning,vibe-coding language:python stars:>=1,1,566,2026-07-16,2026-08-11,https://github.com/gongdeyin/agent_learning,True,no-readme-declaration,ai-assisted
+ZhenMoon/n.e.k.o_plugin_keyboard_controller,vibe-coding language:python stars:>=1,1,238,2026-08-09,2026-08-11,https://github.com/ZhenMoon/n.e.k.o_plugin_keyboard_controller,True,no-readme-declaration,ai-assisted
+ndisisnd/cook,vibe-coding language:python stars:>=1,2,1466,2026-05-19,2026-08-11,https://github.com/ndisisnd/cook,False,docs/prompt-heavy (131 md/yaml vs 5 py),ai-assisted
+linhai0872/docstrata,vibe-coding language:python stars:>=1,7,857,2026-06-03,2026-08-11,https://github.com/linhai0872/docstrata,False,only 1 py files,ai-assisted
+jimmy058910/jmo-security-repo,vibe-coding language:python stars:>=1,7,22212,2025-10-09,2026-08-23,https://github.com/jimmy058910/jmo-security-repo,True,no-readme-declaration,ai-assisted
+TheViziusGroup/vibe-engineering-skills,vibe-coding language:python stars:>=1,1,663,2026-08-10,2026-08-10,https://github.com/TheViziusGroup/vibe-engineering-skills,False,docs/prompt-heavy (103 md/yaml vs 7 py),ai-assisted
+senemdilli/werewolf-game,vibe-coding language:python stars:>=1,1,3709,2026-05-04,2026-08-10,https://github.com/senemdilli/werewolf-game,False,docs/prompt-heavy (228 md/yaml vs 78 py),ai-assisted
+cubetribe/CODEX_GodMode_ON,vibe-coding language:python stars:>=1,13,404,2026-03-16,2026-08-17,https://github.com/cubetribe/CODEX_GodMode_ON,False,docs/prompt-heavy (65 md/yaml vs 9 py),ai-assisted
+yakovkazinets/VibeSec,vibe-coding language:python stars:>=1,1,883,2026-07-21,2026-08-10,https://github.com/yakovkazinets/VibeSec,False,docs/prompt-heavy (175 md/yaml vs 148 py),ai-assisted
+benbelo/fortinac-mcp,vibe-coding language:python stars:>=1,1,14,2026-06-19,2026-08-10,https://github.com/benbelo/fortinac-mcp,False,"size 14KB outside [50,50000]",ai-assisted
+khasky/awesome-agent-skills,vibe-coding language:python stars:>=1,5,583,2026-03-22,2026-08-10,https://github.com/khasky/awesome-agent-skills,False,only 1 py files,ai-assisted
+ShogyX/Auditarr,vibe-coding language:python stars:>=1,2,4496,2026-05-08,2026-08-10,https://github.com/ShogyX/Auditarr,True,no-readme-declaration,ai-assisted
+DavidGao520/Kill-Ur-Vibe,vibe-coding language:python stars:>=1,1,516,2026-08-03,2026-08-10,https://github.com/DavidGao520/Kill-Ur-Vibe,True,no-readme-declaration,ai-assisted
+MaxNiftyNine/MobiGo2StarterProject,vibe-coding language:python stars:>=1,1,66808,2026-07-26,2026-08-10,https://github.com/MaxNiftyNine/MobiGo2StarterProject,False,"size 66808KB outside [50,50000]",ai-assisted
+sciurus0/slskd-csvReader,vibe-coding language:python stars:>=1,1,267,2025-05-31,2026-08-09,https://github.com/sciurus0/slskd-csvReader,True,no-readme-declaration,ai-assisted
+nold-ai/specfact-cli,vibe-coding language:python stars:>=1,17,15565,2025-10-29,2026-08-17,https://github.com/nold-ai/specfact-cli,False,docs/prompt-heavy (1469 md/yaml vs 666 py),ai-assisted
+biojuho/vibe-coding,vibe-coding language:python stars:>=1,1,68661,2026-03-10,2026-08-09,https://github.com/biojuho/vibe-coding,False,"size 68661KB outside [50,50000]",ai-assisted
+SeeleAI/Thoth,vibe-coding language:python stars:>=1,51,61103,2026-04-24,2026-08-09,https://github.com/SeeleAI/Thoth,False,"size 61103KB outside [50,50000]",ai-assisted
+delnatan/pyvistra,vibe-coding language:python stars:>=1,2,11591,2025-11-25,2026-08-09,https://github.com/delnatan/pyvistra,True,no-readme-declaration,ai-assisted
+MaxLiuyy/Claude-Code-Skills,vibe-coding language:python stars:>=1,1,18,2026-02-27,2026-08-09,https://github.com/MaxLiuyy/Claude-Code-Skills,False,"size 18KB outside [50,50000]",ai-assisted
+zyf722/nZATO,vibe-coding language:python stars:>=1,1,551,2026-08-05,2026-08-09,https://github.com/zyf722/nZATO,True,no-readme-declaration,ai-assisted
+jiabai/awesome-skills,vibe-coding language:python stars:>=1,2,597,2026-03-01,2026-08-09,https://github.com/jiabai/awesome-skills,False,docs/prompt-heavy (81 md/yaml vs 60 py),ai-assisted
+TerminallyChilll/MediaOrganizer,vibe-coding language:python stars:>=1,1,565,2026-02-28,2026-08-09,https://github.com/TerminallyChilll/MediaOrganizer,True,no-readme-declaration,ai-assisted
+Joinok/de-ai-code,vibe-coding language:python stars:>=1,1,26,2026-08-09,2026-08-09,https://github.com/Joinok/de-ai-code,False,"size 26KB outside [50,50000]",ai-assisted
+jornalistainclusivo/jinc-skills,vibe-coding language:python stars:>=1,1,1344,2026-04-21,2026-08-09,https://github.com/jornalistainclusivo/jinc-skills,False,docs/prompt-heavy (259 md/yaml vs 32 py),ai-assisted
+alierenlibusiness/LubV-Studio,vibe-coding language:python stars:>=1,1,783,2026-08-08,2026-08-08,https://github.com/alierenlibusiness/LubV-Studio,True,declared-ai,ai-assisted
+tilweb/workplace-cli,vibe-coding language:python stars:>=1,1,3257,2026-05-13,2026-08-08,https://github.com/tilweb/workplace-cli,True,no-readme-declaration,ai-assisted
+serrebidev/Plexible,vibe-coding language:python stars:>=1,1,178057,2026-04-29,2026-08-08,https://github.com/serrebidev/Plexible,False,"size 178057KB outside [50,50000]",ai-assisted
+useongsin160-hash/CORTEX-Cognitive-Runtime,vibe-coding language:python stars:>=1,1,802,2026-06-28,2026-08-08,https://github.com/useongsin160-hash/CORTEX-Cognitive-Runtime,True,no-readme-declaration,ai-assisted
+404elf/RE7_21,vibe-coding language:python stars:>=1,1,546,2026-02-24,2026-08-08,https://github.com/404elf/RE7_21,False,only 1 py files,ai-assisted
+jewanchen/mtm-contract,vibe-coding language:python stars:>=1,1,1044,2026-05-14,2026-08-08,https://github.com/jewanchen/mtm-contract,False,only 1 py files,ai-assisted
+Kkkirito-123/Vibe-Coding-Rules,vibe-coding language:python stars:>=1,1,264,2026-07-19,2026-08-08,https://github.com/Kkkirito-123/Vibe-Coding-Rules,False,only 2 py files,ai-assisted
+KyaniteLabs/checkyourself,vibe-coding language:python stars:>=1,5,7904,2026-05-29,2026-08-08,https://github.com/KyaniteLabs/checkyourself,False,only 4 py files,ai-assisted
+stepbrobd/vaultdupe,vibe-coding language:python stars:>=1,1,41,2026-08-07,2026-08-07,https://github.com/stepbrobd/vaultdupe,False,"size 41KB outside [50,50000]",ai-assisted
+alphaparkinc/genpark-interactive-component-vibe-code-synthesizer-skill,vibe-coding language:python stars:>=1,9,3,2026-08-07,2026-08-07,https://github.com/alphaparkinc/genpark-interactive-component-vibe-code-synthesizer-skill,False,"size 3KB outside [50,50000]",ai-assisted
+ymhhh/cursor-implements,vibe-coding language:python stars:>=1,2,96,2026-04-28,2026-08-07,https://github.com/ymhhh/cursor-implements,True,no-readme-declaration,ai-assisted
+GoupilJeremy/agent-world,vibe-coding language:python stars:>=1,1,182,2026-08-06,2026-08-07,https://github.com/GoupilJeremy/agent-world,True,no-readme-declaration,ai-assisted
+frankxai/vibe-os,vibe-coding language:python stars:>=1,2,117,2026-01-05,2026-08-07,https://github.com/frankxai/vibe-os,False,only 4 py files,ai-assisted
+peterli996/VibeCodingPet,vibe-coding language:python stars:>=1,1,68157,2026-08-07,2026-08-07,https://github.com/peterli996/VibeCodingPet,False,"size 68157KB outside [50,50000]",ai-assisted
+IridiumXOR/gdb_graph,vibe-coding language:python stars:>=1,1,261,2026-08-06,2026-08-07,https://github.com/IridiumXOR/gdb_graph,True,no-readme-declaration,ai-assisted
+bigmoletos/revue_de_presse_IA,vibe-coding language:python stars:>=1,1,6172,2026-03-10,2026-08-21,https://github.com/bigmoletos/revue_de_presse_IA,True,declared-ai,ai-assisted
+fangvv/PDF-AI-Viewer,vibe-coding language:python stars:>=1,1,200182,2026-08-04,2026-08-07,https://github.com/fangvv/PDF-AI-Viewer,False,"size 200182KB outside [50,50000]",ai-assisted
+GuTianshuo/llama-ui,vibe-coding language:python stars:>=1,2,21,2026-08-07,2026-08-07,https://github.com/GuTianshuo/llama-ui,False,"size 21KB outside [50,50000]",ai-assisted
+cyrus-is/scrutineer,vibe-coding language:python stars:>=1,1,1925,2026-03-20,2026-08-07,https://github.com/cyrus-is/scrutineer,False,docs/prompt-heavy (27 md/yaml vs 21 py),ai-assisted
+gdl1605/codex-teammode-workflow,vibe-coding language:python stars:>=1,2,350,2026-05-10,2026-08-07,https://github.com/gdl1605/codex-teammode-workflow,False,docs/prompt-heavy (60 md/yaml vs 15 py),ai-assisted
+muzik05/vibetalk,vibe-coding language:python stars:>=1,1,191,2026-08-04,2026-08-06,https://github.com/muzik05/vibetalk,False,only 2 py files,ai-assisted
+PeterPsy/Maverick,vibe-coding language:python stars:>=1,2,39111,2026-03-15,2026-08-11,https://github.com/PeterPsy/Maverick,True,no-readme-declaration,ai-assisted
+gschoeni/MiniMaxH3-UI,vibe-coding language:python stars:>=1,1,286,2026-08-06,2026-08-06,https://github.com/gschoeni/MiniMaxH3-UI,True,no-readme-declaration,ai-assisted
+aimasteracc/tree-sitter-analyzer,vibe-coding language:python stars:>=1,46,70241,2025-07-30,2026-08-22,https://github.com/aimasteracc/tree-sitter-analyzer,False,"size 70241KB outside [50,50000]",ai-assisted
+gunchev/usbguard_gui,vibe-coding language:python stars:>=1,3,438,2026-04-04,2026-08-06,https://github.com/gunchev/usbguard_gui,True,no-readme-declaration,ai-assisted
+veryuhq/EtherSelf,vibe-coding language:python stars:>=1,5,711,2026-04-21,2026-08-21,https://github.com/veryuhq/EtherSelf,True,no-readme-declaration,ai-assisted
+hufeng173/kunpeng-skill,vibe-coding language:python stars:>=1,50,2115,2026-08-06,2026-08-06,https://github.com/hufeng173/kunpeng-skill,False,docs/prompt-heavy (21 md/yaml vs 11 py),ai-assisted
+S0loW1ng/Nmap-Visualiser,vibe-coding language:python stars:>=1,1,88,2026-08-04,2026-08-06,https://github.com/S0loW1ng/Nmap-Visualiser,True,no-readme-declaration,ai-assisted
+tristanmuzzu/parakeet-dictation,vibe-coding language:python stars:>=1,15,325,2026-07-13,2026-08-06,https://github.com/tristanmuzzu/parakeet-dictation,True,declared-ai,ai-assisted
+brian-cortechs/slicer-plugin,vibe-coding language:python stars:>=1,1,136,2026-05-13,2026-08-05,https://github.com/brian-cortechs/slicer-plugin,False,only 2 py files,ai-assisted
+braindesmond5-boop/halfbaked,vibe-coding language:python stars:>=1,1,395,2026-07-30,2026-08-05,https://github.com/braindesmond5-boop/halfbaked,True,no-readme-declaration,ai-assisted
+ZHANGxianSHENGshishen/m3u8-downloader-advance,vibe-coding language:python stars:>=1,1,30,2026-08-05,2026-08-05,https://github.com/ZHANGxianSHENGshishen/m3u8-downloader-advance,False,"size 30KB outside [50,50000]",ai-assisted
+kaelan0528/Salary-Cat-Vibe,vibe-coding language:python stars:>=1,2,714,2026-08-04,2026-08-05,https://github.com/kaelan0528/Salary-Cat-Vibe,False,only 3 py files,ai-assisted
+akaihola/jazz-calendar-finland,vibe-coded language:python stars:>=1,1,13243,2026-04-27,2026-08-23,https://github.com/akaihola/jazz-calendar-finland,True,declared-ai,ai-assisted
+rakeshmalik91/animepahe-downloader,vibe-coded language:python stars:>=1,1,268,2026-06-03,2026-08-23,https://github.com/rakeshmalik91/animepahe-downloader,True,no-readme-declaration,ai-assisted
+leejeonghun/dos-game-music-archive,vibe-coded language:python stars:>=1,1,746,2026-08-14,2026-08-23,https://github.com/leejeonghun/dos-game-music-archive,True,no-readme-declaration,ai-assisted
+chamilto0516/meeting-recorder,vibe-coded language:python stars:>=1,1,179,2026-07-30,2026-08-21,https://github.com/chamilto0516/meeting-recorder,True,no-readme-declaration,ai-assisted
+netsecid/tinysiem,vibe-coded language:python stars:>=1,2,1389,2026-05-12,2026-08-22,https://github.com/netsecid/tinysiem,True,no-readme-declaration,ai-assisted
+omerk-c/Clash-Royale-Clan-Bot,vibe-coded language:python stars:>=1,1,140,2026-04-11,2026-08-21,https://github.com/omerk-c/Clash-Royale-Clan-Bot,True,no-readme-declaration,ai-assisted
+weiimg/sipbar,vibe-coded language:python stars:>=1,1,12775,2026-08-16,2026-08-20,https://github.com/weiimg/sipbar,True,no-readme-declaration,ai-assisted
+doteyeso-ops/mcp-server-vibes-coded,vibe-coded language:python stars:>=1,3,103,2026-07-19,2026-08-19,https://github.com/doteyeso-ops/mcp-server-vibes-coded,False,only 2 py files,ai-assisted
+dnk8n/awesome-vibe-coded-playlists,vibe-coded language:python stars:>=1,2,1361,2026-07-17,2026-08-18,https://github.com/dnk8n/awesome-vibe-coded-playlists,False,docs/prompt-heavy (35 md/yaml vs 22 py),ai-assisted
+Luisacaotica/ComfyUI-MiniMaxH3Mod,vibe-coded language:python stars:>=1,63,23586,2026-08-15,2026-08-17,https://github.com/Luisacaotica/ComfyUI-MiniMaxH3Mod,True,no-readme-declaration,ai-assisted
+TigreGotico/espyak,vibe-coded language:python stars:>=1,2,9430,2026-06-19,2026-08-16,https://github.com/TigreGotico/espyak,True,no-readme-declaration,ai-assisted
+coding-arnav66/Vibe-coded-Projects,vibe-coded language:python stars:>=1,1,24,2026-08-15,2026-08-15,https://github.com/coding-arnav66/Vibe-coded-Projects,False,"size 24KB outside [50,50000]",ai-assisted
+BerguzarMuhendis/KatipCelebi,vibe-coded language:python stars:>=1,1,573,2026-07-11,2026-08-14,https://github.com/BerguzarMuhendis/KatipCelebi,True,no-readme-declaration,ai-assisted
+KingBenny101/kbdex,vibe-coded language:python stars:>=1,1,132,2026-06-08,2026-08-14,https://github.com/KingBenny101/kbdex,True,no-readme-declaration,ai-assisted
+derliebemarcus/homeassistant_teltonika_rms,vibe-coded language:python stars:>=1,3,1154,2026-03-11,2026-08-10,https://github.com/derliebemarcus/homeassistant_teltonika_rms,True,no-readme-declaration,ai-assisted
+jameshiew/as15,vibe-coded language:python stars:>=1,1,768,2026-08-03,2026-08-06,https://github.com/jameshiew/as15,True,no-readme-declaration,ai-assisted
+LeMetadatarr/metadatarr,vibe-coded language:python stars:>=1,2,1683,2026-04-30,2026-08-05,https://github.com/LeMetadatarr/metadatarr,True,no-readme-declaration,ai-assisted
+desk-dot/weibo-scraper,vibe-coded language:python stars:>=1,1,62,2026-08-05,2026-08-05,https://github.com/desk-dot/weibo-scraper,True,no-readme-declaration,ai-assisted
+pavel444-byte/WTFCode,vibe-coded language:python stars:>=1,2,605,2026-01-17,2026-08-05,https://github.com/pavel444-byte/WTFCode,False,docs/prompt-heavy (9 md/yaml vs 6 py),ai-assisted
+DorianLin-dee/Code-Butler,vibe-coded language:python stars:>=1,1,286,2026-06-12,2026-08-05,https://github.com/DorianLin-dee/Code-Butler,True,no-readme-declaration,ai-assisted
+tonightisverytired/agent_dna_momery,vibe-coded language:python stars:>=1,4,264,2026-08-02,2026-08-05,https://github.com/tonightisverytired/agent_dna_momery,True,no-readme-declaration,ai-assisted
+haoran3160-afk/VibeSpec_Gate-skill,vibe-coded language:python stars:>=1,2,1294,2026-07-08,2026-08-05,https://github.com/haoran3160-afk/VibeSpec_Gate-skill,False,docs/prompt-heavy (214 md/yaml vs 108 py),ai-assisted
+super-ZXQ/vibecheck-ai,vibe-coded language:python stars:>=1,1,1288,2026-07-24,2026-08-05,https://github.com/super-ZXQ/vibecheck-ai,True,no-readme-declaration,ai-assisted
+cornguo/airbox_ha,vibe-coded language:python stars:>=1,1,59,2026-06-18,2026-08-05,https://github.com/cornguo/airbox_ha,True,no-readme-declaration,ai-assisted
+dotsystemsdevs/wolf-of-vibe-street,vibe-coded language:python stars:>=1,1,3855,2026-04-25,2026-08-05,https://github.com/dotsystemsdevs/wolf-of-vibe-street,True,declared-ai,ai-assisted
+Vivekpatil200320/PyCursor--Self-Healing-Hybrid-Coding-Agent,vibe-coded language:python stars:>=1,1,21,2026-03-13,2026-08-11,https://github.com/Vivekpatil200320/PyCursor--Self-Healing-Hybrid-Coding-Agent,False,"size 21KB outside [50,50000]",ai-assisted
+super-xinz/GrowthAgent,vibe-coded language:python stars:>=1,5,7638,2026-07-11,2026-08-04,https://github.com/super-xinz/GrowthAgent,True,no-readme-declaration,ai-assisted
+nikhildevshatwar/voicetype,vibe-coded language:python stars:>=1,1,34,2026-08-04,2026-08-04,https://github.com/nikhildevshatwar/voicetype,False,"size 34KB outside [50,50000]",ai-assisted
+alphaparkinc/genpark-browser-vibe-coding-sandbox-executor-skill,vibe-coded language:python stars:>=1,9,3,2026-08-04,2026-08-04,https://github.com/alphaparkinc/genpark-browser-vibe-coding-sandbox-executor-skill,False,"size 3KB outside [50,50000]",ai-assisted
+JJ-9000/note-kit,vibe-coded language:python stars:>=1,1,4726,2026-06-10,2026-08-04,https://github.com/JJ-9000/note-kit,False,docs/prompt-heavy (50 md/yaml vs 42 py),ai-assisted
+arvidma/dataclasses,vibe-coded language:python stars:>=1,1,560,2026-02-22,2026-08-03,https://github.com/arvidma/dataclasses,False,only 2 py files,ai-assisted
+Coolver/home-assistant-vibecode-agent,vibe-coded language:python stars:>=1,616,28069,2025-11-07,2026-08-03,https://github.com/Coolver/home-assistant-vibecode-agent,True,no-readme-declaration,ai-assisted
+zwq871482439/VibeRunOut,vibe-coded language:python stars:>=1,2,2938,2026-07-17,2026-08-03,https://github.com/zwq871482439/VibeRunOut,False,only 2 py files,ai-assisted
+shwars/shwarsico-skills,vibe-coded language:python stars:>=1,1,44,2026-06-02,2026-08-03,https://github.com/shwars/shwarsico-skills,False,"size 44KB outside [50,50000]",ai-assisted
+OrangeMoon-hub/Excel_combiner,vibe-coded language:python stars:>=1,1,142,2026-06-14,2026-08-03,https://github.com/OrangeMoon-hub/Excel_combiner,False,only 4 py files,ai-assisted
+XinxinLi2004/edutrack,vibe-coded language:python stars:>=1,1,1160,2026-07-08,2026-08-03,https://github.com/XinxinLi2004/edutrack,False,only 3 py files,ai-assisted
+Bricesodini/vibebackbone,vibe-coded language:python stars:>=1,1,4513,2026-05-16,2026-08-03,https://github.com/Bricesodini/vibebackbone,False,docs/prompt-heavy (1291 md/yaml vs 92 py),ai-assisted
+NickyStaffs29/Anti-Vibe-Check,vibe-coded language:python stars:>=1,1,170,2026-08-01,2026-08-02,https://github.com/NickyStaffs29/Anti-Vibe-Check,False,only 1 py files,ai-assisted
+MarkMcCaskey/decomp-scripts,vibe-coded language:python stars:>=1,1,27,2026-08-02,2026-08-02,https://github.com/MarkMcCaskey/decomp-scripts,False,"size 27KB outside [50,50000]",ai-assisted
+Dashan66163/dasm,vibe-coded language:python stars:>=1,5,1107,2026-07-25,2026-08-02,https://github.com/Dashan66163/dasm,True,no-readme-declaration,ai-assisted
+Halo1211/CYOA-Downloader,vibe-coded language:python stars:>=1,2,2535,2026-05-15,2026-08-08,https://github.com/Halo1211/CYOA-Downloader,True,no-readme-declaration,ai-assisted
+yedinrumba-eng/Secure-Vibe,vibe-coded language:python stars:>=1,1,1173,2026-08-01,2026-08-02,https://github.com/yedinrumba-eng/Secure-Vibe,False,only 2 py files,ai-assisted
+sunyuan789/tplink-terminal-monitor,vibe-coded language:python stars:>=1,1,216,2026-08-02,2026-08-02,https://github.com/sunyuan789/tplink-terminal-monitor,False,only 3 py files,ai-assisted
+hrabanazviking/Mythic_Agent_Coder_CLI,vibe-coded language:python stars:>=1,2,104416,2026-06-05,2026-08-02,https://github.com/hrabanazviking/Mythic_Agent_Coder_CLI,False,"size 104416KB outside [50,50000]",ai-assisted
+VladimirCro/ai-agents-vibecoding-capstone,vibe-coded language:python stars:>=1,1,515,2026-06-20,2026-08-01,https://github.com/VladimirCro/ai-agents-vibecoding-capstone,True,no-readme-declaration,ai-assisted
+vensires/genfi,vibe-coded language:python stars:>=1,2,42,2026-05-03,2026-08-01,https://github.com/vensires/genfi,False,"size 42KB outside [50,50000]",ai-assisted
+acoliver/vibetools,vibe-coded language:python stars:>=1,34,3368,2025-04-25,2026-08-01,https://github.com/acoliver/vibetools,False,docs/prompt-heavy (84 md/yaml vs 9 py),ai-assisted
+sejalb2711-a11y/ecostasis-capstone,vibe-coded language:python stars:>=1,1,340,2026-07-05,2026-08-01,https://github.com/sejalb2711-a11y/ecostasis-capstone,False,only 2 py files,ai-assisted
+sploutchy/ePepper,vibe-coded language:python stars:>=1,1,38709,2026-05-08,2026-08-14,https://github.com/sploutchy/ePepper,True,no-readme-declaration,ai-assisted
+brekov/ClawHermes,vibe-coded language:python stars:>=1,1,2313,2026-06-16,2026-07-31,https://github.com/brekov/ClawHermes,True,no-readme-declaration,ai-assisted
+shS83/Psytris,vibe-coded language:python stars:>=1,1,24323,2025-09-26,2026-07-31,https://github.com/shS83/Psytris,False,only 1 py files,ai-assisted
+KaliGASJ/VibeDictate,vibe-coded language:python stars:>=1,1,43,2026-07-29,2026-07-31,https://github.com/KaliGASJ/VibeDictate,False,"size 43KB outside [50,50000]",ai-assisted
+wuqijin442/vibeRepository,vibe-coded language:python stars:>=1,1,676,2026-07-04,2026-07-30,https://github.com/wuqijin442/vibeRepository,False,docs/prompt-heavy (514 md/yaml vs 21 py),ai-assisted
+TenStrip/10S-Comfy-nodes,vibe-coded language:python stars:>=1,244,792,2026-04-30,2026-07-30,https://github.com/TenStrip/10S-Comfy-nodes,True,no-readme-declaration,ai-assisted
+stevologic/spare-cycles,vibe-coded language:python stars:>=1,1,381,2026-07-23,2026-07-30,https://github.com/stevologic/spare-cycles,True,no-readme-declaration,ai-assisted
+Eric-huang799/AgentMind,vibe-coded language:python stars:>=1,1,121,2026-07-29,2026-07-30,https://github.com/Eric-huang799/AgentMind,False,docs/prompt-heavy (46 md/yaml vs 8 py),ai-assisted
+wxsonz/w_examshelp,vibe-coded language:python stars:>=1,2,436,2026-07-29,2026-07-30,https://github.com/wxsonz/w_examshelp,False,docs/prompt-heavy (226 md/yaml vs 22 py),ai-assisted
+David-Yang258/FretBoard-Trainer,vibe-coded language:python stars:>=1,14,283,2026-07-23,2026-07-30,https://github.com/David-Yang258/FretBoard-Trainer,True,no-readme-declaration,ai-assisted
+coderreza/fake-asm,vibe-coded language:python stars:>=1,1,8,2026-07-30,2026-07-30,https://github.com/coderreza/fake-asm,False,"size 8KB outside [50,50000]",ai-assisted
+AI-Colleagues/orcheo,vibe-coded language:python stars:>=1,14,13587,2025-05-10,2026-07-30,https://github.com/AI-Colleagues/orcheo,True,declared-ai,ai-assisted
+leoshcn/meetphant,vibe-coded language:python stars:>=1,2,9997,2026-07-25,2026-07-30,https://github.com/leoshcn/meetphant,False,docs/prompt-heavy (161 md/yaml vs 31 py),ai-assisted
+yuri8822/Semantic_Decompiler,vibe-coded language:python stars:>=1,1,726,2026-06-08,2026-07-29,https://github.com/yuri8822/Semantic_Decompiler,True,no-readme-declaration,ai-assisted
+oksure/vibecoding,vibe-coded language:python stars:>=1,3,270,2026-07-12,2026-07-29,https://github.com/oksure/vibecoding,False,only 1 py files,ai-assisted
+EnYang310/EnYang_VibeCoding,vibe-coded language:python stars:>=1,2,3371,2026-05-07,2026-07-29,https://github.com/EnYang310/EnYang_VibeCoding,True,no-readme-declaration,ai-assisted
+YCLiuge/Stock_Trading_Analyser,vibe-coded language:python stars:>=1,1,624,2026-05-11,2026-07-28,https://github.com/YCLiuge/Stock_Trading_Analyser,True,no-readme-declaration,ai-assisted
+ammdevl/vibe-match,vibe-coded language:python stars:>=1,8,1448,2026-06-21,2026-07-28,https://github.com/ammdevl/vibe-match,False,docs/prompt-heavy (76 md/yaml vs 23 py),ai-assisted
+zerosignal666/yangshipin-similar-account-analyzer,vibe-coded language:python stars:>=1,1,78,2026-07-22,2026-07-28,https://github.com/zerosignal666/yangshipin-similar-account-analyzer,True,no-readme-declaration,ai-assisted
+dakota01372-cmd/TigerMemory_PUBLIC,vibe-coded language:python stars:>=1,1,86,2026-07-12,2026-07-27,https://github.com/dakota01372-cmd/TigerMemory_PUBLIC,False,docs/prompt-heavy (15 md/yaml vs 11 py),ai-assisted
+tunguyenn99/engineering-with-xommates,vibe-coded language:python stars:>=1,3,20,2026-07-27,2026-07-27,https://github.com/tunguyenn99/engineering-with-xommates,False,"size 20KB outside [50,50000]",ai-assisted
+strands-agents/mcp-server,vibe-coded language:python stars:>=1,292,55,2025-05-14,2026-07-27,https://github.com/strands-agents/mcp-server,True,no-readme-declaration,ai-assisted
+Bernhard-Finke/GUBS_agent,vibe-coded language:python stars:>=1,1,3189,2026-06-12,2026-07-27,https://github.com/Bernhard-Finke/GUBS_agent,False,only 4 py files,ai-assisted
+Yanqs2000/Agent,vibe-coded language:python stars:>=1,1,197,2026-04-28,2026-07-27,https://github.com/Yanqs2000/Agent,False,only 2 py files,ai-assisted
+jrdeng93/CreditCardMaster,vibe-coded language:python stars:>=1,3,905,2026-07-01,2026-07-27,https://github.com/jrdeng93/CreditCardMaster,True,no-readme-declaration,ai-assisted
+ostiosmosisperosisjones/SlopCAD,vibe-coded language:python stars:>=1,3,955,2026-04-20,2026-07-27,https://github.com/ostiosmosisperosisjones/SlopCAD,True,no-readme-declaration,ai-assisted
+popeye05/Rait-Chess,vibe-coded language:python stars:>=1,1,382,2025-08-31,2026-07-27,https://github.com/popeye05/Rait-Chess,True,no-readme-declaration,ai-assisted
+1to3for5vi7ate9x/multi-agent-orchestrator,vibe-coded language:python stars:>=1,1,369,2026-07-24,2026-07-27,https://github.com/1to3for5vi7ate9x/multi-agent-orchestrator,True,no-readme-declaration,ai-assisted
+sartaj1995/stock-screener,vibe-coded language:python stars:>=1,1,310,2026-07-11,2026-07-26,https://github.com/sartaj1995/stock-screener,False,only 1 py files,ai-assisted
+okokelly/agent-loop-viz,vibe-coded language:python stars:>=1,1,72,2026-07-17,2026-07-26,https://github.com/okokelly/agent-loop-viz,False,only 1 py files,ai-assisted
+anyeduke11/anti-vibecoding,vibe-coded language:python stars:>=1,1,33,2026-07-26,2026-07-26,https://github.com/anyeduke11/anti-vibecoding,False,"size 33KB outside [50,50000]",ai-assisted
+MarkMcCaskey/decomp-search,vibe-coded language:python stars:>=1,3,56,2026-07-14,2026-07-25,https://github.com/MarkMcCaskey/decomp-search,True,no-readme-declaration,ai-assisted
+AnupamaCodippily/lockedindev,vibe-coded language:python stars:>=1,2,92,2026-07-25,2026-07-25,https://github.com/AnupamaCodippily/lockedindev,True,no-readme-declaration,ai-assisted
+koenvanwijk/mistral-vibe-ralph,vibe-coded language:python stars:>=1,1,363,2026-07-14,2026-07-25,https://github.com/koenvanwijk/mistral-vibe-ralph,True,no-readme-declaration,ai-assisted
+faborsky/nanobonana-agent-public,vibe-coded language:python stars:>=1,1,24,2026-03-04,2026-07-25,https://github.com/faborsky/nanobonana-agent-public,False,"size 24KB outside [50,50000]",ai-assisted
+arbitrary-mooncake/A-Share-Intelligent-Investment-Advisory-Project-Based-on-LLM,vibe-coded language:python stars:>=1,6,2397,2026-07-06,2026-07-25,https://github.com/arbitrary-mooncake/A-Share-Intelligent-Investment-Advisory-Project-Based-on-LLM,True,no-readme-declaration,ai-assisted
+MaximeFARRE/github-project-template,vibe-coded language:python stars:>=1,1,180,2026-04-22,2026-07-25,https://github.com/MaximeFARRE/github-project-template,False,only 2 py files,ai-assisted
+khadikul/torlyx-cli,vibe-coded language:python stars:>=1,1,446,2026-07-24,2026-07-24,https://github.com/khadikul/torlyx-cli,True,no-readme-declaration,ai-assisted
+stanleybak/vibecheck-nn,vibe-coded language:python stars:>=1,2,4978,2026-03-09,2026-07-24,https://github.com/stanleybak/vibecheck-nn,True,no-readme-declaration,ai-assisted
+salmantais961-boop/ArtistSourceGrabber,vibe-coded language:python stars:>=1,11,848,2026-07-14,2026-07-24,https://github.com/salmantais961-boop/ArtistSourceGrabber,True,no-readme-declaration,ai-assisted
+alphaparkinc/genpark-ai-vibe-coder-refactoring-engine-skill,vibe-coded language:python stars:>=1,9,4,2026-07-24,2026-07-24,https://github.com/alphaparkinc/genpark-ai-vibe-coder-refactoring-engine-skill,False,"size 4KB outside [50,50000]",ai-assisted
+testerdump/vibe_coding,vibe-coded language:python stars:>=1,1,7,2026-07-22,2026-07-24,https://github.com/testerdump/vibe_coding,False,"size 7KB outside [50,50000]",ai-assisted
+Ayor1337/SeiyuuGuessing,vibe-coded language:python stars:>=1,1,10609,2026-07-23,2026-07-24,https://github.com/Ayor1337/SeiyuuGuessing,True,no-readme-declaration,ai-assisted
+akarshmishra001/graph.skill,vibe-coded language:python stars:>=1,2,135,2026-02-26,2026-07-24,https://github.com/akarshmishra001/graph.skill,False,docs/prompt-heavy (10 md/yaml vs 8 py),ai-assisted
+dougunduzii/Skill-Icons-Mirror,vibe-coded language:python stars:>=1,1,842,2026-07-24,2026-07-24,https://github.com/dougunduzii/Skill-Icons-Mirror,True,no-readme-declaration,ai-assisted
+philzook58/sail_graham,vibe-coded language:python stars:>=1,3,98,2026-07-24,2026-07-24,https://github.com/philzook58/sail_graham,True,no-readme-declaration,ai-assisted
+Maouv/graps,vibe-coded language:python stars:>=1,1,731,2026-06-27,2026-07-23,https://github.com/Maouv/graps,False,only 2 py files,ai-assisted
+shing26/aircontrol-agent,vibe-coded language:python stars:>=1,1,52,2026-07-10,2026-07-23,https://github.com/shing26/aircontrol-agent,True,declared-ai,ai-assisted
+ruaruarua111/3dgs_paper_research_agent,vibe-coded language:python stars:>=1,3,820,2026-07-08,2026-07-23,https://github.com/ruaruarua111/3dgs_paper_research_agent,True,no-readme-declaration,ai-assisted
+daleas0120/time_domain_modal_estimation,vibe-coded language:python stars:>=1,1,792,2026-02-19,2026-07-23,https://github.com/daleas0120/time_domain_modal_estimation,True,no-readme-declaration,ai-assisted
+kirineko/deepy,vibe-coded language:python stars:>=1,12,8842,2026-05-09,2026-07-23,https://github.com/kirineko/deepy,False,docs/prompt-heavy (607 md/yaml vs 261 py),ai-assisted
+buffer121328/assistant,vibe-coded language:python stars:>=1,13,1730,2026-06-01,2026-07-22,https://github.com/buffer121328/assistant,True,no-readme-declaration,ai-assisted
+davidcervinka/vibe-editing,vibe-coded language:python stars:>=1,6,8227,2026-07-22,2026-07-22,https://github.com/davidcervinka/vibe-editing,False,docs/prompt-heavy (9 md/yaml vs 6 py),ai-assisted
+JensKohl/Sonic2_ReinforcementLearning,vibe-coded language:python stars:>=1,2,109590,2026-02-13,2026-07-22,https://github.com/JensKohl/Sonic2_ReinforcementLearning,False,"size 109590KB outside [50,50000]",ai-assisted
+fangvv/PDF-switcher,vibe-coded language:python stars:>=1,1,43,2026-06-12,2026-07-22,https://github.com/fangvv/PDF-switcher,False,"size 43KB outside [50,50000]",ai-assisted
+ANYIXUA/RAG,vibe-coded language:python stars:>=1,1,426,2026-05-27,2026-07-22,https://github.com/ANYIXUA/RAG,True,no-readme-declaration,ai-assisted
+tertiarycourses/C179-AI-Vibe-Coding-for-Python-Applications,vibe-coded language:python stars:>=1,1,5493,2026-07-21,2026-07-21,https://github.com/tertiarycourses/C179-AI-Vibe-Coding-for-Python-Applications,True,no-readme-declaration,ai-assisted
+tzuV/SKILLS4VIBE,vibe-coded language:python stars:>=1,2,149,2026-05-28,2026-07-21,https://github.com/tzuV/SKILLS4VIBE,False,only 3 py files,ai-assisted
+xgxgnpu/Physics-informed-vibe-coding,vibe-coded language:python stars:>=1,118,153269,2026-03-14,2026-07-21,https://github.com/xgxgnpu/Physics-informed-vibe-coding,False,"size 153269KB outside [50,50000]",ai-assisted
+caue96/AI-Job-Agent,vibe-coded language:python stars:>=1,2,278,2026-07-12,2026-07-21,https://github.com/caue96/AI-Job-Agent,True,no-readme-declaration,ai-assisted
+Nanqipro/Vibe-Harness,vibe-coded language:python stars:>=1,1,30,2026-07-21,2026-07-21,https://github.com/Nanqipro/Vibe-Harness,False,"size 30KB outside [50,50000]",ai-assisted
+kidboy-man/vibe-engineering,vibe-coded language:python stars:>=1,2,417,2026-05-18,2026-07-21,https://github.com/kidboy-man/vibe-engineering,False,docs/prompt-heavy (86 md/yaml vs 34 py),ai-assisted
+0xWelt/TradeMasterOnline,vibe-coded language:python stars:>=1,1,1802,2025-07-11,2026-07-21,https://github.com/0xWelt/TradeMasterOnline,True,no-readme-declaration,ai-assisted
+tertiarycourses/TGS-2019504591-Build-and-Deploy-Python-Applications-with-Vibe-Coding,vibe-coded language:python stars:>=1,1,3452,2026-07-19,2026-07-21,https://github.com/tertiarycourses/TGS-2019504591-Build-and-Deploy-Python-Applications-with-Vibe-Coding,True,no-readme-declaration,ai-assisted
+cloudy019/code-doc-cleanup,vibe-coded language:python stars:>=1,1,24,2026-07-20,2026-07-21,https://github.com/cloudy019/code-doc-cleanup,False,"size 24KB outside [50,50000]",ai-assisted
+rudrasatani13/vibe-learn,vibe-coded language:python stars:>=1,2,259,2026-06-24,2026-07-20,https://github.com/rudrasatani13/vibe-learn,False,only 2 py files,ai-assisted
+afly007/distill,vibe-coded language:python stars:>=1,2,296,2026-05-07,2026-07-20,https://github.com/afly007/distill,False,docs/prompt-heavy (12 md/yaml vs 7 py),ai-assisted
+yaolsuper/superCoder,vibe-coded language:python stars:>=1,1,482,2026-06-25,2026-07-20,https://github.com/yaolsuper/superCoder,False,docs/prompt-heavy (122 md/yaml vs 20 py),ai-assisted
+DaSE-VibeCoding/SummerCamp-2026,vibe-coded language:python stars:>=1,9,1400,2026-07-13,2026-07-20,https://github.com/DaSE-VibeCoding/SummerCamp-2026,False,only 2 py files,ai-assisted
+kevin-earl-denny/vibe-code-boilerplate,vibe-coded language:python stars:>=1,1,1459,2026-02-02,2026-07-20,https://github.com/kevin-earl-denny/vibe-code-boilerplate,True,no-readme-declaration,ai-assisted
+kalaspuffar/honcho-deriver-model,vibe-coded language:python stars:>=1,1,15,2026-07-20,2026-07-20,https://github.com/kalaspuffar/honcho-deriver-model,False,"size 15KB outside [50,50000]",ai-assisted
+Mybigwang/project-agent,vibe-coded language:python stars:>=1,2,709,2026-04-07,2026-07-20,https://github.com/Mybigwang/project-agent,True,no-readme-declaration,ai-assisted
+alphaparkinc/genpark-vibe-coder-intent-builder-skill,vibe-coded language:python stars:>=1,9,3,2026-07-20,2026-07-20,https://github.com/alphaparkinc/genpark-vibe-coder-intent-builder-skill,False,"size 3KB outside [50,50000]",ai-assisted
+Mapukruktus/Ultimate-serial-plotter,vibe-coded language:python stars:>=1,1,64,2026-07-19,2026-07-19,https://github.com/Mapukruktus/Ultimate-serial-plotter,False,only 2 py files,ai-assisted
+bubble-coder/Review_Writer,vibe-coded language:python stars:>=1,1,317,2026-07-19,2026-07-19,https://github.com/bubble-coder/Review_Writer,True,no-readme-declaration,ai-assisted
+twk0672005/sentence-to-site,vibe-coded language:python stars:>=1,5,1005,2026-07-18,2026-07-19,https://github.com/twk0672005/sentence-to-site,False,docs/prompt-heavy (36 md/yaml vs 7 py),ai-assisted
+Songfored/CostWeave-Vibe-Coding-,vibe-coded language:python stars:>=1,1,199,2026-07-16,2026-07-19,https://github.com/Songfored/CostWeave-Vibe-Coding-,True,no-readme-declaration,ai-assisted
+SamuelPerezCO/Vibe-Arcade-,vibe-coded language:python stars:>=1,1,12,2026-07-18,2026-07-18,https://github.com/SamuelPerezCO/Vibe-Arcade-,False,"size 12KB outside [50,50000]",ai-assisted
+Zzzxzz2/Shijian,vibe-coded language:python stars:>=1,1,443,2026-07-13,2026-07-18,https://github.com/Zzzxzz2/Shijian,True,no-readme-declaration,ai-assisted
+parthispro/A.R.I.A-Accessibility-Routing-Intelligent-Administration-FIFA-World-Cup-2026,vibe-coded language:python stars:>=1,1,707,2026-07-18,2026-07-18,https://github.com/parthispro/A.R.I.A-Accessibility-Routing-Intelligent-Administration-FIFA-World-Cup-2026,True,no-readme-declaration,ai-assisted
+dinoel/csp-scanner,vibe-coded language:python stars:>=1,1,350,2026-05-05,2026-07-18,https://github.com/dinoel/csp-scanner,True,no-readme-declaration,ai-assisted
+charles-azam/CLIArena,vibe-coded language:python stars:>=1,14,3778,2026-01-05,2026-07-18,https://github.com/charles-azam/CLIArena,False,docs/prompt-heavy (37 md/yaml vs 26 py),ai-assisted
+lbarceloss/sniffer-with-mcp,vibe-coded language:python stars:>=1,3,1126,2026-07-18,2026-07-18,https://github.com/lbarceloss/sniffer-with-mcp,False,only 3 py files,ai-assisted
+RentHubMain/renthub-docs,vibe-coded language:python stars:>=1,1,5622,2026-04-14,2026-07-17,https://github.com/RentHubMain/renthub-docs,False,only 3 py files,ai-assisted
+ohjonathan/Project-Ontos,vibe-coded language:python stars:>=1,1,8664,2025-11-22,2026-07-17,https://github.com/ohjonathan/Project-Ontos,False,docs/prompt-heavy (1144 md/yaml vs 259 py),ai-assisted
+13843943136/vluv,vibe-coded language:python stars:>=1,1,292,2026-07-14,2026-07-17,https://github.com/13843943136/vluv,True,no-readme-declaration,ai-assisted
+sausi-7/a0-angular,vibe-coded language:python stars:>=1,3,1723,2026-04-17,2026-07-17,https://github.com/sausi-7/a0-angular,False,docs/prompt-heavy (27 md/yaml vs 9 py),ai-assisted
+asweigart/vibe_arcade,vibe-coded language:python stars:>=1,1,203,2026-07-16,2026-07-16,https://github.com/asweigart/vibe_arcade,True,no-readme-declaration,ai-assisted
+itsvimalm/enterprise-standards-ledger,vibe-coded language:python stars:>=1,1,12,2026-07-16,2026-07-16,https://github.com/itsvimalm/enterprise-standards-ledger,False,"size 12KB outside [50,50000]",ai-assisted
+makoMakoGo/novel-proofer,vibe-coded language:python stars:>=1,11,1847,2025-12-31,2026-07-16,https://github.com/makoMakoGo/novel-proofer,True,no-readme-declaration,ai-assisted
+jdeworks/elemental-surprise,vibe-coded language:python stars:>=1,1,35650,2026-03-03,2026-07-16,https://github.com/jdeworks/elemental-surprise,False,docs/prompt-heavy (29 md/yaml vs 26 py),ai-assisted
+404-brittle/sd-webui-traintrain,vibe-coded language:python stars:>=1,2,426,2026-03-20,2026-07-16,https://github.com/404-brittle/sd-webui-traintrain,True,no-readme-declaration,ai-assisted
+ok-helloworld/vibe-csa,vibe-coded language:python stars:>=1,53,2324,2026-05-20,2026-07-16,https://github.com/ok-helloworld/vibe-csa,False,docs/prompt-heavy (104 md/yaml vs 21 py),ai-assisted
+huangwb8/VibeNotification,vibe-coded language:python stars:>=1,3,402,2025-12-20,2026-07-15,https://github.com/huangwb8/VibeNotification,True,declared-ai,ai-assisted
+Grady10086/vibecode-kit,vibe-coded language:python stars:>=1,5,2890,2026-07-13,2026-07-15,https://github.com/Grady10086/vibecode-kit,True,no-readme-declaration,ai-assisted
+tuya/TuyaOpen-dev-skills,vibe-coded language:python stars:>=1,13,165,2026-03-24,2026-07-15,https://github.com/tuya/TuyaOpen-dev-skills,False,docs/prompt-heavy (20 md/yaml vs 7 py),ai-assisted
+roboco-io/semiconductor-design,vibe-coded language:python stars:>=1,1,10024,2026-04-22,2026-07-14,https://github.com/roboco-io/semiconductor-design,False,docs/prompt-heavy (135 md/yaml vs 93 py),ai-assisted
+wordswords/pdf-isbn-renamer,vibe-coded language:python stars:>=1,1,14,2026-07-14,2026-07-14,https://github.com/wordswords/pdf-isbn-renamer,False,"size 14KB outside [50,50000]",ai-assisted
+MSameer0/ShortForge,vibe-coded language:python stars:>=1,4,44,2026-07-14,2026-07-14,https://github.com/MSameer0/ShortForge,False,"size 44KB outside [50,50000]",ai-assisted
+wing1016/vibe_try,vibe-coded language:python stars:>=1,1,28,2026-07-12,2026-07-14,https://github.com/wing1016/vibe_try,False,"size 28KB outside [50,50000]",ai-assisted
+ojasvee199609/databricks-medallion-pipeline,"""built with cursor"" language:python",0,2155,2026-08-09,2026-08-13,https://github.com/ojasvee199609/databricks-medallion-pipeline,False,too few stars (likely spam/empty),ai-assisted
+ztothez/Artificial-Intelligence-Never-Sleeps,"""built with cursor"" language:python",0,88116,2026-07-21,2026-08-01,https://github.com/ztothez/Artificial-Intelligence-Never-Sleeps,False,"size 88116KB outside [50,50000]",ai-assisted
+ekulkisnek/wapf-llm-wiki,"""built with cursor"" language:python",0,12599,2026-05-06,2026-07-28,https://github.com/ekulkisnek/wapf-llm-wiki,False,too few stars (likely spam/empty),ai-assisted
+rbarok/wanderbricks-dataengineering-app,"""built with cursor"" language:python",0,1384,2026-07-24,2026-07-24,https://github.com/rbarok/wanderbricks-dataengineering-app,False,too few stars (likely spam/empty),ai-assisted
+weiserTelysta/telysta_diachron_engine,"""built with cursor"" language:python",1,2168,2026-04-07,2026-07-22,https://github.com/weiserTelysta/telysta_diachron_engine,True,no-readme-declaration,ai-assisted
+rakhmonovquvonchbek/fern,"""built with cursor"" language:python",0,31,2026-06-21,2026-06-21,https://github.com/rakhmonovquvonchbek/fern,False,"size 31KB outside [50,50000]",ai-assisted
+getsendy/dungeon-runner,"""built with cursor"" language:python",1,46,2026-05-28,2026-05-28,https://github.com/getsendy/dungeon-runner,False,"size 46KB outside [50,50000]",ai-assisted
+BlueSkyyii/agent-inspiration-generator,"""built with cursor"" language:python",0,1,2026-05-28,2026-05-28,https://github.com/BlueSkyyii/agent-inspiration-generator,False,"size 1KB outside [50,50000]",ai-assisted
+bdmckean/budget_cursor,"""built with cursor"" language:python",0,574,2025-11-07,2026-05-11,https://github.com/bdmckean/budget_cursor,False,too few stars (likely spam/empty),ai-assisted
+sanjayyssharma/RAG2,"""built with cursor"" language:python",0,71,2026-05-10,2026-05-10,https://github.com/sanjayyssharma/RAG2,False,too few stars (likely spam/empty),ai-assisted
+kimava/ps-shippability-prototype,"""built with cursor"" language:python",0,19,2026-05-04,2026-05-10,https://github.com/kimava/ps-shippability-prototype,False,"size 19KB outside [50,50000]",ai-assisted
+shivmishra-coder/Stree-AI-Project,"""built with cursor"" language:python",0,138,2026-04-30,2026-05-01,https://github.com/shivmishra-coder/Stree-AI-Project,False,too few stars (likely spam/empty),ai-assisted
+shannonldaly/music-copilot,"""built with cursor"" language:python",1,489,2026-03-25,2026-04-12,https://github.com/shannonldaly/music-copilot,True,no-readme-declaration,ai-assisted
+shirley-goose/TECHIN510_GIX_Reminder,"""built with cursor"" language:python",0,27,2026-04-01,2026-04-11,https://github.com/shirley-goose/TECHIN510_GIX_Reminder,False,"size 27KB outside [50,50000]",ai-assisted
+SongyingLi666/AI-Vision-to-Prompt,"""built with cursor"" language:python",1,27,2026-04-04,2026-04-04,https://github.com/SongyingLi666/AI-Vision-to-Prompt,False,"size 27KB outside [50,50000]",ai-assisted
+Chip-jpg/Trading-bot-V2---Cursor,"""built with cursor"" language:python",0,23,2026-03-30,2026-03-30,https://github.com/Chip-jpg/Trading-bot-V2---Cursor,False,"size 23KB outside [50,50000]",ai-assisted
+dattu-marneni-sp/cursor-git-projects,"""built with cursor"" language:python",0,5,2026-02-16,2026-03-13,https://github.com/dattu-marneni-sp/cursor-git-projects,False,"size 5KB outside [50,50000]",ai-assisted
+ATNT101/Crypto-Analyzer,"""built with cursor"" language:python",0,3940,2026-02-19,2026-02-19,https://github.com/ATNT101/Crypto-Analyzer,False,too few stars (likely spam/empty),ai-assisted
+NotShabz2004/tradesignal,"""built with cursor"" language:python",0,516,2026-02-08,2026-02-16,https://github.com/NotShabz2004/tradesignal,False,too few stars (likely spam/empty),ai-assisted
+bdeakin/EWR_monte_carlo_simulator,"""built with cursor"" language:python",0,14,2026-01-17,2026-01-17,https://github.com/bdeakin/EWR_monte_carlo_simulator,False,"size 14KB outside [50,50000]",ai-assisted
+gorkemhamer/vibe-coding-todo-project,"""built with cursor"" language:python",0,7,2025-12-18,2026-01-02,https://github.com/gorkemhamer/vibe-coding-todo-project,False,"size 7KB outside [50,50000]",ai-assisted
+hcox-dev/terminal-notes,"""built with cursor"" language:python",0,15,2025-07-16,2026-01-01,https://github.com/hcox-dev/terminal-notes,False,"size 15KB outside [50,50000]",ai-assisted
+Rakshita-Gummat/cursor-ecom-exercise,"""built with cursor"" language:python",0,40,2025-11-14,2025-11-14,https://github.com/Rakshita-Gummat/cursor-ecom-exercise,False,"size 40KB outside [50,50000]",ai-assisted
+vaibhavswaminathan/see-tree-cloud,"""built with cursor"" language:python",0,16,2025-06-22,2025-11-09,https://github.com/vaibhavswaminathan/see-tree-cloud,False,"size 16KB outside [50,50000]",ai-assisted
+catarina-mdias/twitter_customer_support_app,"""built with cursor"" language:python",1,10631,2025-10-15,2025-10-23,https://github.com/catarina-mdias/twitter_customer_support_app,False,docs/prompt-heavy (53 md/yaml vs 32 py),ai-assisted
+mykyyta/AI-mediator-prototype,"""built with cursor"" language:python",0,989,2025-09-21,2025-09-23,https://github.com/mykyyta/AI-mediator-prototype,False,too few stars (likely spam/empty),ai-assisted
+DATAMAN003/vibe-coding-hackathon-smart-energy-monitor,"""built with cursor"" language:python",0,140,2025-09-18,2025-09-18,https://github.com/DATAMAN003/vibe-coding-hackathon-smart-energy-monitor,False,too few stars (likely spam/empty),ai-assisted
+andnacho/request_load_tester,"""built with cursor"" language:python",0,81,2025-08-21,2025-08-22,https://github.com/andnacho/request_load_tester,False,too few stars (likely spam/empty),ai-assisted
+ben-lavelle/holiday,"""built with cursor"" language:python",0,9,2025-07-23,2025-07-23,https://github.com/ben-lavelle/holiday,False,"size 9KB outside [50,50000]",ai-assisted
+emphyri0/network_scanner,"""built with cursor"" language:python",0,22,2025-04-21,2025-04-21,https://github.com/emphyri0/network_scanner,False,"size 22KB outside [50,50000]",ai-assisted
+townie/epub3,"""built with cursor"" language:python",1,275,2025-04-11,2025-04-11,https://github.com/townie/epub3,True,no-readme-declaration,ai-assisted
+aaggarw99/appointment-scheduling,"""built with cursor"" language:python",0,195,2025-03-24,2025-03-24,https://github.com/aaggarw99/appointment-scheduling,False,too few stars (likely spam/empty),ai-assisted
+AaronMullan/python-todo,"""built with cursor"" language:python",0,15,2025-03-18,2025-03-19,https://github.com/AaronMullan/python-todo,False,"size 15KB outside [50,50000]",ai-assisted
+benjjii/cobblemon-detector,"""built with cursor"" language:python",0,12,2025-03-14,2025-03-14,https://github.com/benjjii/cobblemon-detector,False,"size 12KB outside [50,50000]",ai-assisted
+danfmaia/agent-teams,"""built with cursor"" language:python",2,843,2025-02-05,2025-02-24,https://github.com/danfmaia/agent-teams,True,no-readme-declaration,ai-assisted
+CamilaJaviera91/Prediction-of-Housing-Prices-Using-Linear-Regression,"""built with cursor"" language:python",2,407,2024-12-16,2024-12-19,https://github.com/CamilaJaviera91/Prediction-of-Housing-Prices-Using-Linear-Regression,False,only 2 py files,ai-assisted
+datagod/meshwatch,"""built with cursor"" language:python",116,1170,2021-09-09,2024-10-14,https://github.com/datagod/meshwatch,False,only 1 py files,ai-assisted
+JoeBuydemDips/photo-app,"""built with cursor"" language:python",0,9,2024-08-25,2024-08-25,https://github.com/JoeBuydemDips/photo-app,False,"size 9KB outside [50,50000]",ai-assisted
+reckoncrafter/starship,"""built with cursor"" language:python",0,19,2024-06-14,2024-06-14,https://github.com/reckoncrafter/starship,False,"size 19KB outside [50,50000]",ai-assisted
+skyler-ferrante/pyaquarium,"""built with cursor"" language:python",6,8,2023-06-16,2024-02-24,https://github.com/skyler-ferrante/pyaquarium,False,"size 8KB outside [50,50000]",ai-assisted
+shubhojit-mitra-dev/Typing-Test,"""built with cursor"" language:python",0,1,2024-01-31,2024-01-31,https://github.com/shubhojit-mitra-dev/Typing-Test,False,"size 1KB outside [50,50000]",ai-assisted
+darshanmakwana412/TerminalChat,"""built with cursor"" language:python",0,16,2023-07-21,2023-07-21,https://github.com/darshanmakwana412/TerminalChat,False,"size 16KB outside [50,50000]",ai-assisted
+mingyli/fastfingers,"""built with cursor"" language:python",3,38,2019-11-04,2019-11-06,https://github.com/mingyli/fastfingers,False,"size 38KB outside [50,50000]",ai-assisted
+Gjum/CursingSpock,"""built with cursor"" language:python",1,9,2015-12-31,2016-07-24,https://github.com/Gjum/CursingSpock,False,"size 9KB outside [50,50000]",ai-assisted
+daclink/Final_Project_IST338,"""built with cursor"" language:python",0,200,2015-04-24,2015-05-06,https://github.com/daclink/Final_Project_IST338,False,too few stars (likely spam/empty),ai-assisted
+itisvibhor/PythonLearning,"""generated with claude"" language:python",0,18,2026-08-17,2026-08-18,https://github.com/itisvibhor/PythonLearning,False,"size 18KB outside [50,50000]",ai-assisted
+Yanou10/ETF-analysis-pipeline,"""generated with claude"" language:python",0,25,2026-06-18,2026-08-18,https://github.com/Yanou10/ETF-analysis-pipeline,False,"size 25KB outside [50,50000]",ai-assisted
+AI-Code-Laboratory/password-strength-checker,"""generated with claude"" language:python",0,4,2026-08-09,2026-08-09,https://github.com/AI-Code-Laboratory/password-strength-checker,False,"size 4KB outside [50,50000]",ai-assisted
+A-Babaei/Wordpress-Compiler,"""generated with claude"" language:python",0,45,2026-08-08,2026-08-08,https://github.com/A-Babaei/Wordpress-Compiler,False,"size 45KB outside [50,50000]",ai-assisted
+aaric/claw-test-gen,"""generated with claude"" language:python",0,2283,2026-04-13,2026-05-27,https://github.com/aaric/claw-test-gen,False,too few stars (likely spam/empty),ai-assisted
+sifat120/sample-web-apps,"""generated with claude"" language:python",0,186,2026-04-20,2026-05-13,https://github.com/sifat120/sample-web-apps,False,too few stars (likely spam/empty),ai-assisted
+gattebury/smarties,"""generated with claude"" language:python",0,24,2026-03-25,2026-03-25,https://github.com/gattebury/smarties,False,"size 24KB outside [50,50000]",ai-assisted
+asela38/graphRag,"""generated with claude"" language:python",0,273,2025-12-07,2025-12-07,https://github.com/asela38/graphRag,False,too few stars (likely spam/empty),ai-assisted
+KangarooDuck/google-ads-api-project,"""generated with claude"" language:python",0,253,2025-08-16,2025-08-22,https://github.com/KangarooDuck/google-ads-api-project,False,too few stars (likely spam/empty),ai-assisted
+Haavi97/server-log-analysis,"""generated with claude"" language:python",0,8,2025-02-21,2025-02-21,https://github.com/Haavi97/server-log-analysis,False,"size 8KB outside [50,50000]",ai-assisted
+Haavi97/bar-business-analysis,"""generated with claude"" language:python",0,9,2025-02-21,2025-02-21,https://github.com/Haavi97/bar-business-analysis,False,"size 9KB outside [50,50000]",ai-assisted
+Xiobani/booster_k1_lab,"""vibe coded"" language:python",0,7441,2026-08-22,2026-08-23,https://github.com/Xiobani/booster_k1_lab,False,too few stars (likely spam/empty),ai-assisted
+0009-aaf/vibecoding-template,"""vibe coded"" language:python",0,241,2026-08-22,2026-08-23,https://github.com/0009-aaf/vibecoding-template,False,too few stars (likely spam/empty),ai-assisted
+usernamegth/bazzar-flipper-v0.3,"""vibe coded"" language:python",0,55084,2026-07-21,2026-08-23,https://github.com/usernamegth/bazzar-flipper-v0.3,False,"size 55084KB outside [50,50000]",ai-assisted
+Pythondinner/vibcod-compass_v0,"""vibe coded"" language:python",0,0,2026-08-23,2026-08-23,https://github.com/Pythondinner/vibcod-compass_v0,False,"size 0KB outside [50,50000]",ai-assisted
+usernamegth/bazzar-flipper-v0.2,"""vibe coded"" language:python",0,7457,2026-07-21,2026-08-23,https://github.com/usernamegth/bazzar-flipper-v0.2,False,too few stars (likely spam/empty),ai-assisted
+dz030/IWELL-US-marketing-tool,"""vibe coded"" language:python",0,103,2026-02-05,2026-08-23,https://github.com/dz030/IWELL-US-marketing-tool,False,too few stars (likely spam/empty),ai-assisted
+UBTECH-ORGANIZATION/yuvi-720,"""vibe coded"" language:python",0,77027,2026-07-01,2026-08-23,https://github.com/UBTECH-ORGANIZATION/yuvi-720,False,"size 77027KB outside [50,50000]",ai-assisted
+katsushi2441/vwork,"""vibe coded"" language:python",0,15153,2026-05-09,2026-08-23,https://github.com/katsushi2441/vwork,False,too few stars (likely spam/empty),ai-assisted
+ByteQuest-2025/GFGBQ-Team-segfault-squad,"""vibe coded"" language:python",0,1579,2026-01-02,2026-08-23,https://github.com/ByteQuest-2025/GFGBQ-Team-segfault-squad,False,too few stars (likely spam/empty),ai-assisted
+santoshdhubia/PetroTechRadar,"""vibe coded"" language:python",0,2056,2026-08-22,2026-08-23,https://github.com/santoshdhubia/PetroTechRadar,False,too few stars (likely spam/empty),ai-assisted
+ajay2017/python-lab,"""vibe coded"" language:python",0,13793,2026-05-04,2026-08-23,https://github.com/ajay2017/python-lab,False,too few stars (likely spam/empty),ai-assisted
+xinquan568/vibe-suite,"""vibe coded"" language:python",0,16748,2026-07-25,2026-08-23,https://github.com/xinquan568/vibe-suite,False,too few stars (likely spam/empty),ai-assisted
+SilasFu/Author-Skills,"""vibe coded"" language:python",0,40190,2026-08-21,2026-08-23,https://github.com/SilasFu/Author-Skills,False,too few stars (likely spam/empty),ai-assisted
+16Pablo/eurocoinsfeed,"""vibe coded"" language:python",0,51,2026-08-20,2026-08-23,https://github.com/16Pablo/eurocoinsfeed,False,too few stars (likely spam/empty),ai-assisted
+sigurdwifstad/liminal-vibes-game,"""vibe coded"" language:python",0,14698,2026-06-12,2026-08-23,https://github.com/sigurdwifstad/liminal-vibes-game,False,too few stars (likely spam/empty),ai-assisted
+yip-lgtm/vibe-study-bootcamp,"""vibe coded"" language:python",0,3328,2026-08-04,2026-08-23,https://github.com/yip-lgtm/vibe-study-bootcamp,False,too few stars (likely spam/empty),ai-assisted
+defuse/launchpad-tools,"""vibe coded"" language:python",0,3172,2026-08-23,2026-08-23,https://github.com/defuse/launchpad-tools,False,too few stars (likely spam/empty),ai-assisted
+klauseduard/estonian-scrabble,"""vibe coded"" language:python",0,1864,2025-01-25,2026-08-23,https://github.com/klauseduard/estonian-scrabble,False,too few stars (likely spam/empty),ai-assisted
+Ryohei0Otsuka/CSVjoiner,"""vibe coded"" language:python",0,154,2026-03-12,2026-08-23,https://github.com/Ryohei0Otsuka/CSVjoiner,False,too few stars (likely spam/empty),ai-assisted
+sarayutpea/multi-agents,"""vibe coded"" language:python",0,247,2026-08-22,2026-08-23,https://github.com/sarayutpea/multi-agents,False,too few stars (likely spam/empty),ai-assisted
+ProkopHapala/prokops_vibe_skills,"""vibe coded"" language:python",0,258,2026-08-13,2026-08-23,https://github.com/ProkopHapala/prokops_vibe_skills,False,too few stars (likely spam/empty),ai-assisted
+nevlock59-langlock/bankbook_dummy,"""vibe coded"" language:python",0,221668,2026-07-20,2026-08-23,https://github.com/nevlock59-langlock/bankbook_dummy,False,"size 221668KB outside [50,50000]",ai-assisted
+ettore-strapazzon/jbhntr,"""vibe coded"" language:python",0,799,2026-07-25,2026-08-23,https://github.com/ettore-strapazzon/jbhntr,False,too few stars (likely spam/empty),ai-assisted
+jacob-austin/Vitasort,"""vibe coded"" language:python",0,77,2026-07-07,2026-08-23,https://github.com/jacob-austin/Vitasort,False,too few stars (likely spam/empty),ai-assisted
+Gandalf-the-shiz/Nostradamus,"""vibe coded"" language:python",0,83835,2026-04-06,2026-08-23,https://github.com/Gandalf-the-shiz/Nostradamus,False,"size 83835KB outside [50,50000]",ai-assisted
+rebeccarqli/toy-projects,"""vibe coded"" language:python",0,42,2026-07-28,2026-08-23,https://github.com/rebeccarqli/toy-projects,False,"size 42KB outside [50,50000]",ai-assisted
+DonitaSalonga/prompt-injection-lab,"""vibe coded"" language:python",0,59,2026-03-08,2026-08-23,https://github.com/DonitaSalonga/prompt-injection-lab,False,too few stars (likely spam/empty),ai-assisted
+emrahkirdok/BioSim-Py,"""vibe coded"" language:python",0,490,2026-02-01,2026-08-23,https://github.com/emrahkirdok/BioSim-Py,False,too few stars (likely spam/empty),ai-assisted
+prophesier/Vibe-Kanojo,"""vibe coded"" language:python",0,60028,2026-06-16,2026-08-23,https://github.com/prophesier/Vibe-Kanojo,False,"size 60028KB outside [50,50000]",ai-assisted
+baconrepo/mimp,"""vibe coded"" language:python",0,8867,2026-08-23,2026-08-23,https://github.com/baconrepo/mimp,False,too few stars (likely spam/empty),ai-assisted
+Akpan-byte/topstep-strats,"""vibe coded"" language:python",0,646,2026-07-25,2026-08-23,https://github.com/Akpan-byte/topstep-strats,False,too few stars (likely spam/empty),ai-assisted
+edberto/bot-kalung,"""vibe coded"" language:python",0,1194,2026-07-21,2026-08-23,https://github.com/edberto/bot-kalung,False,too few stars (likely spam/empty),ai-assisted
+RunningCe/vibecoding-feasibility-assessor,"""vibe coded"" language:python",0,13,2026-08-23,2026-08-23,https://github.com/RunningCe/vibecoding-feasibility-assessor,False,"size 13KB outside [50,50000]",ai-assisted
+SebastianChk/market-analysis,"""vibe coded"" language:python",0,911,2026-03-05,2026-08-23,https://github.com/SebastianChk/market-analysis,False,too few stars (likely spam/empty),ai-assisted
+DISSIDIA-986/VibePad,"""vibe coded"" language:python",0,6127,2026-08-22,2026-08-23,https://github.com/DISSIDIA-986/VibePad,False,too few stars (likely spam/empty),ai-assisted
+jihedmastouri/sqlide,"""vibe coded"" language:python",0,831,2026-07-19,2026-08-23,https://github.com/jihedmastouri/sqlide,False,too few stars (likely spam/empty),ai-assisted
+tmoody1973/clean-code-claude-code,"""vibe coded"" language:python",0,289,2026-03-17,2026-08-23,https://github.com/tmoody1973/clean-code-claude-code,False,too few stars (likely spam/empty),ai-assisted
+mouadbt/quran-player,"""vibe coded"" language:python",0,27,2026-08-22,2026-08-22,https://github.com/mouadbt/quran-player,False,"size 27KB outside [50,50000]",ai-assisted
+wuxianliang/zcordis,"""vibe coded"" language:python",0,878,2026-08-21,2026-08-22,https://github.com/wuxianliang/zcordis,False,too few stars (likely spam/empty),ai-assisted
+SamuelPerezCO/Follow-Up,"""vibe coded"" language:python",0,55,2026-08-22,2026-08-22,https://github.com/SamuelPerezCO/Follow-Up,False,too few stars (likely spam/empty),ai-assisted
+LaputanMachines/vibersvp,"""vibe coded"" language:python",0,310,2026-06-30,2026-08-22,https://github.com/LaputanMachines/vibersvp,False,too few stars (likely spam/empty),ai-assisted
+aiagent2046-coder/shipit,"""vibe coded"" language:python",0,3110,2026-07-11,2026-08-22,https://github.com/aiagent2046-coder/shipit,False,too few stars (likely spam/empty),ai-assisted
+giljoai/giljo-hq,"""vibe coded"" language:python",0,12358,2026-07-14,2026-08-22,https://github.com/giljoai/giljo-hq,False,too few stars (likely spam/empty),ai-assisted
+sawon2026/vibe-hermes,"""vibe coded"" language:python",0,8,2026-08-01,2026-08-22,https://github.com/sawon2026/vibe-hermes,False,"size 8KB outside [50,50000]",ai-assisted
+RyanBreaker/eevee-feeds,"""vibe coded"" language:python",0,194,2026-07-09,2026-08-22,https://github.com/RyanBreaker/eevee-feeds,False,too few stars (likely spam/empty),ai-assisted
+RosTEfish/zppz-web,"""vibe coded"" language:python",0,5042,2026-04-24,2026-08-22,https://github.com/RosTEfish/zppz-web,False,too few stars (likely spam/empty),ai-assisted
+tony/vibe-climux,"""vibe coded"" language:python",0,378,2025-08-04,2026-08-22,https://github.com/tony/vibe-climux,False,too few stars (likely spam/empty),ai-assisted
+AiFLYF/vibebridge,"""vibe coded"" language:python",0,142,2026-08-22,2026-08-22,https://github.com/AiFLYF/vibebridge,False,too few stars (likely spam/empty),ai-assisted
+asim6604/Pdf-parser-and-responder-from-base,"""vibe coded"" language:python",0,3,2026-08-21,2026-08-22,https://github.com/asim6604/Pdf-parser-and-responder-from-base,False,"size 3KB outside [50,50000]",ai-assisted
+Gracimon-G/pdf-chapter-splitter,"""vibe coded"" language:python",0,21,2026-08-22,2026-08-22,https://github.com/Gracimon-G/pdf-chapter-splitter,False,"size 21KB outside [50,50000]",ai-assisted
+lam-thai-nguyen/Vibe-music-player,"""vibe coded"" language:python",0,6583,2026-08-22,2026-08-22,https://github.com/lam-thai-nguyen/Vibe-music-player,False,too few stars (likely spam/empty),ai-assisted
+AmesCG23/njt-delay-tracker,"""vibe coded"" language:python",0,7845,2026-03-25,2026-08-22,https://github.com/AmesCG23/njt-delay-tracker,False,too few stars (likely spam/empty),ai-assisted
+pogrammar/Spidey-bot,"""vibe coded"" language:python",0,76867,2026-08-11,2026-08-22,https://github.com/pogrammar/Spidey-bot,False,"size 76867KB outside [50,50000]",ai-assisted
+wuxianliang/pgembed,"""vibe coded"" language:python",0,1485,2026-05-28,2026-08-22,https://github.com/wuxianliang/pgembed,False,too few stars (likely spam/empty),ai-assisted
+nickchen1998/vibe-coding-after,"""vibe coded"" language:python",0,77,2026-07-16,2026-08-22,https://github.com/nickchen1998/vibe-coding-after,False,too few stars (likely spam/empty),ai-assisted
+PPatavini/USR-Campania-Scraper,"""vibe coded"" language:python",0,54,2026-06-15,2026-08-22,https://github.com/PPatavini/USR-Campania-Scraper,False,too few stars (likely spam/empty),ai-assisted
+Rikartt/Apartment-Helper,"""vibe coded"" language:python",0,35,2026-08-22,2026-08-22,https://github.com/Rikartt/Apartment-Helper,False,"size 35KB outside [50,50000]",ai-assisted
+N5Tar/personal_skills,"""vibe coded"" language:python",0,98,2026-07-11,2026-08-22,https://github.com/N5Tar/personal_skills,False,too few stars (likely spam/empty),ai-assisted
+CheYulin/yuanrong-datasystem-agent-workbench,"""vibe coded"" language:python",0,3689,2026-04-08,2026-08-22,https://github.com/CheYulin/yuanrong-datasystem-agent-workbench,False,too few stars (likely spam/empty),ai-assisted
+SanZhangO-O/LocalP2PChat,"""vibe coded"" language:python",0,705,2026-08-20,2026-08-22,https://github.com/SanZhangO-O/LocalP2PChat,False,too few stars (likely spam/empty),ai-assisted
+Marcooos05/Braincoding-DSA,"""vibe coded"" language:python",0,87,2026-08-20,2026-08-22,https://github.com/Marcooos05/Braincoding-DSA,False,too few stars (likely spam/empty),ai-assisted
+dglaude/Buzz_for_CircuitPython_vibe,"""vibe coded"" language:python",0,10,2026-08-21,2026-08-22,https://github.com/dglaude/Buzz_for_CircuitPython_vibe,False,"size 10KB outside [50,50000]",ai-assisted
+TonyKing0504/Resume,"""vibe coded"" language:python",0,7215,2026-02-02,2026-08-22,https://github.com/TonyKing0504/Resume,False,too few stars (likely spam/empty),ai-assisted
+PetitRobusto/cigardomtabaka,"""vibe coded"" language:python",0,11497,2026-06-03,2026-08-22,https://github.com/PetitRobusto/cigardomtabaka,False,too few stars (likely spam/empty),ai-assisted
+IdownloadStuff-998/YTS-Batch-Downloader,"""vibe coded"" language:python",0,306,2026-08-22,2026-08-22,https://github.com/IdownloadStuff-998/YTS-Batch-Downloader,False,too few stars (likely spam/empty),ai-assisted
+nazaninasgari/zarinpal-merchant-growth-analyst,"""vibe coded"" language:python",0,41506,2026-08-22,2026-08-22,https://github.com/nazaninasgari/zarinpal-merchant-growth-analyst,False,too few stars (likely spam/empty),ai-assisted
+JoelMHarvey/vibecheck,"""vibe coded"" language:python",0,624,2026-08-16,2026-08-22,https://github.com/JoelMHarvey/vibecheck,False,too few stars (likely spam/empty),ai-assisted
+rackso555/BarcaStats,"""vibe coded"" language:python",0,156137,2026-08-21,2026-08-22,https://github.com/rackso555/BarcaStats,False,"size 156137KB outside [50,50000]",ai-assisted
+LeNgocChau9/Tool_Auto_cut_images_audio,"""vibe coded"" language:python",0,84,2026-07-16,2026-08-22,https://github.com/LeNgocChau9/Tool_Auto_cut_images_audio,False,too few stars (likely spam/empty),ai-assisted
+gdiaz19/Security-Scanner,"""vibe coded"" language:python",0,21,2026-08-22,2026-08-22,https://github.com/gdiaz19/Security-Scanner,False,"size 21KB outside [50,50000]",ai-assisted
+anil-ganti-nbc/chinese-tech-wire,"""vibe coded"" language:python",0,474,2026-08-09,2026-08-21,https://github.com/anil-ganti-nbc/chinese-tech-wire,False,too few stars (likely spam/empty),ai-assisted
+cwfitzgerald/oss-dashboard,"""vibe coded"" language:python",0,848,2026-08-19,2026-08-21,https://github.com/cwfitzgerald/oss-dashboard,False,too few stars (likely spam/empty),ai-assisted
+nithjino/unifi-protect-timelapse,"""vibe coded"" language:python",0,6195,2026-07-21,2026-08-23,https://github.com/nithjino/unifi-protect-timelapse,False,too few stars (likely spam/empty),ai-assisted
+nakshatra-s08/MIC-AI-Recruiter-VibeCoded,"""vibe coded"" language:python",0,32,2026-08-21,2026-08-21,https://github.com/nakshatra-s08/MIC-AI-Recruiter-VibeCoded,False,"size 32KB outside [50,50000]",ai-assisted
+bjoernhoefer/e2proxy,"""vibe coded"" language:python",0,2039,2026-06-13,2026-08-21,https://github.com/bjoernhoefer/e2proxy,False,too few stars (likely spam/empty),ai-assisted
+tomberch/training-dash,"""vibe coded"" language:python",0,8024,2026-08-01,2026-08-21,https://github.com/tomberch/training-dash,False,too few stars (likely spam/empty),ai-assisted
+minhoang-git/stocks,"""vibe coded"" language:python",0,83,2026-08-20,2026-08-21,https://github.com/minhoang-git/stocks,False,too few stars (likely spam/empty),ai-assisted
+cwfitzgerald/native-profile,"""vibe coded"" language:python",0,32,2026-07-04,2026-08-21,https://github.com/cwfitzgerald/native-profile,False,"size 32KB outside [50,50000]",ai-assisted
+listenlouder/endurance-planner,"""vibe coded"" language:python",0,617,2026-04-01,2026-08-21,https://github.com/listenlouder/endurance-planner,False,too few stars (likely spam/empty),ai-assisted
+NicRaw/trading-signals,"""vibe coded"" language:python",0,569,2025-10-16,2026-08-21,https://github.com/NicRaw/trading-signals,False,too few stars (likely spam/empty),ai-assisted
+csaszarzoltan/ai-vibe-coding-kit,"""vibe coded"" language:python",0,972,2026-07-19,2026-08-21,https://github.com/csaszarzoltan/ai-vibe-coding-kit,False,too few stars (likely spam/empty),ai-assisted
+ETIM-PAUL/Green-Pass,"""vibe coded"" language:python",0,10911,2026-08-21,2026-08-21,https://github.com/ETIM-PAUL/Green-Pass,False,too few stars (likely spam/empty),ai-assisted
+rajattyagi-dev1/AI-INTERVIEW-AGENT,"""vibe coded"" language:python",0,139,2026-08-08,2026-08-21,https://github.com/rajattyagi-dev1/AI-INTERVIEW-AGENT,False,too few stars (likely spam/empty),ai-assisted
+SuperInstance/persona-engine,"""vibe coded"" language:python",0,85,2026-06-09,2026-08-21,https://github.com/SuperInstance/persona-engine,False,too few stars (likely spam/empty),ai-assisted
+jorgethecoder/weekly-meal-planner,"""vibe coded"" language:python",0,42,2026-06-20,2026-08-21,https://github.com/jorgethecoder/weekly-meal-planner,False,"size 42KB outside [50,50000]",ai-assisted
+peter12329/typing-pattern-classifier,"""vibe coded"" language:python",0,1,2026-08-21,2026-08-21,https://github.com/peter12329/typing-pattern-classifier,False,"size 1KB outside [50,50000]",ai-assisted
+ArGiT69/study-os,"""vibe coded"" language:python",0,47,2026-08-19,2026-08-21,https://github.com/ArGiT69/study-os,False,"size 47KB outside [50,50000]",ai-assisted
+xiang666-Nkx/hello-ai,"""vibe coded"" language:python",0,22,2026-08-20,2026-08-21,https://github.com/xiang666-Nkx/hello-ai,False,"size 22KB outside [50,50000]",ai-assisted
+justcraft0rr/stream_bot,"""vibe coded"" language:python",0,63,2026-06-15,2026-08-21,https://github.com/justcraft0rr/stream_bot,False,too few stars (likely spam/empty),ai-assisted
+Garphy/bugtracer,"""vibe coded"" language:python",0,1124,2024-08-27,2026-08-21,https://github.com/Garphy/bugtracer,False,too few stars (likely spam/empty),ai-assisted
+MatthewCarven/Python-YPilot,"""vibe coded"" language:python",0,1872,2026-05-03,2026-08-21,https://github.com/MatthewCarven/Python-YPilot,False,too few stars (likely spam/empty),ai-assisted
+HSRyuuu/harness-as-usual,"""vibe coded"" language:python",0,9900,2026-06-28,2026-08-21,https://github.com/HSRyuuu/harness-as-usual,False,too few stars (likely spam/empty),ai-assisted
+mahiru7229/mcw-launcher,"""vibe coded"" language:python",0,4374,2026-06-27,2026-08-22,https://github.com/mahiru7229/mcw-launcher,False,too few stars (likely spam/empty),ai-assisted
+jimjim3/interview-simulator,"""vibe coded"" language:python",0,76,2026-07-29,2026-08-21,https://github.com/jimjim3/interview-simulator,False,too few stars (likely spam/empty),ai-assisted
+g2mt/vibe-tools,"""vibe coded"" language:python",0,2124,2025-07-12,2026-08-21,https://github.com/g2mt/vibe-tools,False,too few stars (likely spam/empty),ai-assisted
+Irbis3D/MedusaHC-Control,"""vibe coded"" language:python",0,556,2026-08-09,2026-08-21,https://github.com/Irbis3D/MedusaHC-Control,False,too few stars (likely spam/empty),ai-assisted
+ad-ro/FantasyFrisbee2,"""vibe coded"" language:python",0,48,2026-04-25,2026-08-21,https://github.com/ad-ro/FantasyFrisbee2,False,"size 48KB outside [50,50000]",ai-assisted
+miazoezoe-sketch/vibe-security-check,"""vibe coded"" language:python",0,64,2026-08-21,2026-08-21,https://github.com/miazoezoe-sketch/vibe-security-check,False,too few stars (likely spam/empty),ai-assisted
+Peasniped/BitGigs,"""vibe coded"" language:python",0,5405,2026-03-11,2026-08-21,https://github.com/Peasniped/BitGigs,False,too few stars (likely spam/empty),ai-assisted
+rosenbergj/phillypools,"""vibe coded"" language:python",0,4543,2026-06-11,2026-08-20,https://github.com/rosenbergj/phillypools,False,too few stars (likely spam/empty),ai-assisted
+todd-apptivity/quality-baseline-skill,"""vibe coded"" language:python",0,87,2026-08-20,2026-08-20,https://github.com/todd-apptivity/quality-baseline-skill,False,too few stars (likely spam/empty),ai-assisted
+phanken/vibe-code,"""vibe coded"" language:python",0,54,2026-08-20,2026-08-20,https://github.com/phanken/vibe-code,False,too few stars (likely spam/empty),ai-assisted
+MakwanaShubham270/txract,"""vibe coded"" language:python",0,95,2026-08-20,2026-08-20,https://github.com/MakwanaShubham270/txract,False,too few stars (likely spam/empty),ai-assisted
+HasithDilsara/3D-CAD-Engine,"""vibe coded"" language:python",0,9,2026-08-20,2026-08-20,https://github.com/HasithDilsara/3D-CAD-Engine,False,"size 9KB outside [50,50000]",ai-assisted
+JJDec/neural-networks-guide,"""vibe coded"" language:python",0,101629,2026-07-01,2026-08-20,https://github.com/JJDec/neural-networks-guide,False,"size 101629KB outside [50,50000]",ai-assisted
+mahdi0shamlou/network_sniffer,"""vibe coded"" language:python",0,6,2026-08-19,2026-08-20,https://github.com/mahdi0shamlou/network_sniffer,False,"size 6KB outside [50,50000]",ai-assisted
+tertiarycourses/TGS-2019504643-AI-Vibe-Coding-for-Data-Analytics,"""vibe coded"" language:python",0,9589,2019-12-14,2026-08-20,https://github.com/tertiarycourses/TGS-2019504643-AI-Vibe-Coding-for-Data-Analytics,False,too few stars (likely spam/empty),ai-assisted
+vbar/daybreak,"""vibe coded"" language:python",0,84,2026-08-20,2026-08-20,https://github.com/vbar/daybreak,False,too few stars (likely spam/empty),ai-assisted
+timurci/refgraph,"""vibe coded"" language:python",0,115,2026-08-20,2026-08-20,https://github.com/timurci/refgraph,False,too few stars (likely spam/empty),ai-assisted
+littlechen-cmd/SDD-workflow-for-ai-agent,"""vibe coded"" language:python",0,23,2026-08-20,2026-08-20,https://github.com/littlechen-cmd/SDD-workflow-for-ai-agent,False,"size 23KB outside [50,50000]",ai-assisted
+Philhippus/lighthouse,"""vibe coded"" language:python",0,538,2026-08-05,2026-08-20,https://github.com/Philhippus/lighthouse,False,too few stars (likely spam/empty),ai-assisted
+nohseongmin/VibeGuard,"""vibe coded"" language:python",0,3310,2026-06-22,2026-08-20,https://github.com/nohseongmin/VibeGuard,False,too few stars (likely spam/empty),ai-assisted
+Alphabet1671/show-me-the-money,"""vibe coded"" language:python",0,118,2026-08-20,2026-08-20,https://github.com/Alphabet1671/show-me-the-money,False,too few stars (likely spam/empty),ai-assisted
+LA-son/Procurement-order-tracking,"""vibe coded"" language:python",0,91,2026-08-06,2026-08-20,https://github.com/LA-son/Procurement-order-tracking,False,too few stars (likely spam/empty),ai-assisted
+alfzheng/vibe-coding-for-beginners,"""vibe coded"" language:python",0,383,2026-08-20,2026-08-20,https://github.com/alfzheng/vibe-coding-for-beginners,False,too few stars (likely spam/empty),ai-assisted
+Shravanib-9766/genai-pyspark-pipeline,"""vibe coded"" language:python",0,8,2026-08-20,2026-08-20,https://github.com/Shravanib-9766/genai-pyspark-pipeline,False,"size 8KB outside [50,50000]",ai-assisted
+nishchithkulal/Urban-Heat-Decision-Support-Platform-VibeCoded-,"""vibe coded"" language:python",0,191,2026-07-28,2026-08-20,https://github.com/nishchithkulal/Urban-Heat-Decision-Support-Platform-VibeCoded-,False,too few stars (likely spam/empty),ai-assisted
+mahteus-sanches/headphone_graphs,"""vibe coded"" language:python",0,1723,2026-08-20,2026-08-20,https://github.com/mahteus-sanches/headphone_graphs,False,too few stars (likely spam/empty),ai-assisted
+crystallized-lu/dress-to-impress,"""vibe coded"" language:python",0,88,2026-08-19,2026-08-20,https://github.com/crystallized-lu/dress-to-impress,False,too few stars (likely spam/empty),ai-assisted
+caka07/Vibe-Coding-Config,"""vibe coded"" language:python",0,30,2026-07-08,2026-08-20,https://github.com/caka07/Vibe-Coding-Config,False,"size 30KB outside [50,50000]",ai-assisted
+NoRaincheck/python-transpilation-machine-learning,"""vibe coded"" language:python",0,310,2026-06-26,2026-08-20,https://github.com/NoRaincheck/python-transpilation-machine-learning,False,too few stars (likely spam/empty),ai-assisted
+cocode/music_score,"""vibe coded"" language:python",0,249,2026-08-18,2026-08-20,https://github.com/cocode/music_score,False,too few stars (likely spam/empty),ai-assisted
+mozhou580-lgtm/vibe-coding-standardized-operation,"""vibe coded"" language:python",0,189,2026-08-19,2026-08-20,https://github.com/mozhou580-lgtm/vibe-coding-standardized-operation,False,too few stars (likely spam/empty),ai-assisted
+tertiarycourses/C430-AI-Vibe-Coding-for-Machine-Learning,"""vibe coded"" language:python",0,3696,2026-08-17,2026-08-20,https://github.com/tertiarycourses/C430-AI-Vibe-Coding-for-Machine-Learning,False,too few stars (likely spam/empty),ai-assisted
+tertiarycourses/C539-AI-Vibe-Coding-with-PyTorch-Deep-Learning,"""vibe coded"" language:python",0,2395,2026-08-17,2026-08-20,https://github.com/tertiarycourses/C539-AI-Vibe-Coding-with-PyTorch-Deep-Learning,False,too few stars (likely spam/empty),ai-assisted
+vikrantd/CodeChakra,"""vibe coded"" language:python",0,1943,2026-08-19,2026-08-19,https://github.com/vikrantd/CodeChakra,False,too few stars (likely spam/empty),ai-assisted
+DJHamSambo/Coaching-Platform,"""vibe coded"" language:python",0,36014,2026-06-02,2026-08-19,https://github.com/DJHamSambo/Coaching-Platform,False,too few stars (likely spam/empty),ai-assisted
+htetlwink/ArcadeHub,"""vibe coded"" language:python",0,347,2026-08-19,2026-08-19,https://github.com/htetlwink/ArcadeHub,False,too few stars (likely spam/empty),ai-assisted
+lyvoxconsult/vibecoderconfigall,"""vibe coded"" language:python",0,121240,2026-05-26,2026-08-19,https://github.com/lyvoxconsult/vibecoderconfigall,False,"size 121240KB outside [50,50000]",ai-assisted
+luftmeer/appointment-booking-system-vibe,"""vibe coded"" language:python",0,160,2026-07-27,2026-08-19,https://github.com/luftmeer/appointment-booking-system-vibe,False,too few stars (likely spam/empty),ai-assisted
+thenomadbeyond/helm-mirror-cli,"""vibe coded"" language:python",0,60,2026-04-10,2026-08-19,https://github.com/thenomadbeyond/helm-mirror-cli,False,too few stars (likely spam/empty),ai-assisted
+CelebrinSBR/PNCP-editais,"""vibe coded"" language:python",0,37,2026-08-19,2026-08-19,https://github.com/CelebrinSBR/PNCP-editais,False,"size 37KB outside [50,50000]",ai-assisted
+vip3310495-Johnny/Johnny-project-team-plugin,"""vibe coded"" language:python",0,1048,2026-07-16,2026-08-19,https://github.com/vip3310495-Johnny/Johnny-project-team-plugin,False,too few stars (likely spam/empty),ai-assisted
+glassmeyert83/Fortune500-job-scraper-agent,"""vibe coded"" language:python",0,6,2026-08-19,2026-08-19,https://github.com/glassmeyert83/Fortune500-job-scraper-agent,False,"size 6KB outside [50,50000]",ai-assisted
+shrippen/PaperTTY,"""vibe coded"" language:python",0,7225,2026-08-10,2026-08-19,https://github.com/shrippen/PaperTTY,False,too few stars (likely spam/empty),ai-assisted
+aaliahabib/islands-world,"""vibe coded"" language:python",0,14254,2026-08-03,2026-08-19,https://github.com/aaliahabib/islands-world,False,too few stars (likely spam/empty),ai-assisted
+manueldieudonofficial/mayday,"""vibe coded"" language:python",0,31,2026-08-19,2026-08-19,https://github.com/manueldieudonofficial/mayday,False,"size 31KB outside [50,50000]",ai-assisted
+sharmavai/CSAPPMODEL,"""vibe coded"" language:python",0,23313,2026-08-19,2026-08-19,https://github.com/sharmavai/CSAPPMODEL,False,too few stars (likely spam/empty),ai-assisted
+Pythondinner/readcode-judge,"""vibe coded"" language:python",0,1644,2026-08-19,2026-08-19,https://github.com/Pythondinner/readcode-judge,False,too few stars (likely spam/empty),ai-assisted
+kipsmith-arch/distri_agent,"""vibe coded"" language:python",0,6661,2026-08-19,2026-08-19,https://github.com/kipsmith-arch/distri_agent,False,too few stars (likely spam/empty),ai-assisted
+RolandSobczak/control-systems-demo,"""vibe coded"" language:python",0,10741,2026-08-16,2026-08-19,https://github.com/RolandSobczak/control-systems-demo,False,too few stars (likely spam/empty),ai-assisted
+JohanSjogren10/LLM-tracker,"""vibe coded"" language:python",0,96,2026-03-28,2026-08-19,https://github.com/JohanSjogren10/LLM-tracker,False,too few stars (likely spam/empty),ai-assisted
+Jules-A/ComfyUI-ONNX_ArtCNN,"""vibe coded"" language:python",0,13,2026-08-19,2026-08-20,https://github.com/Jules-A/ComfyUI-ONNX_ArtCNN,False,"size 13KB outside [50,50000]",ai-assisted
+SunitXaltius/VibeCoding,"""vibe coded"" language:python",0,12,2026-08-19,2026-08-19,https://github.com/SunitXaltius/VibeCoding,False,"size 12KB outside [50,50000]",ai-assisted
+tertiarycourses/C592-AI-Vibe-Coding-for-Computer-Vision,"""vibe coded"" language:python",0,1539,2026-08-17,2026-08-19,https://github.com/tertiarycourses/C592-AI-Vibe-Coding-for-Computer-Vision,False,too few stars (likely spam/empty),ai-assisted
+EricSpencer00/ollama-vibecode,"""vibe coded"" language:python",0,4,2025-10-24,2026-08-19,https://github.com/EricSpencer00/ollama-vibecode,False,"size 4KB outside [50,50000]",ai-assisted
+shahaman098/android-flow,"""vibe coded"" language:python",0,7882,2026-08-14,2026-08-19,https://github.com/shahaman098/android-flow,False,too few stars (likely spam/empty),ai-assisted
+Iridescent-ykx/Arknights_Helper,"""vibe coded"" language:python",0,166,2026-06-03,2026-08-19,https://github.com/Iridescent-ykx/Arknights_Helper,False,too few stars (likely spam/empty),ai-assisted
+lineartom/vibepanel,"""vibe coded"" language:python",0,330,2026-05-01,2026-08-19,https://github.com/lineartom/vibepanel,False,too few stars (likely spam/empty),ai-assisted
+Quackification/physicstrivial,"""vibe coded"" language:python",0,82155,2026-08-18,2026-08-18,https://github.com/Quackification/physicstrivial,False,"size 82155KB outside [50,50000]",ai-assisted
+LeanderLutze/card-maker,"""vibe coded"" language:python",0,15,2026-08-18,2026-08-18,https://github.com/LeanderLutze/card-maker,False,"size 15KB outside [50,50000]",ai-assisted
+jack-mango/computation_chemistry,"""vibe coded"" language:python",0,1360,2026-08-09,2026-08-18,https://github.com/jack-mango/computation_chemistry,False,too few stars (likely spam/empty),ai-assisted
+Herobrine692/DeskBot,"""vibe coded"" language:python",0,44,2026-07-25,2026-08-18,https://github.com/Herobrine692/DeskBot,False,"size 44KB outside [50,50000]",ai-assisted
+VikAtkore/InfraOps,"""vibe coded"" language:python",0,29,2026-08-18,2026-08-18,https://github.com/VikAtkore/InfraOps,False,"size 29KB outside [50,50000]",ai-assisted
+riedel/pve-bastion,"""vibe coded"" language:python",0,115,2026-08-18,2026-08-18,https://github.com/riedel/pve-bastion,False,too few stars (likely spam/empty),ai-assisted
+ax4w/blepkbf,"""vibe coded"" language:python",0,102,2026-08-18,2026-08-18,https://github.com/ax4w/blepkbf,False,too few stars (likely spam/empty),ai-assisted
+SheepShell33/ghost-flow-work-app,"""vibe coded"" language:python",0,579,2026-07-13,2026-08-18,https://github.com/SheepShell33/ghost-flow-work-app,False,too few stars (likely spam/empty),ai-assisted
+caochengwei06-hue/Vibe-coding,"""vibe coded"" language:python",0,3,2026-08-18,2026-08-18,https://github.com/caochengwei06-hue/Vibe-coding,False,"size 3KB outside [50,50000]",ai-assisted
+jeffc/llm_history_extension,"""vibe coded"" language:python",0,15,2026-06-19,2026-08-18,https://github.com/jeffc/llm_history_extension,False,"size 15KB outside [50,50000]",ai-assisted
+zhuoyuanmao/nijigen_rvc_pipeline,"""vibe coded"" language:python",0,724,2026-07-25,2026-08-18,https://github.com/zhuoyuanmao/nijigen_rvc_pipeline,False,too few stars (likely spam/empty),ai-assisted
+MuhammadSaad19/Publisher-Compensation-Engine,"""vibe coded"" language:python",0,1021,2026-06-27,2026-08-18,https://github.com/MuhammadSaad19/Publisher-Compensation-Engine,False,too few stars (likely spam/empty),ai-assisted
+kostikovn/AutoCoder-CLI,"""vibe coded"" language:python",0,48,2026-08-18,2026-08-18,https://github.com/kostikovn/AutoCoder-CLI,False,"size 48KB outside [50,50000]",ai-assisted
+Cilca1020/VeryGoodPlayer,"""vibe coded"" language:python",0,2272,2026-08-18,2026-08-18,https://github.com/Cilca1020/VeryGoodPlayer,False,too few stars (likely spam/empty),ai-assisted
+finleycook31/Fin-Cook---Vibe-Coded-Top-Gainers-Data-Scraper,"""vibe coded"" language:python",0,78,2026-08-18,2026-08-18,https://github.com/finleycook31/Fin-Cook---Vibe-Coded-Top-Gainers-Data-Scraper,False,too few stars (likely spam/empty),ai-assisted
+livetennisapi/vibe-trading-livetennis,"""vibe coded"" language:python",0,28,2026-08-18,2026-08-18,https://github.com/livetennisapi/vibe-trading-livetennis,False,"size 28KB outside [50,50000]",ai-assisted
+trustable-ai/.github,"""vibe coded"" language:python",0,5403,2026-03-25,2026-08-18,https://github.com/trustable-ai/.github,False,too few stars (likely spam/empty),ai-assisted
+11Cpss/ant-raft-active-matter,"""vibe coded"" language:python",0,27448,2026-05-29,2026-08-18,https://github.com/11Cpss/ant-raft-active-matter,False,too few stars (likely spam/empty),ai-assisted
+nemtiax/Beta-Magic-Rules-Engine,"""vibe coded"" language:python",0,3539,2026-07-29,2026-08-18,https://github.com/nemtiax/Beta-Magic-Rules-Engine,False,too few stars (likely spam/empty),ai-assisted
+CaptainAfabs/Trade-Bot-v3,"""vibe coded"" language:python",0,792,2026-06-20,2026-08-18,https://github.com/CaptainAfabs/Trade-Bot-v3,False,too few stars (likely spam/empty),ai-assisted
+yuuuhiii/Illust,"""vibe coded"" language:python",0,211,2026-05-09,2026-08-18,https://github.com/yuuuhiii/Illust,False,too few stars (likely spam/empty),ai-assisted
+chrisyang9030999-cyber/chris-accounting-research-skills,"""vibe coded"" language:python",0,467,2026-08-06,2026-08-17,https://github.com/chrisyang9030999-cyber/chris-accounting-research-skills,False,too few stars (likely spam/empty),ai-assisted
+chanpreetsingh1297-code/devsecguard-security,"""vibe coded"" language:python",0,15,2026-08-17,2026-08-17,https://github.com/chanpreetsingh1297-code/devsecguard-security,False,"size 15KB outside [50,50000]",ai-assisted
+rdwnivan/TestProject_Portofolio,"""vibe coded"" language:python",0,1129,2026-08-17,2026-08-17,https://github.com/rdwnivan/TestProject_Portofolio,False,too few stars (likely spam/empty),ai-assisted
+Kamalasri11/genai-pyspark-pipelinee,"""vibe coded"" language:python",0,3,2026-08-15,2026-08-17,https://github.com/Kamalasri11/genai-pyspark-pipelinee,False,"size 3KB outside [50,50000]",ai-assisted
+Pixel-fish-123/competition_web,"""vibe coded"" language:python",0,46101,2026-08-02,2026-08-17,https://github.com/Pixel-fish-123/competition_web,False,too few stars (likely spam/empty),ai-assisted
+caspar-cpu/stock-portfolio-analyzer,"""vibe coded"" language:python",0,1818,2026-08-16,2026-08-17,https://github.com/caspar-cpu/stock-portfolio-analyzer,False,too few stars (likely spam/empty),ai-assisted
+ranyizhang-haylee/01-vibe-coding,"""vibe coded"" language:python",0,0,2026-08-17,2026-08-17,https://github.com/ranyizhang-haylee/01-vibe-coding,False,"size 0KB outside [50,50000]",ai-assisted
+GianvitoMarzo/mail-action-bot,"""vibe coded"" language:python",0,165,2026-08-16,2026-08-17,https://github.com/GianvitoMarzo/mail-action-bot,False,too few stars (likely spam/empty),ai-assisted
+lixiaoliuer1229/fly-anywhere,"""vibe coded"" language:python",0,22867,2026-05-09,2026-08-17,https://github.com/lixiaoliuer1229/fly-anywhere,False,too few stars (likely spam/empty),ai-assisted
+pocketpy/godot-vibe-plugin,"""vibe coded"" language:python",0,16364,2026-03-03,2026-08-17,https://github.com/pocketpy/godot-vibe-plugin,False,too few stars (likely spam/empty),ai-assisted
+SpaghettiMom/Aye-Yo-DJ,"""vibe coded"" language:python",0,2046,2026-04-07,2026-08-17,https://github.com/SpaghettiMom/Aye-Yo-DJ,False,too few stars (likely spam/empty),ai-assisted
+patrick-eu/ARMORY,"""vibe coded"" language:python",0,183,2026-07-09,2026-08-17,https://github.com/patrick-eu/ARMORY,False,too few stars (likely spam/empty),ai-assisted
+chenghyang2001/python-pr1,"""vibe coded"" language:python",0,28,2026-02-12,2026-08-17,https://github.com/chenghyang2001/python-pr1,False,"size 28KB outside [50,50000]",ai-assisted
+Master0fFate/VibeSecurity,"""vibe coded"" language:python",0,230,2026-06-28,2026-08-17,https://github.com/Master0fFate/VibeSecurity,False,too few stars (likely spam/empty),ai-assisted
+xiaoland/svc,"""vibe coded"" language:python",0,2602,2026-04-05,2026-08-17,https://github.com/xiaoland/svc,False,too few stars (likely spam/empty),ai-assisted
+Pythondinner/diff-PR-claude-version-,"""vibe coded"" language:python",0,145,2026-08-12,2026-08-17,https://github.com/Pythondinner/diff-PR-claude-version-,False,too few stars (likely spam/empty),ai-assisted
+jinglv/ht-ai-test,"""vibe coded"" language:python",0,11267,2026-08-14,2026-08-17,https://github.com/jinglv/ht-ai-test,False,too few stars (likely spam/empty),ai-assisted
+ivangawek12/secure-mcps-for-secure-artifacts,"""vibe coded"" language:python",0,37,2026-08-17,2026-08-17,https://github.com/ivangawek12/secure-mcps-for-secure-artifacts,False,"size 37KB outside [50,50000]",ai-assisted
+Yash-Awasthi/ToolkitArchive,"""vibe coded"" language:python",0,4285,2026-06-27,2026-08-16,https://github.com/Yash-Awasthi/ToolkitArchive,False,too few stars (likely spam/empty),ai-assisted
+selmer/litterbox,"""vibe coded"" language:python",0,13924,2026-03-01,2026-08-16,https://github.com/selmer/litterbox,False,too few stars (likely spam/empty),ai-assisted
+shShwsq/agentpair,"""vibe coded"" language:python",0,2928,2026-08-14,2026-08-18,https://github.com/shShwsq/agentpair,False,too few stars (likely spam/empty),ai-assisted
+antarikshmishra/vibe-coded-projects,"""vibe coded"" language:python",0,10,2026-08-16,2026-08-16,https://github.com/antarikshmishra/vibe-coded-projects,False,"size 10KB outside [50,50000]",ai-assisted
+EsVys/robot-barista-py,"""vibe coded"" language:python",0,22,2022-09-13,2026-08-16,https://github.com/EsVys/robot-barista-py,False,"size 22KB outside [50,50000]",ai-assisted
+dimension-creativity/lovable-skills,"""vibe coded"" language:python",0,32,2026-08-16,2026-08-16,https://github.com/dimension-creativity/lovable-skills,False,"size 32KB outside [50,50000]",ai-assisted
+tony/sdl3-playproject,"""vibe coded"" language:python",0,1595,2025-12-30,2026-08-16,https://github.com/tony/sdl3-playproject,False,too few stars (likely spam/empty),ai-assisted
+jienengshuji/termint,"""vibe coded"" language:python",0,19,2026-08-16,2026-08-16,https://github.com/jienengshuji/termint,False,"size 19KB outside [50,50000]",ai-assisted
+HaiGo/Dots_theBack,"""vibe coded"" language:python",0,38,2026-08-16,2026-08-16,https://github.com/HaiGo/Dots_theBack,False,"size 38KB outside [50,50000]",ai-assisted
+Fuzzy-and-Fluffy/ai-commit-standard,"""vibe coded"" language:python",0,115,2026-08-14,2026-08-16,https://github.com/Fuzzy-and-Fluffy/ai-commit-standard,False,too few stars (likely spam/empty),ai-assisted
+JoelSjogren/linear-itertools,"""vibe coded"" language:python",0,43,2026-08-16,2026-08-16,https://github.com/JoelSjogren/linear-itertools,False,"size 43KB outside [50,50000]",ai-assisted
+ShengZhaoYuan411/Quant_by-szy,"""vibe coded"" language:python",0,16511,2026-08-15,2026-08-16,https://github.com/ShengZhaoYuan411/Quant_by-szy,False,too few stars (likely spam/empty),ai-assisted
+crsgmi/yaysafe,"""vibe coded"" language:python",0,118,2026-08-15,2026-08-16,https://github.com/crsgmi/yaysafe,False,too few stars (likely spam/empty),ai-assisted
+peterrocherr/web_update_notifier,"""vibe coded"" language:python",0,36,2026-06-19,2026-08-16,https://github.com/peterrocherr/web_update_notifier,False,"size 36KB outside [50,50000]",ai-assisted
+fanjing188/ai_constraints,"""vibe coded"" language:python",0,129,2026-04-18,2026-08-16,https://github.com/fanjing188/ai_constraints,False,too few stars (likely spam/empty),ai-assisted
+e40125/vibe-coding-weekly,"""vibe coded"" language:python",0,21,2026-02-08,2026-08-16,https://github.com/e40125/vibe-coding-weekly,False,"size 21KB outside [50,50000]",ai-assisted
+jash0388/new-all-vibe-coded-skills-sphn-,"""vibe coded"" language:python",0,33752,2026-03-15,2026-08-16,https://github.com/jash0388/new-all-vibe-coded-skills-sphn-,False,too few stars (likely spam/empty),ai-assisted
+mxt4fs/musicPlayer_inCLI,"""vibe coded"" language:python",0,40,2026-08-16,2026-08-16,https://github.com/mxt4fs/musicPlayer_inCLI,False,"size 40KB outside [50,50000]",ai-assisted
+Duraishyam/Vibe-coding,"""vibe coded"" language:python",0,4,2026-08-16,2026-08-16,https://github.com/Duraishyam/Vibe-coding,False,"size 4KB outside [50,50000]",ai-assisted
+elichall/palette-picker,"""vibe coded"" language:python",0,25,2026-08-16,2026-08-16,https://github.com/elichall/palette-picker,False,"size 25KB outside [50,50000]",ai-assisted
+ChildericTournai/quick_cli_app,"""vibe coded"" language:python",0,12,2026-08-15,2026-08-16,https://github.com/ChildericTournai/quick_cli_app,False,"size 12KB outside [50,50000]",ai-assisted
+JonneSaloranta/ironstack,"""vibe coded"" language:python",0,1885,2026-08-14,2026-08-22,https://github.com/JonneSaloranta/ironstack,False,too few stars (likely spam/empty),ai-assisted
+HalmSascha/garage-admin-mcp,"""vibe coded"" language:python",0,160,2026-08-15,2026-08-15,https://github.com/HalmSascha/garage-admin-mcp,False,too few stars (likely spam/empty),ai-assisted
+anna328p/elara3,"""vibe coded"" language:python",0,104,2026-08-14,2026-08-15,https://github.com/anna328p/elara3,False,too few stars (likely spam/empty),ai-assisted
+Rishidatta2006/smart-waste-management-dashboard,"""vibe coded"" language:python",0,150,2026-08-15,2026-08-15,https://github.com/Rishidatta2006/smart-waste-management-dashboard,False,too few stars (likely spam/empty),ai-assisted
+x1colegal/P2PHTTP,"""vibe coded"" language:python",0,24,2026-05-23,2026-08-15,https://github.com/x1colegal/P2PHTTP,False,"size 24KB outside [50,50000]",ai-assisted
+gmf-uah/pack-coins,"""vibe coded"" language:python",0,7,2026-08-15,2026-08-15,https://github.com/gmf-uah/pack-coins,False,"size 7KB outside [50,50000]",ai-assisted
+Chukwuderachukwuemeka/python-practice,"""vibe coded"" language:python",0,2,2026-08-15,2026-08-15,https://github.com/Chukwuderachukwuemeka/python-practice,False,"size 2KB outside [50,50000]",ai-assisted
+Aliansari311/linkedout,"""vibe coded"" language:python",0,21,2026-08-15,2026-08-15,https://github.com/Aliansari311/linkedout,False,"size 21KB outside [50,50000]",ai-assisted
+NinaKuskova/time-saver-ai,topic:vibe-coding language:python,0,2289,2026-08-18,2026-08-23,https://github.com/NinaKuskova/time-saver-ai,False,too few stars (likely spam/empty),ai-assisted
+anns2rn/awesome-claude-md,topic:vibe-coding language:python,0,639,2026-03-15,2026-08-23,https://github.com/anns2rn/awesome-claude-md,False,too few stars (likely spam/empty),ai-assisted
+Samuelkebede24/skill-conductor,topic:vibe-coding language:python,0,651,2025-04-07,2026-08-23,https://github.com/Samuelkebede24/skill-conductor,False,too few stars (likely spam/empty),ai-assisted
+neodi040/Kostyashki,topic:vibe-coding language:python,0,12,2026-08-23,2026-08-23,https://github.com/neodi040/Kostyashki,False,"size 12KB outside [50,50000]",ai-assisted
+conniving-catechist742/ai-prompt-studio,topic:vibe-coding language:python,0,489,2026-07-30,2026-08-23,https://github.com/conniving-catechist742/ai-prompt-studio,False,too few stars (likely spam/empty),ai-assisted
+ianXO0/vibe-yaml,topic:vibe-coding language:python,0,534,2026-04-01,2026-08-23,https://github.com/ianXO0/vibe-yaml,False,too few stars (likely spam/empty),ai-assisted
+StarshipSuperjam/engine-template,topic:vibe-coding language:python,0,42542,2026-05-22,2026-08-23,https://github.com/StarshipSuperjam/engine-template,False,too few stars (likely spam/empty),ai-assisted
+Galarzaa90/sidecar-deck,topic:vibe-coding language:python,0,368,2026-05-16,2026-08-23,https://github.com/Galarzaa90/sidecar-deck,False,too few stars (likely spam/empty),ai-assisted
+Souhrid-Dey/toodles-ai-meal-planner,topic:vibe-coding language:python,0,794,2026-07-11,2026-08-22,https://github.com/Souhrid-Dey/toodles-ai-meal-planner,False,too few stars (likely spam/empty),ai-assisted
+Souhrid-Dey/monsoon-ai-citizen-preparedness,topic:vibe-coding language:python,0,902,2026-07-11,2026-08-22,https://github.com/Souhrid-Dey/monsoon-ai-citizen-preparedness,False,too few stars (likely spam/empty),ai-assisted
+MrJJ00/RPKA-Framework,topic:vibe-coding language:python,0,158,2026-07-22,2026-08-22,https://github.com/MrJJ00/RPKA-Framework,False,too few stars (likely spam/empty),ai-assisted
+ccr-wer/fable5-lite,topic:vibe-coding language:python,0,4665,2026-08-19,2026-08-22,https://github.com/ccr-wer/fable5-lite,False,too few stars (likely spam/empty),ai-assisted
+Kemb6163/dataforge,topic:vibe-coding language:python,0,663,2026-03-25,2026-08-22,https://github.com/Kemb6163/dataforge,False,too few stars (likely spam/empty),ai-assisted
+Gabssama12/spoon-awesome-skill,topic:vibe-coding language:python,0,2134,2020-03-26,2026-08-22,https://github.com/Gabssama12/spoon-awesome-skill,False,too few stars (likely spam/empty),ai-assisted
+YanZhiwei/speckit-delivery,topic:vibe-coding language:python,0,167,2026-08-18,2026-08-21,https://github.com/YanZhiwei/speckit-delivery,False,too few stars (likely spam/empty),ai-assisted
+logandoo/vibeweaver,topic:vibe-coding language:python,0,1544,2026-08-16,2026-08-21,https://github.com/logandoo/vibeweaver,False,too few stars (likely spam/empty),ai-assisted
+RuslanAMandell/UnslopMyCode,topic:vibe-coding language:python,0,287,2026-08-20,2026-08-20,https://github.com/RuslanAMandell/UnslopMyCode,False,too few stars (likely spam/empty),ai-assisted
+AaaRynt/AI-SVG,topic:vibe-coding language:python,0,37453,2026-06-29,2026-08-20,https://github.com/AaaRynt/AI-SVG,False,too few stars (likely spam/empty),ai-assisted
+DOKOS-TAYOS/vibe_template,topic:vibe-coding language:python,0,141,2026-05-01,2026-08-20,https://github.com/DOKOS-TAYOS/vibe_template,False,too few stars (likely spam/empty),ai-assisted
+salik702/Expense-Tracker,topic:vibe-coding language:python,0,212,2026-08-15,2026-08-19,https://github.com/salik702/Expense-Tracker,False,too few stars (likely spam/empty),ai-assisted
+leiMizzou/codex-lounge,topic:vibe-coding language:python,0,1541,2026-08-19,2026-08-19,https://github.com/leiMizzou/codex-lounge,False,too few stars (likely spam/empty),ai-assisted
+benteigland11/cartograph-mcp,topic:vibe-coding language:python,0,83,2026-04-23,2026-08-21,https://github.com/benteigland11/cartograph-mcp,False,too few stars (likely spam/empty),ai-assisted
+giovannicoppola/alfred-aeye,topic:vibe-coding language:python,0,1672,2026-08-12,2026-08-22,https://github.com/giovannicoppola/alfred-aeye,False,too few stars (likely spam/empty),ai-assisted
+thefrip29/Wealfy,topic:vibe-coding language:python,0,486,2026-08-16,2026-08-18,https://github.com/thefrip29/Wealfy,False,too few stars (likely spam/empty),ai-assisted
+Noverse0/what-did-ai-do,topic:vibe-coding language:python,0,4154,2026-08-18,2026-08-18,https://github.com/Noverse0/what-did-ai-do,False,too few stars (likely spam/empty),ai-assisted
+yuchen1017918/vibe-skill-ops,topic:vibe-coding language:python,0,1559,2026-08-06,2026-08-18,https://github.com/yuchen1017918/vibe-skill-ops,False,too few stars (likely spam/empty),ai-assisted
+SumanKumar18/Python-Assessments,topic:vibe-coding language:python,0,248,2026-08-06,2026-08-18,https://github.com/SumanKumar18/Python-Assessments,False,too few stars (likely spam/empty),ai-assisted
+robeertm/AIWerkstatt,topic:vibe-coding language:python,0,9919,2026-08-05,2026-08-17,https://github.com/robeertm/AIWerkstatt,False,too few stars (likely spam/empty),ai-assisted
+kelongyan/InkIn,topic:vibe-coding language:python,0,215,2026-06-26,2026-08-17,https://github.com/kelongyan/InkIn,False,too few stars (likely spam/empty),ai-assisted
+scriptor-pro/Clarionet,topic:vibe-coding language:python,0,6522,2026-01-16,2026-08-17,https://github.com/scriptor-pro/Clarionet,False,too few stars (likely spam/empty),ai-assisted
+lmaoha/dgs-npp-mcp,topic:vibe-coding language:python,0,8481,2026-07-31,2026-08-17,https://github.com/lmaoha/dgs-npp-mcp,False,too few stars (likely spam/empty),ai-assisted
+gachi-dev/agentlock,topic:vibe-coding language:python,0,606,2026-08-14,2026-08-17,https://github.com/gachi-dev/agentlock,False,too few stars (likely spam/empty),ai-assisted
+shuangzhaocoding/crm,topic:vibe-coding language:python,0,813,2026-07-25,2026-08-17,https://github.com/shuangzhaocoding/crm,False,too few stars (likely spam/empty),ai-assisted
+rawvv/git-slop,topic:vibe-coding language:python,0,10,2026-08-16,2026-08-16,https://github.com/rawvv/git-slop,False,"size 10KB outside [50,50000]",ai-assisted
+trugurpala/divan,topic:vibe-coding language:python,0,11390,2026-07-17,2026-08-23,https://github.com/trugurpala/divan,False,too few stars (likely spam/empty),ai-assisted
+adhi-jp/agent-skills,topic:vibe-coding language:python,0,3386,2026-03-01,2026-08-15,https://github.com/adhi-jp/agent-skills,False,too few stars (likely spam/empty),ai-assisted
+EricEEEEEEE/loopwork-skill-claude-code,topic:vibe-coding language:python,0,144,2026-07-11,2026-08-15,https://github.com/EricEEEEEEE/loopwork-skill-claude-code,False,too few stars (likely spam/empty),ai-assisted
+siddqamar/github-profile-screening,topic:vibe-coding language:python,0,12708,2026-02-22,2026-08-14,https://github.com/siddqamar/github-profile-screening,False,too few stars (likely spam/empty),ai-assisted
+Anas68755/PolyBuild,topic:vibe-coding language:python,0,303,2026-07-19,2026-08-14,https://github.com/Anas68755/PolyBuild,False,too few stars (likely spam/empty),ai-assisted
+ztxdkk/ai-vibe-workflow-toolkit,topic:vibe-coding language:python,0,42,2026-08-14,2026-08-14,https://github.com/ztxdkk/ai-vibe-workflow-toolkit,False,"size 42KB outside [50,50000]",ai-assisted
+endyphysio11/explain-before-approve,topic:vibe-coding language:python,0,105,2026-08-13,2026-08-14,https://github.com/endyphysio11/explain-before-approve,False,too few stars (likely spam/empty),ai-assisted
+Shilopy/cline-autopilot,topic:vibe-coding language:python,0,110,2026-08-01,2026-08-13,https://github.com/Shilopy/cline-autopilot,False,too few stars (likely spam/empty),ai-assisted
+davidel/chatty,topic:vibe-coding language:python,0,993,2026-06-20,2026-08-13,https://github.com/davidel/chatty,False,too few stars (likely spam/empty),ai-assisted
+23NNN/Private-Finance-Manager,topic:vibe-coding language:python,0,664,2026-01-28,2026-08-13,https://github.com/23NNN/Private-Finance-Manager,False,too few stars (likely spam/empty),ai-assisted
+Azerrroth/dualsense-vibe-controller,topic:vibe-coding language:python,0,1309,2026-08-12,2026-08-13,https://github.com/Azerrroth/dualsense-vibe-controller,False,too few stars (likely spam/empty),ai-assisted
+akiovl/project-intent,topic:vibe-coding language:python,0,39,2026-08-12,2026-08-12,https://github.com/akiovl/project-intent,False,"size 39KB outside [50,50000]",ai-assisted
+ContextualWisdomLab/appguardrail,topic:vibe-coding language:python,0,4051,2026-05-28,2026-08-23,https://github.com/ContextualWisdomLab/appguardrail,False,too few stars (likely spam/empty),ai-assisted
+MrBaoboer/Awesome-VibeCoding-Showcase,topic:vibe-coding language:python,0,152,2026-08-12,2026-08-12,https://github.com/MrBaoboer/Awesome-VibeCoding-Showcase,False,too few stars (likely spam/empty),ai-assisted
+iago885-chatbot/clinicbot-ai-portfolio,topic:vibe-coding language:python,0,854,2026-08-11,2026-08-11,https://github.com/iago885-chatbot/clinicbot-ai-portfolio,False,too few stars (likely spam/empty),ai-assisted
+Tendo33/python-template,topic:vibe-coding language:python,0,1229,2025-08-22,2026-08-11,https://github.com/Tendo33/python-template,False,too few stars (likely spam/empty),ai-assisted
+yhgzs-111/bili-dl,topic:vibe-coding language:python,0,78,2026-08-10,2026-08-10,https://github.com/yhgzs-111/bili-dl,False,too few stars (likely spam/empty),ai-assisted
+chamilto0516/glyphbound,topic:vibe-coding language:python,0,637,2026-05-11,2026-08-11,https://github.com/chamilto0516/glyphbound,False,too few stars (likely spam/empty),ai-assisted
+mluev/vibe-os,topic:vibe-coding language:python,0,147,2026-04-29,2026-08-10,https://github.com/mluev/vibe-os,False,too few stars (likely spam/empty),ai-assisted
+dankofly/production-architecture-guardian,topic:vibe-coding language:python,0,81,2026-08-08,2026-08-10,https://github.com/dankofly/production-architecture-guardian,False,too few stars (likely spam/empty),ai-assisted
+Tim-Beaver/Python-chess-engine,topic:vibe-coding language:python,0,765487,2026-08-07,2026-08-09,https://github.com/Tim-Beaver/Python-chess-engine,False,"size 765487KB outside [50,50000]",ai-assisted
+DaveCuc/app-mi-explorador-de-palabras,topic:vibe-coding language:python,0,8216,2026-08-01,2026-08-09,https://github.com/DaveCuc/app-mi-explorador-de-palabras,False,too few stars (likely spam/empty),ai-assisted
+ericgrahamtech/lexicon,topic:vibe-coding language:python,0,16,2026-08-08,2026-08-08,https://github.com/ericgrahamtech/lexicon,False,"size 16KB outside [50,50000]",ai-assisted
+Take-YourTime/Monkey-Battle,topic:vibe-coding language:python,0,123319,2026-04-10,2026-08-07,https://github.com/Take-YourTime/Monkey-Battle,False,"size 123319KB outside [50,50000]",ai-assisted
+CBrennecke26/bounded-vibe-delivery-framework,topic:vibe-coding language:python,0,54,2026-08-05,2026-08-06,https://github.com/CBrennecke26/bounded-vibe-delivery-framework,False,too few stars (likely spam/empty),ai-assisted
+log-silent/krita-stroke-limit-trainer,topic:vibe-coding language:python,0,13,2026-08-06,2026-08-06,https://github.com/log-silent/krita-stroke-limit-trainer,False,"size 13KB outside [50,50000]",ai-assisted
+Acrabxie/lumeri,topic:vibe-coding language:python,4,7035,2026-04-04,2026-08-19,https://github.com/Acrabxie/lumeri,True,no-readme-declaration,ai-assisted
+DizzyZ7/Last-Mile,topic:vibe-coding language:python,0,72,2026-08-04,2026-08-05,https://github.com/DizzyZ7/Last-Mile,False,too few stars (likely spam/empty),ai-assisted
+lovemage/vovoci,topic:vibe-coding language:python,1,72423,2026-03-24,2026-08-05,https://github.com/lovemage/vovoci,False,"size 72423KB outside [50,50000]",ai-assisted
+WebTolk/process-forge,topic:vibe-coding language:python,4,22771,2026-07-13,2026-08-23,https://github.com/WebTolk/process-forge,False,docs/prompt-heavy (1278 md/yaml vs 182 py),ai-assisted
+nilayparikh/codefreedom,topic:vibe-coding language:python,4,5377,2026-06-01,2026-08-05,https://github.com/nilayparikh/codefreedom,True,no-readme-declaration,ai-assisted
+woowacourse-personal/2026-iq-feedbackYISANG,topic:vibe-coding language:python,0,8125,2026-07-20,2026-08-19,https://github.com/woowacourse-personal/2026-iq-feedbackYISANG,False,too few stars (likely spam/empty),ai-assisted
+possible055/relace-mcp,topic:vibe-coding language:python,33,3320,2025-12-09,2026-08-05,https://github.com/possible055/relace-mcp,True,no-readme-declaration,ai-assisted
+nold-ai/specfact-cli-modules,topic:vibe-coding language:python,0,31651,2026-02-20,2026-08-23,https://github.com/nold-ai/specfact-cli-modules,False,too few stars (likely spam/empty),ai-assisted
+chuck-blevins/Discovery_Assistant,topic:vibe-coding language:python,0,88969,2026-02-18,2026-08-04,https://github.com/chuck-blevins/Discovery_Assistant,False,"size 88969KB outside [50,50000]",ai-assisted
+lovecatisgood-sudo/3d-asset-generation-blender-unity-game-development-skills,topic:vibe-coding language:python,2,4224,2026-08-04,2026-08-04,https://github.com/lovecatisgood-sudo/3d-asset-generation-blender-unity-game-development-skills,False,only 1 py files,ai-assisted
+Zyoffsec/airtight-secure-coding,topic:vibe-coding language:python,6,1477,2026-07-17,2026-08-04,https://github.com/Zyoffsec/airtight-secure-coding,False,only 3 py files,ai-assisted
+devad-mkt/devad-x9-loop,topic:vibe-coding language:python,1,1103,2026-07-13,2026-08-04,https://github.com/devad-mkt/devad-x9-loop,False,docs/prompt-heavy (231 md/yaml vs 45 py),ai-assisted
+Ijam18/MAJI-Skills,topic:vibe-coding language:python,17,94,2026-05-06,2026-08-04,https://github.com/Ijam18/MAJI-Skills,False,only 3 py files,ai-assisted
+pro-target/ai-r,topic:vibe-coding language:python,3,2357,2026-06-23,2026-08-04,https://github.com/pro-target/ai-r,True,no-readme-declaration,ai-assisted
+srthorat/opencode-proxy-for-claude-code,topic:vibe-coding language:python,1,919,2026-06-22,2026-08-04,https://github.com/srthorat/opencode-proxy-for-claude-code,True,no-readme-declaration,ai-assisted
+arrrgr/nfa-spec,topic:vibe-coding language:python,2,168,2026-07-28,2026-08-04,https://github.com/arrrgr/nfa-spec,False,only 4 py files,ai-assisted
+willianpinho/wk-watchdog-genai,topic:vibe-coding language:python,0,1222,2026-05-15,2026-08-04,https://github.com/willianpinho/wk-watchdog-genai,False,too few stars (likely spam/empty),ai-assisted
+Angryshark128/shibei,topic:vibe-coding language:python,0,129,2026-08-02,2026-08-04,https://github.com/Angryshark128/shibei,False,too few stars (likely spam/empty),ai-assisted
+anurag-bg-neu/path-pilot,topic:vibe-coding language:python,1,245,2026-07-04,2026-08-04,https://github.com/anurag-bg-neu/path-pilot,True,no-readme-declaration,ai-assisted
+Qkoa/alpha-ticket,topic:vibe-coding language:python,3,56,2026-07-15,2026-08-04,https://github.com/Qkoa/alpha-ticket,False,only 2 py files,ai-assisted
+TamaruNorio/UTR_RAG,topic:vibe-coding language:python,1,3866,2026-07-02,2026-08-04,https://github.com/TamaruNorio/UTR_RAG,False,only 3 py files,ai-assisted
+arkalibaig/Free-Claude-Code,topic:vibe-coding language:python,0,215,2026-04-30,2026-08-03,https://github.com/arkalibaig/Free-Claude-Code,False,too few stars (likely spam/empty),ai-assisted
+cyrusae/pbjson,topic:vibe-coding language:python,0,191,2026-01-09,2026-08-03,https://github.com/cyrusae/pbjson,False,too few stars (likely spam/empty),ai-assisted
+rajitsaha/100xprism,topic:vibe-coding language:python,10,12444,2026-04-10,2026-08-19,https://github.com/rajitsaha/100xprism,False,docs/prompt-heavy (298 md/yaml vs 49 py),ai-assisted
+ahmedibm9-cyber/VibeGuard,topic:vibe-coding language:python,0,583,2026-07-28,2026-08-03,https://github.com/ahmedibm9-cyber/VibeGuard,False,too few stars (likely spam/empty),ai-assisted
+moodyreplicant/claude-launcher-plus,topic:vibe-coding language:python,0,908,2026-06-02,2026-08-03,https://github.com/moodyreplicant/claude-launcher-plus,False,too few stars (likely spam/empty),ai-assisted
+Nicegraduate66/CodeGarage,topic:vibe-coding language:python,1,479,2026-07-24,2026-08-03,https://github.com/Nicegraduate66/CodeGarage,True,no-readme-declaration,ai-assisted
+GoldenWing-360/claude-security-skills,topic:vibe-coding language:python,15,1686,2026-05-12,2026-08-03,https://github.com/GoldenWing-360/claude-security-skills,False,only 1 py files,ai-assisted
+voltrace-io/vibes-to-verified,topic:vibe-coding language:python,0,36665,2026-07-14,2026-08-17,https://github.com/voltrace-io/vibes-to-verified,False,too few stars (likely spam/empty),ai-assisted
+superdesigndev/superdesign-prompts,topic:vibe-coding language:python,7,169820,2026-07-08,2026-08-03,https://github.com/superdesigndev/superdesign-prompts,False,"size 169820KB outside [50,50000]",ai-assisted
+Anselmoo/mcp-zen-of-languages,topic:vibe-coding language:python,2,2872,2026-02-18,2026-08-17,https://github.com/Anselmoo/mcp-zen-of-languages,True,no-readme-declaration,ai-assisted
+keting/half,topic:vibe-coding language:python,30,8490,2026-03-31,2026-08-03,https://github.com/keting/half,True,no-readme-declaration,ai-assisted
+yeasy/AgentGo,topic:vibe-coding language:python,19,467,2026-05-10,2026-08-03,https://github.com/yeasy/AgentGo,False,only 4 py files,ai-assisted
+kapustazh/call_me_maybe,topic:vibe-coding language:python,0,2223,2026-04-01,2026-08-02,https://github.com/kapustazh/call_me_maybe,False,too few stars (likely spam/empty),ai-assisted
+Ifarra/VibeServer,topic:vibe-coding language:python,0,153,2026-08-01,2026-08-02,https://github.com/Ifarra/VibeServer,False,too few stars (likely spam/empty),ai-assisted
+dankofly/eu-ai-act-skill,topic:vibe-coding language:python,0,49,2026-08-01,2026-08-02,https://github.com/dankofly/eu-ai-act-skill,False,"size 49KB outside [50,50000]",ai-assisted
+uxdesigneryeungsy/female-webnovel-workbench,topic:vibe-coding language:python,0,109,2026-08-02,2026-08-02,https://github.com/uxdesigneryeungsy/female-webnovel-workbench,False,too few stars (likely spam/empty),ai-assisted
+jeevesh2515/readme-guardian,topic:vibe-coding language:python,1,152,2026-07-05,2026-08-02,https://github.com/jeevesh2515/readme-guardian,False,only 4 py files,ai-assisted
+L-M-Sherlock/japanese-mining-report,topic:vibe-coding language:python,16,3599,2026-04-22,2026-08-20,https://github.com/L-M-Sherlock/japanese-mining-report,False,only 4 py files,ai-assisted
+L-M-Sherlock/japanese-reading-stats,topic:vibe-coding language:python,3,350,2026-06-20,2026-08-20,https://github.com/L-M-Sherlock/japanese-reading-stats,False,only 4 py files,ai-assisted
+CharlesXiangqianLIU/vibe-tracker,topic:vibe-coding language:python,0,26,2026-07-23,2026-08-01,https://github.com/CharlesXiangqianLIU/vibe-tracker,False,"size 26KB outside [50,50000]",ai-assisted
+JordanChoo/acfs-agent-skills,topic:vibe-coding language:python,0,297,2026-05-10,2026-08-01,https://github.com/JordanChoo/acfs-agent-skills,False,too few stars (likely spam/empty),ai-assisted
+mdhPHoenixVBcodes/games,topic:vibe-coding language:python,1,165292,2026-04-29,2026-08-01,https://github.com/mdhPHoenixVBcodes/games,False,"size 165292KB outside [50,50000]",ai-assisted
+Laith0003/ux-skill,topic:vibe-coding language:python,63,33876,2026-05-24,2026-08-01,https://github.com/Laith0003/ux-skill,False,docs/prompt-heavy (360 md/yaml vs 95 py),ai-assisted
+omarkhandji-commits/shipvitals,topic:vibe-coding language:python,0,621,2026-06-20,2026-08-01,https://github.com/omarkhandji-commits/shipvitals,False,too few stars (likely spam/empty),ai-assisted
+xhyumiracle/tg-claude-bot,topic:vibe-coding language:python,16,1091,2026-07-22,2026-07-31,https://github.com/xhyumiracle/tg-claude-bot,False,only 1 py files,ai-assisted
+FitHub-4/Fitness-Hub,topic:vibe-coding language:python,1,10099,2026-06-15,2026-07-30,https://github.com/FitHub-4/Fitness-Hub,True,no-readme-declaration,ai-assisted
+danizeap/drydock,topic:vibe-coding language:python,0,2105,2026-06-11,2026-07-30,https://github.com/danizeap/drydock,False,too few stars (likely spam/empty),ai-assisted
+ccjjfdyqlhy/dekacode,topic:vibe-coding language:python,3,815,2026-06-25,2026-07-30,https://github.com/ccjjfdyqlhy/dekacode,True,no-readme-declaration,ai-assisted
+indrad3v4/Vibratonic,topic:vibe-coding language:python,2,6033,2025-08-03,2026-07-30,https://github.com/indrad3v4/Vibratonic,True,no-readme-declaration,ai-assisted
+litianc/vibedeck-atom,topic:vibe-coding language:python,0,71,2026-07-29,2026-07-29,https://github.com/litianc/vibedeck-atom,False,too few stars (likely spam/empty),ai-assisted
+tancoai/lianzhu-skill,topic:vibe-coding language:python,0,436,2026-07-23,2026-07-29,https://github.com/tancoai/lianzhu-skill,False,too few stars (likely spam/empty),ai-assisted
+KostiKoNeuro/vibe-coding-benchmark-2026,topic:vibe-coding language:python,4,13658,2026-07-29,2026-07-29,https://github.com/KostiKoNeuro/vibe-coding-benchmark-2026,False,only 1 py files,ai-assisted
+FogSift/awesome-folk-code,topic:vibe-coding language:python,8,174,2026-02-25,2026-07-29,https://github.com/FogSift/awesome-folk-code,False,docs/prompt-heavy (53 md/yaml vs 28 py),ai-assisted
+Kyoyen/thinking-workflow-agent-skills,topic:vibe-coding language:python,2,115,2026-07-28,2026-07-29,https://github.com/Kyoyen/thinking-workflow-agent-skills,False,only 2 py files,ai-assisted
