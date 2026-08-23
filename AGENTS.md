@@ -30,8 +30,16 @@ GitHub Search API, unauthenticated (10 req/min limit):
 - Unauthenticated API = 60 core / 10 search requests/min; use tokens or throttle
   during full collection.
 
-## Next Steps
-1. Build candidate-collection script with filters (language, size, file composition).
-2. Manual spot-check 20 candidates → precision rate.
-3. Define control-group matching criteria (size, age, stars, language).
-4. Pilot pipeline: clone 10 repos/arm, run radon/lizard/pydocstyle, CSV output.
+## Next Steps (session checkpoint 2026-08-23 ~3am)
+1. **Top-up run:** collect ~30-40 controls from 2024-2025 slices only
+   (current 80 controls are all 2026; AI arm spans 2022-2026, mostly 2025-26).
+   Edit QUERIES list in scripts/collect_controls.py to 2024/2025 months,
+   raise CONTROL_TARGET or append to existing data/controls.csv.
+2. **Stratified matching:** pair each final AI repo with a control from same
+   (LOC band × creation year × star band) stratum, seeded RNG — per
+   docs/control-group-criteria.md.
+3. **Analysis pipeline:** clone → radon/lizard/pydocstyle/pydocstyle → metrics CSV.
+   License check enforced at clone time. Arm-blind until aggregation.
+4. AI-arm pool: data/candidates_v2.csv (202 accepted; prioritize 29
+   bot-contributor + 11 readme-declaration repos).
+5. LinkedIn post #1: kickoff/methodology post once pilot results land.
