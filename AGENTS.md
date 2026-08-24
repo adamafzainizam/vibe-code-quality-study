@@ -35,9 +35,13 @@ GitHub Search API, unauthenticated (10 req/min limit):
    clean controls — 80× 2024, 40× 2025, 80× 2026 (was 80 all-2026).
    collect_controls.py gained `--years` filter; gh_json got a 30s urlopen
    timeout (a dead TLS socket previously hung the run indefinitely).
-2. **Stratified matching:** pair each final AI repo with a control from same
-   (LOC band × creation year × star band) stratum, seeded RNG — per
-   docs/control-group-criteria.md.
+2. ~~Stratified matching~~ DONE (2026-08-24): scripts/compute_loc.py
+   (shallow-clone → source LOC bands) + scripts/match_sample.py
+   ((LOC band × year × star band) strata, seeded RNG seed=24070145,
+   walk ranked evidence list). Result: data/matched_pairs.csv — 50 pairs
+   (17 bot-evidence, 9 readme-declaration, 24 query-only), 8 attrition
+   recorded in run output. Controls: data/controls_loc.csv (197 with LOC;
+   3 clone failures).
 3. **Analysis pipeline:** clone → radon/lizard/pydocstyle/pydocstyle → metrics CSV.
    License check enforced at clone time. Arm-blind until aggregation.
 4. AI-arm pool: data/candidates_v2.csv (202 accepted; prioritize 29
