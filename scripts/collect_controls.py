@@ -108,7 +108,14 @@ def check_repo(repo, token):
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--out", default="data/controls.csv")
+    ap.add_argument("--years", default="",
+                    help="comma-separated years to restrict monthly slices to, e.g. --years 2024,2025")
     args = ap.parse_args()
+    if args.years:
+        years = {y.strip() for y in args.years.split(",")}
+        global QUERIES
+        QUERIES = [q for q in QUERIES if any(f"created:{y}-" in q for y in years)]
+        print(f"Restricted to year(s) {sorted(years)}: {len(QUERIES)} slices")
     token = os.environ.get("GITHUB_TOKEN")
 
     fields = ["full_name","stars","size_kb","created","pushed","url",

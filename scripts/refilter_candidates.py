@@ -52,7 +52,7 @@ def gh_json(path, token, params=None):
         req.add_header("Authorization", f"Bearer {token}")
     for attempt in range(6):
         try:
-            with urllib.request.urlopen(req) as r:
+            with urllib.request.urlopen(req, timeout=30) as r:
                 return json.loads(r.read().decode())
         except Exception as e:
             if attempt == 5:

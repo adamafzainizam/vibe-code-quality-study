@@ -30,11 +30,11 @@ GitHub Search API, unauthenticated (10 req/min limit):
 - Unauthenticated API = 60 core / 10 search requests/min; use tokens or throttle
   during full collection.
 
-## Next Steps (session checkpoint 2026-08-23 ~3am)
-1. **Top-up run:** collect ~30-40 controls from 2024-2025 slices only
-   (current 80 controls are all 2026; AI arm spans 2022-2026, mostly 2025-26).
-   Edit QUERIES list in scripts/collect_controls.py to 2024/2025 months,
-   raise CONTROL_TARGET or append to existing data/controls.csv.
+## Next Steps (updated 2026-08-24)
+1. ~~Control top-up~~ DONE (2026-08-24): data/controls.csv now has 200 accepted
+   clean controls — 80× 2024, 40× 2025, 80× 2026 (was 80 all-2026).
+   collect_controls.py gained `--years` filter; gh_json got a 30s urlopen
+   timeout (a dead TLS socket previously hung the run indefinitely).
 2. **Stratified matching:** pair each final AI repo with a control from same
    (LOC band × creation year × star band) stratum, seeded RNG — per
    docs/control-group-criteria.md.
