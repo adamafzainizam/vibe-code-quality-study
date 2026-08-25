@@ -33,20 +33,20 @@ confounders (repo type, size, age, popularity, author skill).
   "exercise", "bootcamp"), and repos by authors present in the AI arm.
 
 ## Blinding / honesty notes
-- Static analysis is automated, so analyst blinding isn't strictly required — but
+- Static analysis is automated, so analyst blinding isn't strictly required, but
   the analysis script must NOT know the arm label until the aggregation step.
 - Record every exclusion decision with a reason in the CSV (audit trail).
 
 ## Sample size (initial)
 - 50 AI-assisted + 50 matched controls (pilot: 10 + 10).
 - Power note: with n=50/arm we can detect ~0.55 SD differences at 80% power
-  (two-sample t-test, α=0.05) — adequate for pilot claims, framed as exploratory.
+  (two-sample t-test, α=0.05), adequate for pilot claims, framed as exploratory.
 
 ## Provenance signals
 - **Commit/contributor bot signatures** (`claude[bot]`, `cursor`, `codex`,
   `copilot`, `devin` etc. appearing as commit authors or contributors) are
   treated as *strong positive evidence* of AI-assisted development.
-- **One-directional signal:** their absence proves nothing — many vibe-coders
+- **One-directional signal:** their absence proves nothing; many vibe-coders
   strip bot attribution from history. Never use absence as evidence of
   traditional authorship.
 - For controls: ANY bot contributor = automatic disqualification.

@@ -12,11 +12,11 @@ comment ratio.**
 
 The full pipeline is scripted:
 
-1. `collect_controls.py` — GitHub Search API collection of control candidates
-2. `compute_loc.py` + `match_sample.py` — stratified matching (LOC band × year × star band), fixed RNG seed
-3. `analyze_repos.py` — per-repo metrics (radon CC/MI, lizard, docstrings), license-gated, arm-blind
-4. `backfill_pairs.py` — same-stratum replacement after attrition
-5. `aggregate_stats.py` — paired Wilcoxon + paired t + rank-biserial r
+1. `collect_controls.py`: GitHub Search API collection of control candidates
+2. `compute_loc.py` + `match_sample.py`: stratified matching (LOC band × year × star band), fixed RNG seed
+3. `analyze_repos.py`: per-repo metrics (radon CC/MI, lizard, docstrings), license-gated, arm-blind
+4. `backfill_pairs.py`: same-stratum replacement after attrition
+5. `aggregate_stats.py`: paired Wilcoxon + paired t + rank-biserial r
 
 Data files live in `data/`. The RNG seed used for matching is a fixed constant;
 it is recorded privately by the author to keep personal identifiers out of this
@@ -27,7 +27,7 @@ own seed will produce a slightly different but statistically equivalent sample.
 
 - Pilot sample: 46 pairs.
 - Selection effect: AI-arm repos self-declared AI use (bot commits or README).
-- Static metrics only — correctness not tested.
+- Static metrics only, so correctness is not tested.
 - License gate removed 40% of first-batch repos before matching.
 
 ## License
