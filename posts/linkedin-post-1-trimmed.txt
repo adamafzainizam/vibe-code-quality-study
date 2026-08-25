@@ -1,0 +1,35 @@
+I ran a small study to find out whether "vibe-coded" repos are worse code. Comparing 46 pairs of Python repos on GitHub — half AI-assisted, half traditional, matched by size, age, popularity — the honest answer is: I couldn't tell them apart.
+
+The setup. I found public Python repos whose authors openly used AI tools — via bot commits (Claude, Copilot, Cursor) or README declaration. I paired each with a traditionally-written repo of similar size, age, and popularity, then measured both sides blind: function complexity, function length, comment share, documentation mistakes. Only after all numbers were collected did I reveal which were the AI ones.
+
+Every statistical test came back inconclusive. But across five measures, the AI-assisted repos leaned slightly cleaner:
+
+- Fewer overly complicated functions (4.6% vs 6.5%)
+- Lower average function complexity
+- Shorter functions
+- Fewer documentation mistakes per 1,000 lines
+- A higher share of comments in the code
+
+None of these gaps prove anything at n=46. Still, they all point one way: the vibe-coded repos weren't sloppier — if anything, smaller, simpler, better-commented functions.
+
+Some honest caveats before anyone runs with this.
+
+This is a pilot — enough to see shapes, not enough to claim findings.
+
+These are repos whose authors chose to announce their AI use and publish the result — that selects for people who shipped something, not the abandoned projects nobody uploaded.
+
+These measures don't check correctness — a repo can look clean and still compute the wrong thing.
+
+And matching wasn't perfect — I only kept properly licensed repos, which cut 40% of my first batch.
+
+Next: expand the sample, add checks that test whether the code actually works, write it up properly. Every script and raw number is public in the repo.
+
+Full disclosure: I used AI tools to build the pipeline and draft this post. Using AI to study AI felt appropriately on-theme.
+
+Where I land: coding is one of the few places where AI use should be encouraged, because it's verifiable — the code runs or it doesn't, tests pass or they fail. But encouraged doesn't mean blind. Vibe-code without learning and you ship holes you can't see and can't fix at 2am. You still need to review, test, understand what you ship. Software is one of the few domains where AI takes the repetitive work and leaves humans the interesting parts.
+
+I keep coming back to one line: I want AI to do my laundry so I can make art. Not AI making art so I can do laundry.
+
+After all the talk about AI slop flooding GitHub, the difference between published vibe-coded Python and traditional counterparts is roughly nothing. Maybe the question isn't whether AI code is worse but why we expected it.
+
+Full write-up + charts: https://adamafzainizam.github.io/2026/08/25/vibe-coded-vs-traditional-code.html
