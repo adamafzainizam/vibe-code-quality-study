@@ -1,3 +1,5 @@
+TLDR: I compared 46 pairs of Python repos on GitHub, half written with AI tools and half written traditionally, matched by size, age, and popularity. I measured them with code-quality tools while not knowing which was which. Result: no measurable difference. The vibe-coded repos actually leaned slightly simpler and better-commented. Details and caveats below.
+
 I ran a small study to find out whether "vibe-coded" repos are worse code. After comparing 46 pairs of GitHub projects, the honest answer is: I couldn't tell them apart.
 
 The setup. I found public Python repos where the author openly used AI tools. Some had bot accounts (Claude, Copilot, Cursor) in the commit history, others said it right in the README. Then I paired each one with a traditionally-written repo of similar size, age, and popularity.
@@ -27,5 +29,7 @@ Third, these measurements don't check whether code is correct. A repo can look s
 Fourth, matching wasn't perfect. I only kept repos with proper open-source licenses, which eliminated 40% of my first batch and forced some awkward substitutions.
 
 The plan from here: expand the sample, add checks that actually test whether the code works, and write it all up properly. Every script, every raw number, and the exact recipe for building the sample is public in the repo.
+
+Full disclosure: I used AI tools to build the analysis pipeline and draft this post. Using AI to study AI felt appropriately on-theme.
 
 The takeaway I keep coming back to: after all the talk about AI slop flooding GitHub, the measurable difference between published vibe-coded Python and its traditional counterparts is roughly nothing. Maybe the interesting question isn't whether AI code is worse. It's why we expected it to be.
