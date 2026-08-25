@@ -42,8 +42,19 @@ GitHub Search API, unauthenticated (10 req/min limit):
    (17 bot-evidence, 9 readme-declaration, 24 query-only), 8 attrition
    recorded in run output. Controls: data/controls_loc.csv (197 with LOC;
    3 clone failures).
-3. **Analysis pipeline:** clone → radon/lizard/pydocstyle/pydocstyle → metrics CSV.
-   License check enforced at clone time. Arm-blind until aggregation.
-4. AI-arm pool: data/candidates_v2.csv (202 accepted; prioritize 29
-   bot-contributor + 11 readme-declaration repos).
-5. LinkedIn post #1: kickoff/methodology post once pilot results land.
+3. ~~Analysis pipeline~~ DONE (2026-08-25):
+   - Stage A: scripts/analyze_repos.py — shallow clone each repo, license gate
+     (RECOGNIZED_LICENSES only), radon CC/MI + lizard + docstring counting →
+     data/metrics_raw.csv (arm-blind, resumable).
+   - License attrition: 40/100 v1 repos skipped:license → only 16/50 usable pairs.
+   - Backfill: scripts/backfill_pairs.py (seed 24070146, same-stratum replacement,
+     adjacent-star-band relaxation recorded in `relaxed` column) →
+     data/matched_pairs_v2.csv = 46 pairs (4 unfillable dropped). All 46 fully analyzed.
+   - Stage B: scripts/aggregate_stats.py — paired Wilcoxon + paired t +
+     matched-pairs rank-biserial r → data/paired_stats.csv + data/summary.txt.
+   - RESULT (n=46): NO metric significant (all Wil p > 0.10). Directional trends:
+     AI repos lower complexity (pct_cc_gt_10 p=0.101 r=-0.278; lizard_avg_ccn
+     r=-0.230), fewer docstring violations/kloc (r=-0.230), higher comment ratio
+     (r=+0.262). Effect sizes small-to-moderate, consistent direction:
+     vibe-coded ≈ traditional on these static metrics.
+4. LinkedIn post #1: kickoff/methodology + pilot findings post.

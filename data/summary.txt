@@ -1,0 +1,21 @@
+=== Pair-level analysis ===
+
+Repo statuses: ok=94, skipped:license=40
+Complete pairs (both arms analyzed): 46/46
+
+
+metric | n | AI median | Ctrl median | Wilcoxon p | paired-t p | rank-biserial r
+----------------------------------------------------------------------------------------
+sloc: n=46 | AI=1.1e+04 | Ctrl=8218 | Wil p=0.5552 | t p=0.5194 | r=-0.100
+comment_ratio: n=46 | AI=0.05994 | Ctrl=0.0416 | Wil p=0.1242 | t p=0.9708 | r=+0.262
+docstring_density: n=46 | AI=0.05927 | Ctrl=0.05436 | Wil p=0.5841 | t p=0.5292 | r=+0.094
+cc_mean: n=46 | AI=3.731 | Ctrl=4.063 | Wil p=0.3622 | t p=0.3058 | r=-0.156
+cc_max: n=46 | AI=38 | Ctrl=44.5 | Wil p=0.7722 | t p=0.7299 | r=-0.049
+pct_cc_gt_10: n=46 | AI=4.575 | Ctrl=6.465 | Wil p=0.1013 | t p=0.1060 | r=-0.278
+mi_mean: n=46 | AI=58.24 | Ctrl=57.11 | Wil p=0.9138 | t p=0.9843 | r=-0.019
+mi_min: n=46 | AI=0 | Ctrl=4.97 | Wil p=0.2748 | t p=0.3729 | r=-0.232
+lizard_avg_ccn: n=46 | AI=3.098 | Ctrl=3.542 | Wil p=0.1772 | t p=0.2472 | r=-0.230
+lizard_max_ccn: n=46 | AI=38 | Ctrl=41.5 | Wil p=0.9415 | t p=0.6578 | r=+0.013
+lizard_avg_nloc: n=46 | AI=13 | Ctrl=14.96 | Wil p=0.1720 | t p=0.1142 | r=-0.231
+avg_tokens_per_func: n=46 | AI=16.6 | Ctrl=17.1 | Wil p=0.3019 | t p=0.2777 | r=-0.175
+docstring_viols_per_kloc: n=46 | AI=15.3 | Ctrl=21.39 | Wil p=0.1772 | t p=0.2880 | r=-0.230
