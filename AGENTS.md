@@ -65,7 +65,10 @@ GitHub Search API, unauthenticated (10 req/min limit):
    posts/linkedin-post-1-trimmed.txt ends with a link to the long-form blog
    version. Ready to publish; NOT yet posted. NOTE: study repo is local-only
    (no remote) — "public in the repo" claim implies pushing it publicly soon;
-   use adamafzainizam account when that happens.
+   use adamafzainizam account when that happens. DONE: pushed public at
+   https://github.com/adamafzainizam/vibe-code-quality-study (2026-08-25) —
+   seeds scrubbed from AGENTS.md, scripts, and both pair CSVs (replaced with
+   REDACTED / generic constants) BEFORE pushing; keep it that way.
 5. Long-form home: DONE (2026-08-25) — Jekyll blog at
    https://adamafzainizam.github.io (repo ~/Documents/adamafzainizam.github.io,
    GitHub Actions Pages deploy). Post #1 full write-up at
