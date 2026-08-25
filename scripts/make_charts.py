@@ -141,7 +141,7 @@ fig, ax = plt.subplots(figsize=(10, 4.2))
 ax.axis("off")
 steps = [
     ("Search GitHub", "vibe-coded Python repos:\nbot contributors,\nREADME declarations"),
-    ("Match pairs", "same LOC band,\nyear, star band\n(seed 24070145)"),
+    ("Match pairs", "same LOC band,\nyear, star band\n(fixed random seed)"),
     ("Measure blind", "clone + radon, lizard,\ndocstring checks;\narm labels withheld"),
     ("Compare pairs", "46 pairs,\nWilcoxon signed-rank\n+ effect sizes"),
 ]
