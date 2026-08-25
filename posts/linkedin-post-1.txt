@@ -1,0 +1,31 @@
+I ran a small empirical study on whether "vibe-coded" repos are worse code. The boring answer: I couldn't tell them apart.
+
+Here's the setup. I collected 46 pairs of public Python repos on GitHub. One side of each pair is self-declared AI-assisted (bot contributors like claude/Copilot/cursor in the commit history, or a README that says it was built with Cursor/Claude/Copilot). The other side is a traditionally-written repo matched on the same strata: source LOC band, creation year, and star band, drawn with a seeded RNG so the whole thing is reproducible.
+
+Then I measured both arms blind — the script that cloned the repos had no idea which was which. Radon for cyclomatic complexity and maintainability index, lizard as a second complexity opinion, plus comment ratio, docstring density, and pydocstyle violations per kloc. Only after everything was aggregated did the arm mapping get joined back in.
+
+The results: no metric came out significant. Every Wilcoxon p-value was above 0.10 across all 13 metrics.
+
+The directional trends were more interesting than the p-values, though. Consistently across five different measures, the AI-assisted repos leaned slightly simpler:
+
+- Fewer functions above cyclomatic complexity 10 (4.6% vs 6.5%, r = -0.28)
+- Lower average complexity (3.1 vs 3.5, lizard)
+- Smaller functions on average
+- Fewer docstyle violations per kloc
+- And actually a higher comment ratio
+
+Small-to-moderate effects, none significant at n=46, but they all point the same way. The vibe-coded repos weren't sloppier. If anything they trend toward smaller, flatter, better-commented functions.
+
+Some honest caveats before anyone runs with this:
+
+First, this is a pilot. 46 pairs is enough to see shapes, not enough to claim findings.
+
+Second, selection bias cuts deep here. These are repos whose authors publicly declared AI use, and chose to publish at all. That's a self-selected sample of people who cared enough to ship. It tells you nothing about abandoned half-projects nobody uploaded.
+
+Third, static metrics don't measure correctness. Low cyclomatic complexity can mean clean design or just short files doing less. A repo can pass every one of these checks and still be wrong about what it computes.
+
+Fourth, matching was imperfect. The license gate (I only kept repos with recognized OSS licenses) killed 40 of my original 100 repos, and backfilling replacements forced me to relax star-band constraints for a handful of pairs. All recorded, all reproducible, but worth knowing.
+
+My plan from here: expand the sample, add a few semantic-level checks, and write the whole thing up properly as a preprint. Everything — collection scripts, matching logic with the seed printed next to it, raw metrics CSVs — lives in the open.
+
+The takeaway I keep coming back to: after months of discourse about AI slop flooding GitHub, the actual measurable difference between published vibe-coded Python and its traditional counterparts, at least through a static-analysis lens, is approximately nothing. Maybe the interesting question isn't whether AI code is worse. It's why we expected it to be.
