@@ -37,7 +37,7 @@ GitHub Search API, unauthenticated (10 req/min limit):
    timeout (a dead TLS socket previously hung the run indefinitely).
 2. ~~Stratified matching~~ DONE (2026-08-24): scripts/compute_loc.py
    (shallow-clone → source LOC bands) + scripts/match_sample.py
-   ((LOC band × year × star band) strata, seeded RNG seed=24070145,
+   ((LOC band × year × star band) strata, seeded RNG seed=REDACTED (fixed constant; recorded privately),
    walk ranked evidence list). Result: data/matched_pairs.csv — 50 pairs
    (17 bot-evidence, 9 readme-declaration, 24 query-only), 8 attrition
    recorded in run output. Controls: data/controls_loc.csv (197 with LOC;
@@ -47,7 +47,7 @@ GitHub Search API, unauthenticated (10 req/min limit):
      (RECOGNIZED_LICENSES only), radon CC/MI + lizard + docstring counting →
      data/metrics_raw.csv (arm-blind, resumable).
    - License attrition: 40/100 v1 repos skipped:license → only 16/50 usable pairs.
-   - Backfill: scripts/backfill_pairs.py (seed 24070146, same-stratum replacement,
+   - Backfill: scripts/backfill_pairs.py (seed REDACTED+1, same-stratum replacement,
      adjacent-star-band relaxation recorded in `relaxed` column) →
      data/matched_pairs_v2.csv = 46 pairs (4 unfillable dropped). All 46 fully analyzed.
    - Stage B: scripts/aggregate_stats.py — paired Wilcoxon + paired t +

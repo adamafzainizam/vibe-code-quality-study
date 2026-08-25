@@ -10,7 +10,7 @@ then query-only fills — until TARGET per arm.
 Usage:
     python3 scripts/match_sample.py \
         --ai data/ai_loc.csv --controls data/controls_loc.csv \
-        --target 50 --seed 24070145 --out data/matched_pairs.csv
+        --target 50 --seed 20260823 --out data/matched_pairs.csv
 """
 import argparse
 import csv
@@ -47,7 +47,7 @@ def main():
     ap.add_argument("--ai", required=True)
     ap.add_argument("--controls", required=True)
     ap.add_argument("--target", type=int, default=50)
-    ap.add_argument("--seed", type=int, default=24070145)
+    ap.add_argument("--seed", type=int, default=20260823)
     ap.add_argument("--out", default="data/matched_pairs.csv")
     args = ap.parse_args()
 

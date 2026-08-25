@@ -40,7 +40,7 @@ def main():
     ap.add_argument("--metrics", default="data/metrics_raw.csv")
     ap.add_argument("--ai", default="data/ai_loc.csv")
     ap.add_argument("--controls", default="data/controls_loc.csv")
-    ap.add_argument("--seed", type=int, default=24070146)
+    ap.add_argument("--seed", type=int, default=20260824)
     ap.add_argument("--out", default="data/matched_pairs_v2.csv")
     args = ap.parse_args()
 
