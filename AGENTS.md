@@ -74,8 +74,22 @@ GitHub Search API, unauthenticated (10 req/min limit):
    GitHub Actions Pages deploy). Post #1 full write-up at
    /2026/08/25/vibe-coded-vs-traditional-code.html; homepage index.html links
    it manually (add future posts there too).
-6. Next session queue:
-   - Publish post #1 (assets + text ready in posts/)
+6. Session state (end of 2026-08-25): EVERYTHING PUBLISH-READY.
+   - LinkedIn post 1 final text: posts/linkedin-post-1-trimmed.txt
+     (2,943 chars, humanized: no em dashes/curly punctuation/emoji; ends with
+     blog + repo links). NOT YET POSTED — first action next session is Adam
+     posting it with the 7 chart images from posts/assets/.
+   - Blog live: https://adamafzainizam.github.io (adamafzainizam.github.io repo,
+     local at ~/Documents/adamafzainizam.github.io, Jekyll + Actions deploy).
+     Post 1 humanized too; 6 charts embedded; verified live.
+   - Study repo PUBLIC: https://github.com/adamafzainizam/vibe-code-quality-study
+     Seeds scrubbed (student ID) from scripts/CSVs/AGENTS.md BEFORE push — never
+     re-add them. Name "Adam" also removed from public docs.
+   - gh CLI active account switched to adamafzainizam (skibidam still in keyring).
+   - Humanizer pass done on all public-facing text (LinkedIn post, blog post,
+     README, docs/, AGENTS.md). Keep this standard for post #2.
+7. Next session queue:
+   - FIRST: Adam publishes LinkedIn post 1 (text + charts ready)
    - Post #2 candidate: deeper dive on license-gate attrition / methodology
    - Expand sample (n>46) + add correctness checks (tests, execution) per post plan
    - Eventually: preprint writeup (Zenodo DOI) per original roadmap
