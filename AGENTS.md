@@ -157,3 +157,49 @@ Consequence for the project: post 2 is a methods note about resolution, instrume
 dilution, not a second "no difference" post. The next data step is a registered arm
 (bot evidence plus tooling artefacts, 73 candidates today), a control arm re-collected
 through the artefact scan, no licence gate, and about 95 pairs.
+
+## Session state, 2026-11-27 evening (handoff: Adam leaving)
+
+**Nothing is running.** All work is committed and pushed to PR #1 on branch
+`analysis/second-pass-2026-11`.
+
+Done this session: power analysis (`scripts/power_analysis.py`), arm-blind hygiene
+measurement (`scripts/measure_hygiene.py`, `scripts/hygiene_stats.py`), licence base
+rate at 250 candidates (`scripts/collect_license_base_rate.py`,
+`scripts/license_base_rate_analysis.py`), the AI-artefact instrument
+(`scripts/detect_ai_artifacts.py`, `scripts/artifact_evidence_stats.py`), the
+clean-subset probe (`scripts/clean_subset_analysis.py`), the four-language screen
+(`scripts/screen_languages.py`), and `docs/second-pass-2026-11-27.md` with all of it.
+
+**Resume point: the language screen is part-finished.** `data/lang_screen.csv` holds
+729 screened candidates: TypeScript 260 (127 independent), JavaScript 169 (69), Rust
+150 (67), Java 150 (28). Target was 260 screened for TS/JS/Rust; TS is done, JS and
+Rust are not.
+
+Resume with:
+
+```
+export GITHUB_TOKEN=$(gh auth token)
+.venv/bin/python scripts/screen_languages.py --languages javascript,rust \
+    --per-lang 260 --out data/lang_screen.csv
+```
+
+The script resumes from the existing CSV and skips repos already screened, so no API
+call is repeated. It rewrites the whole CSV on every accepted row, so a kill during a
+write can truncate the file; the committed snapshot restores it with
+`git checkout -- data/lang_screen.csv`. (It does not delete the file at the end.)
+
+**Next data step, not started:** clone the independent candidates plus matched
+artefact-free controls, measure lizard's four metrics (average and max CCN, average
+NLOC, tokens per function), per-language hygiene, match inside language x LOC band x
+year x star band, then paired stats with language as a stratum and a heterogeneity
+test. Roughly 400 repos, a few hours unattended. radon metrics do not carry over:
+Python-only.
+
+**Open decisions before that step:** (1) tighten the evidence rule to "agent commit or
+two independent artefact kinds" so template forks do not count, which shrinks the pool
+and needs a re-count; (2) Java's 28 independent candidates may be too few to report as
+its own stratum, in which case drop it rather than fold it in silently.
+
+**Waiting on Adam:** merge PR #1; the Applications reply sweep needs his Chromium
+profile released (`~/.hermes/browser-profile/chrome` is locked by another Chromium).
