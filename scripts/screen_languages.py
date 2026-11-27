@@ -150,8 +150,14 @@ def main():
         sys.exit("no GitHub credentials available")
 
     rows = []
+    seen_all = set()
+    if os.path.exists(args.out):
+        rows = list(csv.DictReader(open(args.out)))
+        seen_all = {r["repo"] for r in rows}
+        print(f"resuming from {args.out}: {len(rows)} rows already screened", flush=True)
     for lang in [x.strip() for x in args.languages.split(",") if x.strip()]:
-        seen, accepted = set(), 0
+        seen = set()
+        accepted = sum(1 for r in rows if r["language"] == lang)
         print(f"\n== {lang}: up to {args.per_lang} screened candidates", flush=True)
         for fam in QUERY_FAMILIES:
             if accepted >= args.per_lang:
@@ -165,7 +171,7 @@ def main():
                 for repo in (data or {}).get("items", []):
                     if accepted >= args.per_lang:
                         break
-                    if repo.get("fork") or repo["full_name"] in seen:
+                    if repo.get("fork") or repo["full_name"] in seen or repo["full_name"] in seen_all:
                         continue
                     seen.add(repo["full_name"])
                     rec = screen(repo, lang, q)
