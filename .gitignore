@@ -2,3 +2,4 @@
 .clone-cache/
 __pycache__/
 data/*.err
+.hygiene-cache/

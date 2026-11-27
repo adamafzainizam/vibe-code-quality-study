@@ -1,0 +1,214 @@
+full_name,stars,size_kb,created,pushed,url,license,recognised,verdict,reason,arm,desc,py_files
+ArtafasioPippoz/ChartLibre,1,92735,2026-08-16,2026-11-27,https://github.com/ArtafasioPippoz/ChartLibre,mit,True,reject,size-out-of-band,control-nogate,,
+cmahmud/proxies,5,1339615,2026-08-18,2026-11-27,https://github.com/cmahmud/proxies,none,False,reject,size-out-of-band,control-nogate,,
+9115jin/PINK,1,591,2026-08-27,2026-11-27,https://github.com/9115jin/PINK,bsd-3-clause,True,reject,ai-mention-in-readme,control-nogate,,13
+Galaxia5987/aether-vision,1,11480,2026-08-11,2026-11-27,https://github.com/Galaxia5987/aether-vision,none,False,reject,bot-contributor:claude,control-nogate,,76
+Xuzhen-Li/vitis-popgen,1,274,2026-08-20,2026-11-27,https://github.com/Xuzhen-Li/vitis-popgen,none,False,accept,clean-control,control-nogate,,15
+BridgeTheBit/Usability-Recorder,1,1274,2026-08-15,2026-11-27,https://github.com/BridgeTheBit/Usability-Recorder,none,False,accept,clean-control,control-nogate,,18
+akuncadangans1tu-beep/Palembang-CCTV-Streams,1,749,2026-08-22,2026-11-27,https://github.com/akuncadangans1tu-beep/Palembang-CCTV-Streams,unlicense,True,reject,only 3 py files,control-nogate,,
+sportlive18/sportlink-update,42,229186,2026-08-02,2026-11-27,https://github.com/sportlive18/sportlink-update,none,False,reject,size-out-of-band,control-nogate,,
+wil971/Enterprise-KE.,1,882,2026-08-13,2026-11-27,https://github.com/wil971/Enterprise-KE.,none,False,accept,clean-control,control-nogate,,7
+itsupport-onl/erpnext_gdpdu_export,1,167,2026-08-01,2026-11-27,https://github.com/itsupport-onl/erpnext_gdpdu_export,agpl-3.0,False,accept,clean-control,control-nogate,,42
+EricHype/LionheartFixt,17,50782,2026-08-19,2026-11-27,https://github.com/EricHype/LionheartFixt,mit,True,reject,size-out-of-band,control-nogate,,
+Sho-Sho122/mexc-monitor,1,4230386,2026-08-24,2026-11-27,https://github.com/Sho-Sho122/mexc-monitor,none,False,reject,size-out-of-band,control-nogate,,
+Schereo/localvoice,4,930,2026-08-06,2026-11-27,https://github.com/Schereo/localvoice,mit,True,reject,ai-mention-in-readme,control-nogate,,42
+workitjobs/workit,4,33976,2026-08-25,2026-11-27,https://github.com/workitjobs/workit,mit,True,reject,"bot-contributor:claude,Copilot",control-nogate,,970
+Cdaprod/elegoo-neptune-2-3d-printer,1,4338,2026-08-03,2026-11-27,https://github.com/Cdaprod/elegoo-neptune-2-3d-printer,mit,True,accept,clean-control,control-nogate,,64
+Xuzhen-Li/grapevine-adna,1,233,2026-08-20,2026-11-27,https://github.com/Xuzhen-Li/grapevine-adna,none,False,accept,clean-control,control-nogate,,8
+hristovdimitri2-hub/kristo-intelligence-6,2,10482,2026-08-19,2026-11-27,https://github.com/hristovdimitri2-hub/kristo-intelligence-6,mit,True,accept,clean-control,control-nogate,,270
+NaNIsaac-Research/TraTT,1,51146,2026-08-28,2026-11-27,https://github.com/NaNIsaac-Research/TraTT,mit,True,reject,size-out-of-band,control-nogate,,
+krishna3163/krishna3163,2,217034,2026-08-10,2026-11-27,https://github.com/krishna3163/krishna3163,none,False,reject,size-out-of-band,control-nogate,,
+TigreGotico/linguonnx,1,1490,2026-08-02,2026-11-27,https://github.com/TigreGotico/linguonnx,apache-2.0,True,accept,clean-control,control-nogate,,92
+Vadyusik01/Nuve-thermostat,3,93,2026-08-26,2026-11-27,https://github.com/Vadyusik01/Nuve-thermostat,none,False,accept,clean-control,control-nogate,,15
+Damon-ming/ai-fullstack-system,2,3696,2026-08-14,2026-11-27,https://github.com/Damon-ming/ai-fullstack-system,none,False,reject,ai-mention-in-readme,control-nogate,,218
+VD171/vienna-kernel-build,8,350,2026-08-22,2026-11-27,https://github.com/VD171/vienna-kernel-build,mit,True,reject,only 3 py files,control-nogate,,
+Gamadril34rus/astra_bot,1,3695402,2026-08-09,2026-11-27,https://github.com/Gamadril34rus/astra_bot,noassertion,False,reject,size-out-of-band,control-nogate,,
+LIM-AIT/cgv-api-watcher,3,16994,2026-08-03,2026-11-27,https://github.com/LIM-AIT/cgv-api-watcher,mit,True,accept,clean-control,control-nogate,,24
+lorenzoFabbri/bibaudit,1,2871,2026-08-01,2026-11-27,https://github.com/lorenzoFabbri/bibaudit,mit,True,reject,library-not-app,control-nogate,,
+reve486/timecigar-restock-notify,1,40214,2026-08-18,2026-11-27,https://github.com/reve486/timecigar-restock-notify,mit,True,reject,only 1 py files,control-nogate,,
+XenoAmess/ck3_eternal_recurrence,2,1557742,2026-08-16,2026-11-27,https://github.com/XenoAmess/ck3_eternal_recurrence,gpl-3.0,True,reject,size-out-of-band,control-nogate,,
+beepboop2025/financial-evidence-skills,1,29325,2026-08-24,2026-11-27,https://github.com/beepboop2025/financial-evidence-skills,mit,True,reject,ai-mention-in-readme,control-nogate,,266
+BasileChretien/manuscript-guard,1,26109,2026-08-03,2026-11-27,https://github.com/BasileChretien/manuscript-guard,mit,True,reject,ai-mention-in-readme,control-nogate,,694
+Symbifox/odoo-modules,4,51795,2026-08-12,2026-11-27,https://github.com/Symbifox/odoo-modules,noassertion,False,reject,size-out-of-band,control-nogate,,
+cflmy/marqdo,1,17631,2026-08-04,2026-11-27,https://github.com/cflmy/marqdo,apache-2.0,True,accept,clean-control,control-nogate,,15
+jinhj423/okx-tracker,1,22729,2026-08-05,2026-11-27,https://github.com/jinhj423/okx-tracker,none,False,reject,only 1 py files,control-nogate,,
+stephenfor2123/quota-monitor,1,2590,2026-08-26,2026-11-27,https://github.com/stephenfor2123/quota-monitor,none,False,reject,only 1 py files,control-nogate,,
+ClimateImpactLab/cil_regionalization,1,85761,2026-08-14,2026-11-27,https://github.com/ClimateImpactLab/cil_regionalization,none,False,reject,size-out-of-band,control-nogate,,
+dalexmon81/ScentHunter,1,16124,2026-08-01,2026-11-27,https://github.com/dalexmon81/ScentHunter,none,False,reject,bot-contributor:Copilot,control-nogate,,270
+ghostyubin/erscloudsync,2,833,2026-08-04,2026-11-27,https://github.com/ghostyubin/erscloudsync,none,False,accept,clean-control,control-nogate,,32
+AmbaRu/rizpaq,9,2506,2026-08-07,2026-11-27,https://github.com/AmbaRu/rizpaq,gpl-3.0,True,accept,clean-control,control-nogate,,252
+dylanzhangzx/dknowc-ppt-assistant,1,2225,2026-08-27,2026-11-27,https://github.com/dylanzhangzx/dknowc-ppt-assistant,mit,True,accept,clean-control,control-nogate,,134
+mchittineni/repo-radar,1,914,2026-08-19,2026-11-27,https://github.com/mchittineni/repo-radar,mit,True,accept,clean-control,control-nogate,,5
+HRaj07/algo-intraday,5,5084,2026-08-08,2026-11-27,https://github.com/HRaj07/algo-intraday,mit,True,accept,clean-control,control-nogate,,30
+lwelzel/jwstflow,3,2869,2026-08-26,2026-11-27,https://github.com/lwelzel/jwstflow,bsd-3-clause,True,reject,bot-contributor:claude,control-nogate,,148
+yeochul-jeon/harness_java_framework,1,77,2026-08-11,2026-11-27,https://github.com/yeochul-jeon/harness_java_framework,none,False,reject,only 2 py files,control-nogate,,
+art20021986-wq/ua-art-autopilot,1,442127,2026-08-25,2026-11-27,https://github.com/art20021986-wq/ua-art-autopilot,none,False,reject,size-out-of-band,control-nogate,,
+lexmount/moli-metrics,7,1214,2026-08-21,2026-11-27,https://github.com/lexmount/moli-metrics,none,False,reject,only 1 py files,control-nogate,,
+ssongboy1/cgv-open-alert,1,5656,2026-08-20,2026-11-27,https://github.com/ssongboy1/cgv-open-alert,none,False,reject,bot-contributor:claude,control-nogate,,9
+qiri07/trade-krono-cli,1,4365,2026-08-11,2026-11-27,https://github.com/qiri07/trade-krono-cli,apache-2.0,True,reject,ai-mention-in-readme,control-nogate,,604
+Lenvanderhof/Undominated.ai,1,10189,2026-08-25,2026-11-27,https://github.com/Lenvanderhof/Undominated.ai,noassertion,False,reject,bot-contributor:codex,control-nogate,,76
+rolandzeiner/webcam-timelapse,1,1033,2026-08-01,2026-11-27,https://github.com/rolandzeiner/webcam-timelapse,mit,True,accept,clean-control,control-nogate,,42
+paulingalls/xp-plugin,2,5111,2026-08-20,2026-11-27,https://github.com/paulingalls/xp-plugin,none,False,reject,ai-mention-in-readme,control-nogate,,54
+msampath/h1b-sponsor-data,1,183,2026-08-08,2026-11-27,https://github.com/msampath/h1b-sponsor-data,mit,True,accept,clean-control,control-nogate,,8
+itzstebin/itzstebin,1,555,2026-08-14,2026-11-27,https://github.com/itzstebin/itzstebin,none,False,reject,only 1 py files,control-nogate,,
+Martinezworldwide/martinezworldwide,1,12297,2026-08-12,2026-11-27,https://github.com/Martinezworldwide/martinezworldwide,none,False,reject,only 4 py files,control-nogate,,
+IncludeLuisFerreira/LINX-LoRaWAN-Intelligence-Nexus,2,4996,2026-08-24,2026-11-27,https://github.com/IncludeLuisFerreira/LINX-LoRaWAN-Intelligence-Nexus,none,False,accept,clean-control,control-nogate,,219
+yinggege666666-alt/bili-video-tracker,1,5440,2026-08-11,2026-11-27,https://github.com/yinggege666666-alt/bili-video-tracker,none,False,reject,only 2 py files,control-nogate,,
+murphybitcoin/agent-ops-field-notes,1,1554,2026-08-25,2026-11-27,https://github.com/murphybitcoin/agent-ops-field-notes,none,False,reject,only 1 py files,control-nogate,,
+ederevx/agent-mem-struct,1,1865,2026-08-18,2026-11-27,https://github.com/ederevx/agent-mem-struct,mit,True,reject,ai-mention-in-readme,control-nogate,,35
+teddyli18000/teddyli18000,1,25310,2026-08-12,2026-11-27,https://github.com/teddyli18000/teddyli18000,none,False,reject,only 4 py files,control-nogate,,
+luvinhaed/PanoramaAtlantico,1,50708,2026-08-19,2026-11-27,https://github.com/luvinhaed/PanoramaAtlantico,none,False,reject,size-out-of-band,control-nogate,,
+aegntic/yt-empire,2,487,2026-08-27,2026-11-27,https://github.com/aegntic/yt-empire,mit,True,accept,clean-control,control-nogate,,15
+awdawmip/enterprise-math,1,643103,2026-08-08,2026-11-27,https://github.com/awdawmip/enterprise-math,mit,True,reject,size-out-of-band,control-nogate,,
+Gwar-Creator/pokemon-restock-bot,1,540770,2026-08-15,2026-11-27,https://github.com/Gwar-Creator/pokemon-restock-bot,none,False,reject,size-out-of-band,control-nogate,,
+Yili-code/Crypto-Flash,7,8905,2026-08-18,2026-11-27,https://github.com/Yili-code/Crypto-Flash,mit,True,reject,ai-mention-in-readme,control-nogate,,57
+Dthen/free-inference-watchdog,1,5430,2026-08-26,2026-11-27,https://github.com/Dthen/free-inference-watchdog,0bsd,False,reject,ai-mention-in-readme,control-nogate,,57
+tasirin1/tasirin-vaultwarden-host,1,28328,2026-08-04,2026-11-27,https://github.com/tasirin1/tasirin-vaultwarden-host,gpl-3.0,True,accept,clean-control,control-nogate,,8
+tvofi/heatpump_optimizer,9,502863,2026-08-20,2026-11-27,https://github.com/tvofi/heatpump_optimizer,mit,True,reject,size-out-of-band,control-nogate,,
+kanuli/daily-brief-newspaper,1,233016,2026-08-20,2026-11-27,https://github.com/kanuli/daily-brief-newspaper,none,False,reject,size-out-of-band,control-nogate,,
+ErBharatMalhotra/open-source-ai-radar,20,435777,2026-08-21,2026-11-27,https://github.com/ErBharatMalhotra/open-source-ai-radar,mit,True,reject,size-out-of-band,control-nogate,,
+lifan-pkq/video-hub,3,16324,2026-08-26,2026-11-27,https://github.com/lifan-pkq/video-hub,none,False,accept,clean-control,control-nogate,,139
+wangys38-cyber/Potential-tools,1,37271,2026-08-07,2026-11-27,https://github.com/wangys38-cyber/Potential-tools,none,False,reject,ai-mention-in-readme,control-nogate,,179
+uurcantnt/nesine-bot,1,148426,2026-08-20,2026-11-27,https://github.com/uurcantnt/nesine-bot,none,False,reject,size-out-of-band,control-nogate,,
+ShingoTBT/tts-auto-story,1,446799,2026-08-17,2026-11-27,https://github.com/ShingoTBT/tts-auto-story,none,False,reject,size-out-of-band,control-nogate,,
+aaadarsh1337/threat-harbour,1,17543,2026-08-26,2026-11-27,https://github.com/aaadarsh1337/threat-harbour,none,False,reject,only 4 py files,control-nogate,,
+elgalardi/ComfyUI-SimpleH3Chain,1,1073,2026-08-19,2026-11-27,https://github.com/elgalardi/ComfyUI-SimpleH3Chain,gpl-3.0,True,reject,ai-mention-in-readme,control-nogate,,30
+petrsajner/marvin,1,19036,2026-08-22,2026-11-27,https://github.com/petrsajner/marvin,none,False,reject,ai-mention-in-readme,control-nogate,,162
+AmanAgrawalAI/SmartTrafficAI,1,22815,2026-08-22,2026-11-27,https://github.com/AmanAgrawalAI/SmartTrafficAI,mit,True,reject,only 1 py files,control-nogate,,
+AACTools/voicegarden-lexicons,9,628001,2026-08-20,2026-11-27,https://github.com/AACTools/voicegarden-lexicons,none,False,reject,size-out-of-band,control-nogate,,
+shawndeng321/legal-academic-research-skills,4,4404,2026-08-03,2026-11-27,https://github.com/shawndeng321/legal-academic-research-skills,none,False,reject,ai-mention-in-readme,control-nogate,,48
+auto-sun/labelImg2-custom,2,11148,2026-08-09,2026-11-27,https://github.com/auto-sun/labelImg2-custom,agpl-3.0,False,accept,clean-control,control-nogate,,64
+lkt0713/Typhoon-Forecast,1,7213794,2026-08-06,2026-11-27,https://github.com/lkt0713/Typhoon-Forecast,none,False,reject,size-out-of-band,control-nogate,,
+vityah1/claude-tg-bot,1,2650,2026-08-25,2026-11-27,https://github.com/vityah1/claude-tg-bot,mit,True,reject,ai-mention-in-readme,control-nogate,,31
+trmv2007-bot/hermus-agent-free,1,14905,2026-08-04,2026-11-27,https://github.com/trmv2007-bot/hermus-agent-free,mit,True,reject,ai-mention-in-readme,control-nogate,,640
+surendranb/free-image-library,2,61,2026-08-23,2026-11-27,https://github.com/surendranb/free-image-library,mit,True,reject,library-not-app,control-nogate,,
+wszqkzqk/scrinium,10,17303,2026-08-02,2026-11-27,https://github.com/wszqkzqk/scrinium,gpl-3.0,True,reject,ai-mention-in-readme,control-nogate,,116
+Victor-Kmita/own-claude,1,35873,2026-08-19,2026-11-27,https://github.com/Victor-Kmita/own-claude,noassertion,False,reject,bot-contributor:claude,control-nogate,,27
+SeanKOFF/uz_rail_board,1,68196,2026-08-23,2026-11-27,https://github.com/SeanKOFF/uz_rail_board,none,False,reject,size-out-of-band,control-nogate,,
+piriyalai-dev/pirivoice,1,5427,2026-08-08,2026-11-27,https://github.com/piriyalai-dev/pirivoice,none,False,accept,clean-control,control-nogate,,184
+KuyaAC/Data-Science,1,152,2026-08-08,2026-11-27,https://github.com/KuyaAC/Data-Science,none,False,accept,clean-control,control-nogate,,44
+Starlife-creator/omnicrawler,2,15457,2026-08-01,2026-11-27,https://github.com/Starlife-creator/omnicrawler,apache-2.0,True,accept,clean-control,control-nogate,,1662
+m-rui001/galgame-script-corpus,8,1423483,2026-08-17,2026-11-27,https://github.com/m-rui001/galgame-script-corpus,mit,True,reject,size-out-of-band,control-nogate,,
+buddingworld/MitmGUI,1,65766,2026-08-04,2026-11-27,https://github.com/buddingworld/MitmGUI,mit,True,reject,size-out-of-band,control-nogate,,
+DoggoWoofWoof/MLPvsGNN,1,70991,2026-08-26,2026-11-27,https://github.com/DoggoWoofWoof/MLPvsGNN,mit,True,reject,size-out-of-band,control-nogate,,
+jwz2003/market-hotspot,2,5964,2026-08-10,2026-11-27,https://github.com/jwz2003/market-hotspot,none,False,accept,clean-control,control-nogate,,8
+danbri/factoidal-builds,1,712547,2026-08-27,2026-11-27,https://github.com/danbri/factoidal-builds,none,False,reject,size-out-of-band,control-nogate,,
+arcadematicas/pocknix-odin3-support,3,382172,2026-08-25,2026-11-27,https://github.com/arcadematicas/pocknix-odin3-support,gpl-2.0,False,reject,size-out-of-band,control-nogate,,
+geostima/dota2-prediction-studio,1,2991,2026-08-24,2026-11-27,https://github.com/geostima/dota2-prediction-studio,none,False,accept,clean-control,control-nogate,,7
+atcodrinky/ha-supersmart-ev-charging,1,1097,2026-08-16,2026-11-27,https://github.com/atcodrinky/ha-supersmart-ev-charging,mit,True,accept,clean-control,control-nogate,,17
+fcavalcantirj/esp-atlas,2,13500,2026-08-21,2026-11-27,https://github.com/fcavalcantirj/esp-atlas,noassertion,False,accept,clean-control,control-nogate,,397
+LIKE9426334946/PaperStudy,1,335,2026-08-09,2026-11-27,https://github.com/LIKE9426334946/PaperStudy,none,False,accept,clean-control,control-nogate,,62
+langhua/AuroraTessellation-NFC,1,67376,2026-08-23,2026-11-27,https://github.com/langhua/AuroraTessellation-NFC,apache-2.0,True,reject,size-out-of-band,control-nogate,,
+LordOftheIdiot5/stockwatch,1,58276,2026-08-24,2026-11-27,https://github.com/LordOftheIdiot5/stockwatch,none,False,reject,size-out-of-band,control-nogate,,
+FlyingDashie/Free-node-autotest,1,1866417,2026-08-26,2026-11-27,https://github.com/FlyingDashie/Free-node-autotest,none,False,reject,size-out-of-band,control-nogate,,
+wayneshin617-sudo/personal-sandbox,1,7944808,2026-08-02,2026-11-27,https://github.com/wayneshin617-sudo/personal-sandbox,none,False,reject,size-out-of-band,control-nogate,,
+konig123/hr-workshop-mvp-skills,1,9905,2026-08-20,2026-11-27,https://github.com/konig123/hr-workshop-mvp-skills,noassertion,False,reject,ai-mention-in-readme,control-nogate,,8
+TridibeshSam31/Applied-Ai,1,658,2026-08-27,2026-11-27,https://github.com/TridibeshSam31/Applied-Ai,none,False,reject,only 1 py files,control-nogate,,
+projectbluefin/utah,27,218693,2026-08-26,2026-11-27,https://github.com/projectbluefin/utah,apache-2.0,True,reject,size-out-of-band,control-nogate,,
+RaccoonKa/Akira,4,786912,2026-08-07,2026-11-27,https://github.com/RaccoonKa/Akira,noassertion,False,reject,size-out-of-band,control-nogate,,
+as791/genned,1,332679,2026-08-22,2026-11-27,https://github.com/as791/genned,apache-2.0,True,reject,size-out-of-band,control-nogate,,
+wens6515/weixin-wechat-wxauto-ocr-xiaoli,26,24849,2026-08-05,2026-11-27,https://github.com/wens6515/weixin-wechat-wxauto-ocr-xiaoli,mit,True,accept,clean-control,control-nogate,,119
+surajpjoshi/rsi-dashboard,1,56463,2026-08-12,2026-11-27,https://github.com/surajpjoshi/rsi-dashboard,none,False,reject,size-out-of-band,control-nogate,,
+Fabric-Labs/polyester-sdk-python,4,53272,2026-08-25,2026-11-27,https://github.com/Fabric-Labs/polyester-sdk-python,apache-2.0,True,reject,library-not-app,control-nogate,,
+mehrdadmb2/PySmartHome-PC,2,34174,2026-08-02,2026-11-27,https://github.com/mehrdadmb2/PySmartHome-PC,mit,True,accept,clean-control,control-nogate,,5
+Babuperumana/IN_IptV,2,53496,2026-08-20,2026-11-27,https://github.com/Babuperumana/IN_IptV,none,False,reject,size-out-of-band,control-nogate,,
+EricW9888/Prophet,4,3937,2026-08-22,2026-11-27,https://github.com/EricW9888/Prophet,noassertion,False,reject,ai-mention-in-readme,control-nogate,,417
+Aaravsingh1507/Aaravsingh1507,2,1126,2026-08-23,2026-11-27,https://github.com/Aaravsingh1507/Aaravsingh1507,none,False,reject,only 1 py files,control-nogate,,
+jsaumer/cabinet-numismatics,1,14552,2026-08-09,2026-11-27,https://github.com/jsaumer/cabinet-numismatics,mit,True,accept,clean-control,control-nogate,,178
+isaacruedabiota/FOOTBALL-PREDICTOR,1,2326,2026-08-16,2026-11-27,https://github.com/isaacruedabiota/FOOTBALL-PREDICTOR,mit,True,accept,clean-control,control-nogate,,17
+zhiyuan-zhang0206/Meiva,1,114641,2026-08-14,2026-11-27,https://github.com/zhiyuan-zhang0206/Meiva,apache-2.0,True,reject,size-out-of-band,control-nogate,,
+trustless-ai/tawg-daily-contribution,1,60589,2026-08-16,2026-11-27,https://github.com/trustless-ai/tawg-daily-contribution,apache-2.0,True,reject,size-out-of-band,control-nogate,,
+Prabhath-de/AWS_Honeypot,2,74420,2026-08-06,2026-11-27,https://github.com/Prabhath-de/AWS_Honeypot,none,False,reject,size-out-of-band,control-nogate,,
+sirbilly765/vd-orlik,1,3715,2026-08-26,2026-11-27,https://github.com/sirbilly765/vd-orlik,mit,True,accept,clean-control,control-nogate,,11
+nowmoretv/extra-epg-pro-categories,1,39586,2026-08-17,2026-11-27,https://github.com/nowmoretv/extra-epg-pro-categories,none,False,reject,only 3 py files,control-nogate,,
+RebelRider/vpn-subscription,1,103211,2026-08-28,2026-11-27,https://github.com/RebelRider/vpn-subscription,none,False,reject,size-out-of-band,control-nogate,,
+sidharthjatt/sidharthjatt,1,225,2026-08-27,2026-11-27,https://github.com/sidharthjatt/sidharthjatt,none,False,reject,only 1 py files,control-nogate,,
+SortMidgePick/IPTV-Player-Pro-2026,2,148,2026-08-23,2026-11-27,https://github.com/SortMidgePick/IPTV-Player-Pro-2026,none,False,reject,only 1 py files,control-nogate,,
+MUYU46548/ronghuamofang,1,57914,2026-08-13,2026-11-27,https://github.com/MUYU46548/ronghuamofang,mit,True,reject,size-out-of-band,control-nogate,,
+niuber/iptv-api,1,256900,2026-08-28,2026-11-27,https://github.com/niuber/iptv-api,noassertion,False,reject,size-out-of-band,control-nogate,,
+mehmetey03/METV,2,3886,2026-08-20,2026-11-27,https://github.com/mehmetey03/METV,none,False,accept,clean-control,control-nogate,,10
+molokokos89-rgb/perturabo-2.0.yaml,1,11508,2026-08-03,2026-11-27,https://github.com/molokokos89-rgb/perturabo-2.0.yaml,none,False,accept,clean-control,control-nogate,,5
+roy-tong/Askovo,1,5252,2026-08-05,2026-11-27,https://github.com/roy-tong/Askovo,mit,True,accept,clean-control,control-nogate,,159
+Yili-code/News-Agent,1,352,2026-08-16,2026-11-27,https://github.com/Yili-code/News-Agent,none,False,reject,ai-mention-in-readme,control-nogate,,6
+wuwentao/midea-lan,20,4063,2026-08-12,2026-11-27,https://github.com/wuwentao/midea-lan,mit,True,accept,clean-control,control-nogate,,298
+kidayasuo/atelier,1,6441374,2026-08-03,2026-11-27,https://github.com/kidayasuo/atelier,none,False,reject,size-out-of-band,control-nogate,,
+TheCoderGeekSquadLeader/TheCoderGeekSquadLeader,2,201,2026-08-24,2026-11-27,https://github.com/TheCoderGeekSquadLeader/TheCoderGeekSquadLeader,none,False,reject,only 1 py files,control-nogate,,
+GuimapiA/kbw-booking-watcher,1,5069,2026-08-10,2026-11-27,https://github.com/GuimapiA/kbw-booking-watcher,none,False,reject,only 2 py files,control-nogate,,
+surendranb/find-research-papers-mcp,8,270,2026-08-07,2026-11-27,https://github.com/surendranb/find-research-papers-mcp,mit,True,reject,ai-mention-in-readme,control-nogate,,14
+specialist-ai/specialist_sim,8,399,2026-08-25,2026-11-27,https://github.com/specialist-ai/specialist_sim,mit,True,accept,clean-control,control-nogate,,50
+chepin-ai/vci-inbox,1,83169,2026-08-17,2026-11-27,https://github.com/chepin-ai/vci-inbox,none,False,reject,size-out-of-band,control-nogate,,
+hfoi589/tonghuashun,2,5503,2026-08-22,2026-11-27,https://github.com/hfoi589/tonghuashun,none,False,accept,clean-control,control-nogate,,123
+technehub-labs/dea-catalog-business-processes,1,33754,2026-08-08,2026-11-27,https://github.com/technehub-labs/dea-catalog-business-processes,apache-2.0,True,accept,clean-control,control-nogate,,190
+conbobi/lan-active-response-platform,9,15380,2026-08-09,2026-11-27,https://github.com/conbobi/lan-active-response-platform,none,False,reject,ai-mention-in-readme,control-nogate,,422
+AndrewGodlewsky/rising-repos-site,1,31967,2026-08-07,2026-11-27,https://github.com/AndrewGodlewsky/rising-repos-site,none,False,accept,clean-control,control-nogate,,108
+buccaneermethodology/bm-kym-tco,5,1063,2026-08-24,2026-11-27,https://github.com/buccaneermethodology/bm-kym-tco,apache-2.0,True,reject,ai-mention-in-readme,control-nogate,,38
+Escap1ng/mathmodel-studio,7,23694,2026-08-27,2026-11-27,https://github.com/Escap1ng/mathmodel-studio,agpl-3.0,False,reject,ai-mention-in-readme,control-nogate,,53
+drench44/family-hub,3,52386,2026-08-15,2026-11-27,https://github.com/drench44/family-hub,mit,True,reject,size-out-of-band,control-nogate,,
+Microcosmos22/AI-4-Science,1,41,2026-08-02,2026-11-27,https://github.com/Microcosmos22/AI-4-Science,none,False,reject,size-out-of-band,control-nogate,,
+xm6018924/BSAI-H3-upscale-4K,11,1726,2026-08-27,2026-11-27,https://github.com/xm6018924/BSAI-H3-upscale-4K,none,False,accept,clean-control,control-nogate,,27
+mikeholownych/homelab-ai,3,12391,2026-08-23,2026-11-27,https://github.com/mikeholownych/homelab-ai,none,False,accept,clean-control,control-nogate,,922
+skimatt/ai-tech-trends-digest,4,81,2026-08-18,2026-11-27,https://github.com/skimatt/ai-tech-trends-digest,mit,True,reject,only 1 py files,control-nogate,,
+Seeed-Projects/reComputer-Hailo8-CV,1,1475309,2026-08-03,2026-11-27,https://github.com/Seeed-Projects/reComputer-Hailo8-CV,none,False,reject,size-out-of-band,control-nogate,,
+xm2325/gb_power_market_forecasting,1,10628,2026-08-21,2026-11-27,https://github.com/xm2325/gb_power_market_forecasting,none,False,accept,clean-control,control-nogate,,160
+mrtrollex/VaultBridge,3,5417,2026-08-23,2026-11-27,https://github.com/mrtrollex/VaultBridge,mit,True,accept,clean-control,control-nogate,,294
+tianyin231/AniSignal,13,12984,2026-08-12,2026-11-27,https://github.com/tianyin231/AniSignal,agpl-3.0,False,reject,ai-mention-in-readme,control-nogate,,303
+LiuDilongNJ/eco-signal,3,5147,2026-08-05,2026-11-27,https://github.com/LiuDilongNJ/eco-signal,gpl-3.0,True,accept,clean-control,control-nogate,,395
+numbaby/x-archive,1,1459819,2026-08-21,2026-11-27,https://github.com/numbaby/x-archive,apache-2.0,True,reject,size-out-of-band,control-nogate,,
+andrizomai/cellar-v-dashboard,1,554,2026-08-14,2026-11-27,https://github.com/andrizomai/cellar-v-dashboard,none,False,reject,only 2 py files,control-nogate,,
+HYANGKI-LEE/news-to-telegram,1,11241,2026-08-27,2026-11-27,https://github.com/HYANGKI-LEE/news-to-telegram,none,False,reject,only 1 py files,control-nogate,,
+tinogo/uc-intg-awol-valerion,2,624,2026-08-14,2026-11-27,https://github.com/tinogo/uc-intg-awol-valerion,mpl-2.0,True,accept,clean-control,control-nogate,,12
+R-Jena/leetcode-stack,1,371,2026-08-07,2026-11-27,https://github.com/R-Jena/leetcode-stack,mit,True,accept,clean-control,control-nogate,,73
+saeid1357255/telegram-forvarder,1,963,2026-08-24,2026-11-27,https://github.com/saeid1357255/telegram-forvarder,none,False,reject,only 2 py files,control-nogate,,
+lammyson/AP-Data-Scripts,1,198,2026-08-26,2026-11-27,https://github.com/lammyson/AP-Data-Scripts,mit,True,accept,clean-control,control-nogate,,5
+Nitjsefnie/ai-researcher,3,98005,2026-08-21,2026-11-27,https://github.com/Nitjsefnie/ai-researcher,mit,True,reject,size-out-of-band,control-nogate,,
+raynmahbub/OmniSource,3,266533,2026-08-27,2026-11-27,https://github.com/raynmahbub/OmniSource,gpl-3.0,True,reject,size-out-of-band,control-nogate,,
+AhmadBilalDSA/github-issue-hunter,1,398,2026-08-23,2026-11-27,https://github.com/AhmadBilalDSA/github-issue-hunter,none,False,accept,clean-control,control-nogate,,5
+sandro1123/mimir-memory,5,2545,2026-08-18,2026-11-27,https://github.com/sandro1123/mimir-memory,mit,True,reject,ai-mention-in-readme,control-nogate,,255
+yohaybn/israeli-cc-discounts,1,249136,2026-08-06,2026-11-27,https://github.com/yohaybn/israeli-cc-discounts,mit,True,reject,size-out-of-band,control-nogate,,
+Lofiette/design-director-harness,2,9672,2026-08-26,2026-11-27,https://github.com/Lofiette/design-director-harness,none,False,reject,ai-mention-in-readme,control-nogate,,83
+gwakminji/6can_usv_ws,1,86137,2026-08-24,2026-11-27,https://github.com/gwakminji/6can_usv_ws,none,False,reject,size-out-of-band,control-nogate,,
+DownloaderZone/DzGram,2,15659,2026-08-07,2026-11-27,https://github.com/DownloaderZone/DzGram,lgpl-3.0,True,reject,library-not-app,control-nogate,,
+pradeepneupane10/employee-audit-app,1,77352,2026-08-05,2026-11-27,https://github.com/pradeepneupane10/employee-audit-app,none,False,reject,size-out-of-band,control-nogate,,
+dahai80/fusion-trainer,1,1164,2026-08-02,2026-11-27,https://github.com/dahai80/fusion-trainer,apache-2.0,True,reject,ai-mention-in-readme,control-nogate,,107
+Xorions/BOT-Sinyal-V2,1,1350,2026-08-07,2026-11-27,https://github.com/Xorions/BOT-Sinyal-V2,none,False,accept,clean-control,control-nogate,,30
+lkfslife/OdinBahaBot,1,2064,2026-08-23,2026-11-27,https://github.com/lkfslife/OdinBahaBot,none,False,reject,only 1 py files,control-nogate,,
+JakobRud/Ministerienyt,2,76015,2026-08-13,2026-11-27,https://github.com/JakobRud/Ministerienyt,none,False,reject,size-out-of-band,control-nogate,,
+Mega-Therion/Res-Nova,1,162884,2026-08-14,2026-11-27,https://github.com/Mega-Therion/Res-Nova,cc-by-4.0,False,reject,size-out-of-band,control-nogate,,
+m-shogo/figma-ai-project,1,200718,2026-08-10,2026-11-27,https://github.com/m-shogo/figma-ai-project,none,False,reject,size-out-of-band,control-nogate,,
+dmascord/tusker-gateway,1,7354,2026-08-20,2026-11-27,https://github.com/dmascord/tusker-gateway,none,False,reject,ai-mention-in-readme,control-nogate,,275
+DerHimbeerHugo/home-assistant-eqiva-keyble,1,333,2026-08-26,2026-11-27,https://github.com/DerHimbeerHugo/home-assistant-eqiva-keyble,isc,True,accept,clean-control,control-nogate,,25
+HNK69/-LifeOS-RAG-,2,5965,2026-08-04,2026-11-27,https://github.com/HNK69/-LifeOS-RAG-,none,False,reject,ai-mention-in-readme,control-nogate,,215
+Paulo-Marcos-Lucio/observatorio-da-superficie,2,1955,2026-08-11,2026-11-27,https://github.com/Paulo-Marcos-Lucio/observatorio-da-superficie,mit,True,accept,clean-control,control-nogate,,5
+vian0001/daily-activity,1,598,2026-08-09,2026-11-27,https://github.com/vian0001/daily-activity,none,False,accept,clean-control,control-nogate,,6
+dyiapanis/limbic,23,15871,2026-08-06,2026-11-27,https://github.com/dyiapanis/limbic,mit,True,reject,ai-mention-in-readme,control-nogate,,53
+EASolutions00/hardening-blind-spots,1,7844,2026-08-20,2026-11-27,https://github.com/EASolutions00/hardening-blind-spots,mit,True,accept,clean-control,control-nogate,,45
+vedantoncloud/CloudOps-AI,1,2144,2026-08-23,2026-11-27,https://github.com/vedantoncloud/CloudOps-AI,none,False,accept,clean-control,control-nogate,,498
+k6cc/stash-plugins,1,355,2026-08-02,2026-11-27,https://github.com/k6cc/stash-plugins,none,False,reject,only 2 py files,control-nogate,,
+MagicalWig34653/thermoctl,1,27827,2026-08-28,2026-11-27,https://github.com/MagicalWig34653/thermoctl,agpl-3.0,False,accept,clean-control,control-nogate,,527
+logosur/openspec-skills-toolkit,2,2227,2026-08-19,2026-11-27,https://github.com/logosur/openspec-skills-toolkit,mit,True,reject,ai-mention-in-readme,control-nogate,,97
+mks044/quill-meetings,1,502,2026-08-04,2026-11-27,https://github.com/mks044/quill-meetings,mit,True,reject,ai-mention-in-readme,control-nogate,,11
+ramphalharrilal/ramphalharrilal,1,93,2026-08-09,2026-11-27,https://github.com/ramphalharrilal/ramphalharrilal,none,False,accept,clean-control,control-nogate,,7
+henyi-tdca/tdca-protocol,1,14863,2026-08-21,2026-11-27,https://github.com/henyi-tdca/tdca-protocol,mit,True,accept,clean-control,control-nogate,,1121
+lovely009/robot2_ws,1,819033,2026-08-07,2026-11-27,https://github.com/lovely009/robot2_ws,none,False,reject,size-out-of-band,control-nogate,,
+arpan-deep-dubey/arpan-deep-dubey,1,7997,2026-08-19,2026-11-27,https://github.com/arpan-deep-dubey/arpan-deep-dubey,none,False,reject,only 3 py files,control-nogate,,
+russellyeo-oss/enb-daily-feed,1,272,2026-08-18,2026-11-27,https://github.com/russellyeo-oss/enb-daily-feed,none,False,reject,only 4 py files,control-nogate,,
+malsabbagh/review-sensei,1,12414,2026-08-16,2026-11-27,https://github.com/malsabbagh/review-sensei,mit,True,accept,clean-control,control-nogate,,1145
+docxology/bond-for_your_eyes_only,1,2665,2026-08-11,2026-11-27,https://github.com/docxology/bond-for_your_eyes_only,mit,True,accept,clean-control,control-nogate,,41
+utrawal9185-cmd/hackagent,1,74299,2026-08-06,2026-11-27,https://github.com/utrawal9185-cmd/hackagent,apache-2.0,True,reject,size-out-of-band,control-nogate,,
+jordychen0512-byte/vv-live-notify,1,143,2026-08-17,2026-11-27,https://github.com/jordychen0512-byte/vv-live-notify,none,False,reject,only 2 py files,control-nogate,,
+Xuzhen-Li/paper-viz,4,193791,2026-08-20,2026-11-27,https://github.com/Xuzhen-Li/paper-viz,mit,True,reject,size-out-of-band,control-nogate,,
+nicklin11/shipboard,2,726,2026-08-15,2026-11-27,https://github.com/nicklin11/shipboard,mit,True,accept,clean-control,control-nogate,,35
+eubastosdev/eubastosdev,1,181,2026-08-28,2026-11-27,https://github.com/eubastosdev/eubastosdev,none,False,reject,only 1 py files,control-nogate,,
+KB01111/Sideload-Sources,8,166,2026-08-08,2026-11-27,https://github.com/KB01111/Sideload-Sources,none,False,reject,only 1 py files,control-nogate,,
+ezalos/SpaceSuit,1,2838,2026-08-07,2026-11-27,https://github.com/ezalos/SpaceSuit,none,False,reject,ai-mention-in-readme,control-nogate,,187
+PranavJa1n/VerboX,4,1764,2026-08-05,2026-11-27,https://github.com/PranavJa1n/VerboX,mit,True,reject,ai-mention-in-readme,control-nogate,,97
+shareefmx/leetcode,1,347,2026-08-12,2026-11-27,https://github.com/shareefmx/leetcode,none,False,accept,clean-control,control-nogate,,100
+SuleynanAuir/AI-Native-pDOOH-Worlds-Model,2,11922,2026-08-14,2026-11-27,https://github.com/SuleynanAuir/AI-Native-pDOOH-Worlds-Model,mit,True,accept,clean-control,control-nogate,,131
+patrikstamm/automated-workflow-graph,1,185,2026-08-27,2026-11-27,https://github.com/patrikstamm/automated-workflow-graph,none,False,reject,ai-mention-in-readme,control-nogate,,47
+yefeng8771/sing-box-config-sync,1,142884,2026-08-19,2026-11-27,https://github.com/yefeng8771/sing-box-config-sync,none,False,reject,size-out-of-band,control-nogate,,
+Maa-RM/MaaRacingMaster,17,148950,2026-08-19,2026-11-27,https://github.com/Maa-RM/MaaRacingMaster,apache-2.0,True,reject,size-out-of-band,control-nogate,,
+AbelZJP/mini-workbuddy,2,2776,2026-08-03,2026-11-27,https://github.com/AbelZJP/mini-workbuddy,none,False,reject,ai-mention-in-readme,control-nogate,,39
+AshleySama/signal_radar,1,7721,2026-08-17,2026-11-27,https://github.com/AshleySama/signal_radar,none,False,reject,only 2 py files,control-nogate,,
+txltedxgod/txltedxgod,1,3129,2026-08-16,2026-11-27,https://github.com/txltedxgod/txltedxgod,none,False,reject,only 1 py files,control-nogate,,
+sambyte-exe/ITCS102_1B_LONTOK,1,142,2026-08-18,2026-11-27,https://github.com/sambyte-exe/ITCS102_1B_LONTOK,none,False,reject,course/tutorial,control-nogate,,
+cQink/johnyassist,3,1428,2026-08-26,2026-11-27,https://github.com/cQink/johnyassist,none,False,accept,clean-control,control-nogate,,153
