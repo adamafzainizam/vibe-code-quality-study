@@ -36,6 +36,7 @@ Second pass, added 27 November 2026:
 10. `license_base_rate_analysis.py`: licence presence by arm, Fisher exact, stratified by star and size band
 11. `detect_ai_artifacts.py`: committed AI-tooling artefacts (rule sets, instruction files, MCP configs) as a second evidence instrument, arm-blind
 12. `artifact_evidence_stats.py`: artefact rates per evidence tier, contamination of the control arm, and the dilution bound it implies
+13. `clean_subset_analysis.py`: the post hoc probe on pairs that are clean on both sides, which leaves 10 of 46
 
 Data files live in `data/`. The RNG seed used for matching is a fixed constant;
 it is recorded privately by the author to keep personal identifiers out of this

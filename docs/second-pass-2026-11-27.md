@@ -203,6 +203,18 @@ does nothing to a genuinely null result. It cannot manufacture an effect, so thi
 explains how a medium difference could hide in this sample without licensing the claim
 that one is hiding.
 
+A probe of that explanation, run on the data in hand, does not support it.
+`scripts/clean_subset_analysis.py` keeps only pairs where the AI side has hard evidence
+(agent commit, README declaration or strong artefact) and the control side carries no
+AI artefact of any kind. That leaves **10 of the 46 pairs**, and on those the deltas are
+if anything smaller rather than larger: `pct_cc_gt_10` at `d_z` -0.14 against -0.28 in
+the contaminated remainder, and no metric close to significance (smallest p=0.16). With
+n=10 an effect of 0.44 has roughly 30% power, so this neither confirms nor refutes the
+dilution story. What it does establish is that **the current sample cannot be rescued by
+filtering**: the arms were never built to be clean, so the clean subset is too small to
+carry a comparison. Rebuilding is the only path to an answer, and the dilution arithmetic
+sets the expectation for it, not a result.
+
 ## What this changes
 
 1. Post 2 should be the methods note, not a second "no difference" post. The finding
@@ -212,9 +224,10 @@ that one is hiding.
 2. The next data step is a registered arm: select on bot evidence plus tooling
    artefacts (73 candidates today), expand toward 95 pairs, drop the licence gate,
    and fix the metric list before measuring.
-3. Re-collect the control arm through the artefact scan. Controls with `.cursorrules`,
-   a `.claude/` directory or an agent instruction file are not controls, and at 20.6%
-   they are costing the study most of whatever effect it is chasing.
+3. Rebuild both arms rather than re-filtering this one. Controls with `.cursorrules`,
+   a `.claude/` directory or an agent instruction file are not controls (20.6% of the
+   current arm), and filtering them out in place leaves 10 pairs, which the probe above
+   shows is not a comparison.
 4. Post 1's claim stands as written, but its scope should be stated with it: no
    detectable difference at the resolution this sample allows, in a comparison that
    dilutes itself.
@@ -227,6 +240,7 @@ that one is hiding.
 .venv/bin/python scripts/hygiene_stats.py
 .venv/bin/python scripts/detect_ai_artifacts.py
 .venv/bin/python scripts/artifact_evidence_stats.py
+.venv/bin/python scripts/clean_subset_analysis.py
 GITHUB_TOKEN=$(gh auth token) LICENCE_TARGET=250 .venv/bin/python scripts/collect_license_base_rate.py
 .venv/bin/python scripts/license_base_rate_analysis.py
 ```
