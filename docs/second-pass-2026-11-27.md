@@ -76,7 +76,11 @@ Static complexity says nothing about whether a repository has tests, CI, pinned
 dependencies, type hints or a bare `except:`. `scripts/measure_hygiene.py` measures
 those from a shallow clone of all 92 repos, arm-blind, and
 `scripts/hygiene_stats.py` joins the arms afterwards. 86 of 92 cloned cleanly; 40
-pairs have both sides measured.
+pairs have both sides measured. Of the six that did not: five no longer clone
+(deleted, renamed or made private in the three months since collection) and one has
+no Python files left in it. That is 6.5% attrition in a sample collected in August,
+which is worth knowing for anyone planning to reuse a repository sample after a few
+months. Each failure is listed with its status in `data/hygiene_metrics.csv`.
 
 Practices, exact McNemar on discordant pairs:
 
