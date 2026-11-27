@@ -58,12 +58,36 @@ Of the 202 accepted candidates in the AI arm, by strength of evidence:
 
 The 46 analysed pairs carry the same shape: 9 bot, 5 README, 32 query-only.
 
-This is the uncomfortable part for the whole genre, not just this study. A
-search-based sample labelled "vibe-coded" is 85% unverifiable: the label comes from
-a query match and nothing else. Two caveats cut in opposite directions, and both
-matter. Agents run locally under the developer's own Git identity leave no bot
-commit, so absence of a trace is not evidence of absence. And a search match is not
-nothing: the term appeared somewhere in the repository, which is why it surfaced.
+A commit scan is only one instrument, and a second one changes the picture. Agents
+also leave files: rule sets, instruction files, MCP configs. Those survive a history
+rewrite, and `scripts/detect_ai_artifacts.py` looks for them in the committed tree of
+every repo in both arms (194 of the 202 AI-arm candidates answered). Strong artefacts
+are `.cursorrules` or `.cursor/`, `.claude/` or `CLAUDE.md`, Copilot instruction
+files, `.windsurfrules`, aider config, `.clinerules` or `.roo`, `.continue`,
+`.specstory` and MCP configs. `AGENTS.md` or a prompts directory alone counts as weak,
+because plenty of hand-written repositories carry those.
+
+| evidence tier | n | strong artefact present |
+|---|---|---|
+| bot-contributor commit | 19 | 12 (63%) |
+| README declaration | 11 | 6 (55%) |
+| query-only | 164 scanned | 43 (26%) |
+
+That 26% is the interesting number. A quarter of the repos with no commit or README
+trace still ship agent tooling, so the commit scan was under-counting badly. Across
+both instruments the arm splits like this:
+
+| evidence | n | share |
+|---|---|---|
+| commit or README | 30 | 15.5% |
+| strong tooling artefact | 61 | 31.4% |
+| either instrument | 73 | 37.6% |
+| no trace of any kind | 121 | 62.4% |
+
+So the honest figure is 62% without a trace, not 85%, and the 85% quoted from the
+commit scan alone was an artefact of using one instrument. What remains is still the
+main caveat for the genre: a search-based sample labelled "vibe-coded" is mostly a
+label, and section 5 covers what happens when people scrub the traces on purpose.
 
 Descriptively, the bot-evidence subgroup shows a larger negative complexity delta
 than query-only repos (median `pct_cc_gt_10` delta -3.9 against -0.4), which is what
@@ -118,41 +142,82 @@ structural filters and no licence gate, and
 | group | n | no licence | NOASSERTION | recognised OSS licence |
 |---|---|---|---|---|
 | AI-assisted (vibe queries) | 202 | 61 (30.2%) | 15 (7.4%) | 126 (62.4%) |
-| traditional, no gate | 67 | 26 (38.8%) | 1 (1.5%) | 40 (59.7%) |
+| traditional, no gate | 250 | 96 (38.4%) | 14 (5.6%) | 140 (56.0%) |
 | the study's own control arm (gated) | 200 | 0 (0.0%) | 26 (13.0%) | 174 (87.0%) |
 
 Unlicensed against licensed, AI arm versus the like-for-like traditional arm: odds
-ratio 0.68 (95% CI 0.38 to 1.21), Fisher exact p=0.228. The point estimate says the
-traditional repositories are the unlicensed ones, which is the opposite of what the
-one-sided gate implied, but the interval is wide enough that the honest reading is
-"no evidence either way". The direction is at least consistent: stratified by size
-band the odds ratios are 0.60, 0.53 and 0.61, and by the dominant star band 0.79, so
-every stratum points the same way while none is individually significant.
+ratio 0.69 (95% CI 0.47 to 1.03), Fisher exact p=0.074. At 250 candidates the interval
+nearly excludes 1 without reaching it, and the direction is the opposite of what the
+one-sided gate implied: if anything the vibe-coded repositories are the better
+licensed ones. The direction is consistent across strata too, with odds ratios of 0.77
+and 0.69 in the two usable star bands and 0.50, 0.58 and 0.58 across the size bands
+(Mantel-Haenszel pooled 0.77), none individually significant.
 
 Among licensed repositories the mix is unremarkable: 85% permissive in the AI arm
-against 82% traditional, copyleft odds ratio 0.84 (p=0.80).
+against 83% traditional, copyleft odds ratio 0.84.
 
-The traditional sweep stopped at 67 accepted candidates rather than the 250 the
-script targets, because the run is slow (three API calls per candidate) and this was
-a side question. `collect_license_base_rate.py` resumes from the CSV, so the number
-in `data/license_base_rate_stats.txt` can be refreshed by re-running it. Treat 67 as
-an estimate: the 95% interval on a 38.8% share at that size is roughly 27% to 51%.
+The sweep ran to its 250-candidate target (864 candidates examined). Treat 38.4% as a
+sample estimate: the 95% interval on that share at n=250 is roughly 32% to 44%, and
+the traditional arm comes from generic Python queries rather than a census.
 
 The direction matters more than the p-value: the study's own assumption, that
 unlicensed repositories are an AI-arm problem, does not survive a like-for-like
 sample. Any future run should drop the gate and report licence presence as a
 descriptive variable instead.
 
+## 5. People hide it, and what that does to the null
+
+Some authors scrub traces deliberately: bot co-authorship rewritten, agent rule files
+removed, commits squashed. The AI arm is therefore a lower bound on AI-assisted
+repositories at every tier, and no instrument available here can see the scrubbed
+ones. That belongs in the write-up as a stated limit, not as a footnote.
+
+The larger problem is the other direction. The control arm was collected as "no AI
+mention in the README, no bot commit", so a hand-written-looking repo that is really
+agent-assisted lands there and dilutes the comparison. The artefact scan measures how
+often that happened: **39 of 189 scanned control repos (20.6%) carry a strong AI
+tooling artefact**, and a further 16.9% carry a weak one. Under the study's own
+definition those are not clean controls.
+
+Two-sided misclassification dilutes a real difference by about `(1 - c - f)`, where
+`c` is the contaminated share of the control arm (measured: 20.6%) and `f` is the
+hand-written share of the AI arm (not identifiable from this data). So the dilution
+is bounded rather than estimated:
+
+| hand-written share of AI arm (f) | measured effect as share of true | true effect multiplier |
+|---|---|---|
+| 0% | 79% | up to 1.26x |
+| 10% | 69% | up to 1.44x |
+| 20% | 59% | up to 1.70x |
+| 40% | 39% | up to 2.54x |
+
+Put that next to the power numbers. The observed trends sit at `d_z` 0.15 to 0.24, and
+the design detects 0.44 at 80% power. Multiply the trends by 1.3 to 1.7 and they land
+at 0.19 to 0.41: right at the edge of what 46 pairs could have seen. That is a
+coherent explanation for a null that has a consistent direction behind it, and it is
+testable: clean the controls, expand the sample, and the direction should either
+survive at the edge of detection or collapse to nothing.
+
+The limit of the argument matters. Dilution moves a real difference toward zero and
+does nothing to a genuinely null result. It cannot manufacture an effect, so this
+explains how a medium difference could hide in this sample without licensing the claim
+that one is hiding.
+
 ## What this changes
 
 1. Post 2 should be the methods note, not a second "no difference" post. The finding
    is about resolution and instruments: at 46 pairs you can only see a large effect,
-   and 85% of the arm rests on a self-label.
-2. The next data step is a registered arm: select on bot evidence only (19 candidates
-   today), expand toward 95 pairs, drop the licence gate, and fix the metric list
-   before measuring.
-3. Post 1's claim stands as written, but its scope should be stated with it: no
-   detectable difference at the resolution this sample allows.
+   62% of the arm carries no trace at all, and about a fifth of the control arm is
+   probably not a control.
+2. The next data step is a registered arm: select on bot evidence plus tooling
+   artefacts (73 candidates today), expand toward 95 pairs, drop the licence gate,
+   and fix the metric list before measuring.
+3. Re-collect the control arm through the artefact scan. Controls with `.cursorrules`,
+   a `.claude/` directory or an agent instruction file are not controls, and at 20.6%
+   they are costing the study most of whatever effect it is chasing.
+4. Post 1's claim stands as written, but its scope should be stated with it: no
+   detectable difference at the resolution this sample allows, in a comparison that
+   dilutes itself.
 
 ## Reproduce
 
@@ -160,6 +225,8 @@ descriptive variable instead.
 .venv/bin/python scripts/power_analysis.py
 .venv/bin/python scripts/measure_hygiene.py
 .venv/bin/python scripts/hygiene_stats.py
+.venv/bin/python scripts/detect_ai_artifacts.py
+.venv/bin/python scripts/artifact_evidence_stats.py
 GITHUB_TOKEN=$(gh auth token) LICENCE_TARGET=250 .venv/bin/python scripts/collect_license_base_rate.py
 .venv/bin/python scripts/license_base_rate_analysis.py
 ```
