@@ -116,7 +116,8 @@ def main():
                 print(f"  {i}/{len(todo)}", flush=True)
     save()
     ok = sum(1 for r in done.values() if r["status"] == "ok")
-    hit = sum(1 for r in done.values() if r.get("any_artifact") == "1")
+    # values are ints in a fresh run and strings when resumed from CSV
+    hit = sum(1 for r in done.values() if str(r.get("any_artifact")) == "1")
     print(f"scanned {ok}/{len(names)} ok, {hit} with artefacts", flush=True)
 
 
