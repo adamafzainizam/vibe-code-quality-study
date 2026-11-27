@@ -88,8 +88,72 @@ GitHub Search API, unauthenticated (10 req/min limit):
    - gh CLI active account switched to adamafzainizam (skibidam still in keyring).
    - Humanizer pass done on all public-facing text (LinkedIn post, blog post,
      README, docs/, AGENTS.md). Keep this standard for post #2.
-7. Next session queue:
-   - FIRST: Adam publishes LinkedIn post 1 (text + charts ready)
-   - Post #2 candidate: deeper dive on license-gate attrition / methodology
-   - Expand sample (n>46) + add correctness checks (tests, execution) per post plan
-   - Eventually: preprint writeup (Zenodo DOI) per original roadmap
+7. Next session queue (revised 2026-11-27):
+   - Adam's steer: publish when a pass finds something substantial, not a known
+     given, so post 1 stays unpublished until post 2 gives it a reason to exist.
+   - Post #2 = the methods note in docs/second-pass-2026-11-27.md (power,
+     verifiability of the arm, hygiene null, licence base rate). Write the public
+     version from that document, humanizer pass, no em dashes.
+   - Expand toward 95 pairs (55 for d_z 0.4, 95 for 0.3), registering the AI arm on
+     bot evidence plus tooling artefacts, re-collecting controls through the artefact
+     scan, and without a licence gate.
+   - Resume the licence sweep to 250 candidates (script is resumable).
+   - Eventually: preprint writeup (Zenodo DOI) per original roadmap.
+
+## Second pass (2026-11-27): what 46 pairs can actually support
+
+Full write-up with tables: `docs/second-pass-2026-11-27.md`. Four checks, all
+reproducible from this repo, all run this session.
+
+1. **Power (`scripts/power_analysis.py`, `data/power_analysis.txt`).** At n=46 the
+   minimum detectable effect for the two-sided Wilcoxon is |d_z| = 0.44 at 80%
+   power, and power at d_z 0.3 is 50%. Five metrics (sloc, docstring_density,
+   cc_max, mi_mean, lizard_max_ccn) have their whole bootstrap CI inside that
+   undetectable band. Pairs needed: about 95 for d_z 0.3, 55 for 0.4. Post 1's null
+   rules out a large difference and nothing smaller.
+2. **Verifiability of the AI arm.** Of 202 accepted candidates, 19 (9.4%) carry an
+   AI-agent commit, 11 (5.4%) a README declaration, and 172 (85.1%) neither. A second
+   instrument changes that number: `scripts/detect_ai_artifacts.py` scans the committed
+   tree for AI-tooling artefacts (.cursorrules, .claude/, Copilot instructions,
+   .windsurfrules, aider, .clinerules, .continue, .specstory, MCP configs), and 26% of
+   the "query-only" repos carry one. Across both instruments 73 of 194 scanned (37.6%)
+   are verifiable and 121 (62.4%) have no trace at all, so the 85% figure was an
+   artefact of using the commit scan alone. The 46 analysed pairs: 9 bot / 5 README /
+   32 query-only. The bot-evidence subgroup shows a larger negative complexity delta
+   (median pct_cc_gt_10 -3.9 against -0.4, n=9, p=0.89), a direction to test rather
+   than a result.
+3. **Engineering hygiene is a null too (`scripts/measure_hygiene.py`,
+   `scripts/hygiene_stats.py`, `data/hygiene_metrics.csv`, `data/hygiene_stats.txt`).**
+   86 of 92 repos cloned and measured arm-blind: tests 98% AI against 92%
+   traditional, CI 70% against 78%, lockfile 32% against 25%, pyproject 62% against
+   62%, hygiene score 2.77 against 2.67 (paired p=0.63). Every q above 0.75 after
+   BH-FDR. Only lead: prints per kloc 2.1 against 3.6, raw p=0.084, q=0.76.
+4. **The licence gate was one-sided and the base rate runs the other way
+   (`scripts/collect_license_base_rate.py`, `scripts/license_base_rate_analysis.py`,
+   `data/license_base_rate.csv`, `data/license_base_rate_stats.txt`).**
+   `collect_controls.py` rejected unlicensed repos at collection, so every
+   licence-gated repo in run 1 was an AI-arm repo. Re-collected the traditional arm
+   with the same filters and no gate: 250 accepted (864 examined), 38.4% unlicensed
+   against 30.2% in the AI arm, odds ratio 0.69 (CI 0.47 to 1.03, Fisher p=0.074). The
+   direction is consistent in every star and size stratum (MH pooled 0.77) but nowhere
+   individually significant, so this is suggestive, not concluded.
+
+5. **Hiding, and the dilution it causes (Adam's point, measured the same session).**
+   Some authors scrub traces (rewritten bot co-authorship, deleted rule files, squashed
+   history), so the AI arm is a lower bound at every tier; no instrument here sees the
+   scrubbed ones. The bigger cost is the other direction: the control arm is defined as
+   "no AI mention, no bot commit", so hidden AI use lands there.
+   `data/artifact_evidence_stats.txt` measures it: **39 of 189 scanned controls (20.6%)
+   carry a strong AI-tooling artefact**, plus 16.9% carrying a weak one (AGENTS.md or a
+   prompts directory alone). Two-sided misclassification dilutes a real difference by
+   about (1 - c - f) with c=20.6% measured and f (hand-written share of the AI arm) not
+   identifiable. The bound: measured effect is 79% of true at f=0, 59% at f=0.2, so the
+   true effect is up to 1.26x to 1.70x larger. Multiply the observed trends (d_z 0.15 to
+   0.24) by that and they land at 0.19 to 0.41, which is exactly the edge of what n=46
+   can detect. Dilution cannot manufacture an effect, so this explains a hidden medium
+   difference without proving one.
+
+Consequence for the project: post 2 is a methods note about resolution, instruments and
+dilution, not a second "no difference" post. The next data step is a registered arm
+(bot evidence plus tooling artefacts, 73 candidates today), a control arm re-collected
+through the artefact scan, no licence gate, and about 95 pairs.

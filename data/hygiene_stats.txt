@@ -1,0 +1,56 @@
+=== Engineering hygiene, paired comparison ===
+
+40 of 46 pairs measured. Each test is paired: the two
+repos in a pair share a size band, a creation year and a star band.
+
+--- Practices (share of repos doing it) ---
+
+practice                         AI     ctrl  both  AI only  ctrl only  p (exact McNemar)
+-----------------------------------------------------------------------------------------
+has tests                       98%      92%    36        3          1             0.6250
+has CI workflow                 70%      78%    24        4          7             0.5488
+declares dependencies           78%      72%    22        9          7             0.8036
+pins with a lockfile            32%      25%     5        8          5             0.5811
+has pyproject.toml              62%      62%    17        8          8             1.0000
+  q = 1.000  has tests
+  q = 1.000  has CI workflow
+  q = 1.000  declares dependencies
+  q = 1.000  pins with a lockfile
+  q = 1.000  has pyproject.toml
+
+--- Rates and coverage (paired Wilcoxon) ---
+
+measure                        n  AI median  ctrl median  median diff        p       r
+--------------------------------------------------------------------------------------
+test LOC / source LOC         40      0.392        0.360       +0.023   1.0000  +0.000
+test functions                40    241.500      300.500      -15.500   0.6656  -0.080
+annotated defs / defs         40      0.423        0.403       +0.007   0.6552  +0.082
+documented defs / defs        40      0.329        0.240       +0.005   0.3974  +0.156
+bare except per kloc          40      0.000        0.000       +0.000   0.5748  -0.200
+except Exception per kloc     40      2.173        1.534       +0.076   0.6755  +0.077
+asserts per kloc              40     37.669       29.072       +2.979   0.5272  +0.117
+prints per kloc               40      2.107        3.586       -1.859   0.0842  -0.315
+files that fail to parse      40      0.000        0.000       +0.000   0.5002  +0.333
+  q = 1.000  test LOC / source LOC
+  q = 0.760  test functions
+  q = 0.760  annotated defs / defs
+  q = 0.760  documented defs / defs
+  q = 0.760  bare except per kloc
+  q = 0.760  except Exception per kloc
+  q = 0.760  asserts per kloc
+  q = 0.757  prints per kloc
+  q = 0.760  files that fail to parse
+
+--- Hygiene score (practices present out of 4: tests, CI, packaging, lockfile) ---
+
+  AI mean 2.77/4, traditional mean 2.67/4
+  paired Wilcoxon p=0.6339, rank-biserial r=+0.092, n=40
+
+=== How to read this ===
+
+- Exact McNemar asks only about pairs that disagree, so a practice both arms
+  always follow (or never follow) contributes nothing either way.
+- q values control the false discovery rate within each family. A raw p
+  below 0.05 with q above 0.10 is a lead, not a result.
+- These measures are not in the study's pre-registered metric list; they are a
+  second question asked of the same repos, and should be described that way.

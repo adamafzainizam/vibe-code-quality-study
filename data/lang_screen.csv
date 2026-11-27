@@ -1,0 +1,601 @@
+language,repo,stars,size_kb,created,license,n_src,artifacts,bot,readme_declared,verifiable,independent,tier,query
+typescript,talayash/agentrium,50,15171,2026-02-04,mit,463,claude,claude,1,1,1,bot,topic:vibe-coding language:typescript stars:1..50
+typescript,terranc/medicine-assistant,50,135,2025-12-19,none,10,,,0,0,0,query-only,topic:vibe-coding language:typescript stars:1..50
+typescript,dreamide/dream,49,11390,2026-05-11,mit,552,claude,,1,1,1,artifact,topic:vibe-coding language:typescript stars:1..50
+typescript,luisfer/ubon,49,2812,2025-08-23,mit,150,cursor,,1,1,1,artifact,topic:vibe-coding language:typescript stars:1..50
+typescript,ivelin-web/tempo-mcp-server,48,297,2025-03-13,mit,12,,claude,1,1,1,bot,topic:vibe-coding language:typescript stars:1..50
+typescript,solarch-dev/solarch,47,29525,2026-06-05,noassertion,490,,,1,1,0,readme,topic:vibe-coding language:typescript stars:1..50
+typescript,Suraj-G-Rao/Smart-Dashboard-For-Financial-Planning,45,542,2026-04-12,mit,178,,,1,1,0,readme,topic:vibe-coding language:typescript stars:1..50
+typescript,Team-Quaver/quaver-music,43,19007,2026-09-12,agpl-3.0,308,claude,,0,1,1,artifact,topic:vibe-coding language:typescript stars:1..50
+typescript,WebDevPeterGriffin/The-VibeCode-Bible,42,1855,2026-03-29,none,55,claude|cursor,,1,1,1,artifact,topic:vibe-coding language:typescript stars:1..50
+typescript,liyupi/cbti-test,42,3411,2026-04-13,none,14,,,0,0,0,query-only,topic:vibe-coding language:typescript stars:1..50
+typescript,kargnas/vscode-ext-tmux-worktree,41,3911,2026-01-17,mit,23,claude,,1,1,1,artifact,topic:vibe-coding language:typescript stars:1..50
+typescript,vedantxn/nextly,41,1610,2025-07-16,none,92,,,0,0,0,query-only,topic:vibe-coding language:typescript stars:1..50
+typescript,metaspartan/cybara,40,42420,2026-01-31,mit,2178,claude,,0,1,1,artifact,topic:vibe-coding language:typescript stars:1..50
+typescript,tuo-lei/vibe-replay,39,42123,2026-03-05,mit,584,claude|cursor,claude,1,1,1,bot,topic:vibe-coding language:typescript stars:1..50
+typescript,dergigi/vibeline,39,599,2025-03-16,mit,52,cursor,,0,1,1,artifact,topic:vibe-coding language:typescript stars:1..50
+typescript,BackGwa/Redstone,39,97,2026-01-15,mit,12,,,1,1,0,readme,topic:vibe-coding language:typescript stars:1..50
+typescript,deancourse/vibe-coding-testing-practice,38,78,2026-01-14,none,18,,,0,0,0,query-only,topic:vibe-coding language:typescript stars:1..50
+typescript,SumantxD/shrike,38,28171,2026-10-10,mit,593,claude,,1,1,1,artifact,topic:vibe-coding language:typescript stars:1..50
+typescript,hypercodism/alpine-code,37,16850,2026-09-27,mit,497,claude,,1,1,1,artifact,topic:vibe-coding language:typescript stars:1..50
+typescript,R4YGULAR/prompt-buddy,36,670,2025-07-06,agpl-3.0,17,claude,,1,1,1,artifact,topic:vibe-coding language:typescript stars:1..50
+typescript,bewithkhan/bansat,36,3691,2026-11-05,cc-by-4.0,67,claude,,0,1,1,artifact,topic:vibe-coding language:typescript stars:1..50
+typescript,yerdaulet-damir/vibe-coding-rules,35,299,2026-04-28,mit,32,claude|cursor,,1,1,1,artifact,topic:vibe-coding language:typescript stars:1..50
+typescript,Teylersf/freeremotedesk,35,636,2026-07-14,none,24,,,1,1,0,readme,topic:vibe-coding language:typescript stars:1..50
+typescript,neural-axis/VibeDoctor,35,15699,2026-05-29,gpl-3.0,231,,,1,1,0,readme,topic:vibe-coding language:typescript stars:1..50
+typescript,nikandr-surkov/ai-saas-starter,34,2406,2026-07-18,mit,140,claude|copilot|cursor,,1,1,1,artifact,topic:vibe-coding language:typescript stars:1..50
+typescript,DeadWaveWave/waveforge,34,2968,2025-06-25,mit,82,,,1,1,0,readme,topic:vibe-coding language:typescript stars:1..50
+typescript,odefun/ode,32,9186,2026-01-17,none,330,claude,,1,1,1,artifact,topic:vibe-coding language:typescript stars:1..50
+typescript,heymegabyte/agent-skills,30,13771,2026-04-20,noassertion,194,claude|cline_roo|continue|copilot|cursor|mcp|windsurf,,1,1,1,artifact,topic:vibe-coding language:typescript stars:1..50
+typescript,mikaelj/fuska,30,8395,2026-02-13,mit,74,,,1,1,0,readme,topic:vibe-coding language:typescript stars:1..50
+typescript,rigour-labs/rigour,29,13377,2026-01-04,mit,1063,claude,,1,1,1,artifact,topic:vibe-coding language:typescript stars:1..50
+typescript,exisz/IsItStable,29,5308,2026-04-28,mit,26,claude,,1,1,1,artifact,topic:vibe-coding language:typescript stars:1..50
+typescript,hpbyte/h-codex,28,1829,2025-06-21,mit,42,,,1,1,0,readme,topic:vibe-coding language:typescript stars:1..50
+typescript,iotserver24/codex,28,1227,2025-07-11,none,32,,Copilot,0,1,1,bot,topic:vibe-coding language:typescript stars:1..50
+typescript,lin96008-maxlin/prototype-html-hosting-platform,28,2279,2026-08-14,mit,113,,,0,0,0,query-only,topic:vibe-coding language:typescript stars:1..50
+typescript,joanseg/specmanager,27,9078,2026-05-24,mit,61,claude|mcp,claude,1,1,1,bot,topic:vibe-coding language:typescript stars:1..50
+typescript,For-Tr/Code-Bar,27,2455,2026-04-05,apache-2.0,57,,,1,1,0,readme,topic:vibe-coding language:typescript stars:1..50
+typescript,pea3nut/agent-add,27,1792,2026-03-17,mpl-2.0,89,,,1,1,0,readme,topic:vibe-coding language:typescript stars:1..50
+typescript,yuvrajangadsingh/vibecheck,27,631,2026-02-26,noassertion,48,,,1,1,0,readme,topic:vibe-coding language:typescript stars:1..50
+typescript,sync-buzz/sync-legacy,26,28252,2026-05-27,noassertion,843,,,1,1,0,readme,topic:vibe-coding language:typescript stars:1..50
+typescript,skill-mill/agent-skill-porter,25,3977,2025-08-05,none,77,claude,,1,1,1,artifact,topic:vibe-coding language:typescript stars:1..50
+typescript,yldm-tech/awesome-vibe-games,25,24292,2017-05-04,mit,88,,,1,1,0,readme,topic:vibe-coding language:typescript stars:1..50
+typescript,Xiaofan629/vibe-studio,25,4423,2026-03-15,none,66,claude,,1,1,1,artifact,topic:vibe-coding language:typescript stars:1..50
+typescript,vibehat/claude-task-manager,24,33687,2025-07-25,mit,486,claude|mcp,,1,1,1,artifact,topic:vibe-coding language:typescript stars:1..50
+typescript,melly-lgtm/inplan,24,2858,2026-06-11,agpl-3.0,290,claude,,1,1,1,artifact,topic:vibe-coding language:typescript stars:1..50
+typescript,RudderCode/Rudder,24,1033,2026-06-05,apache-2.0,21,claude,,1,1,1,artifact,topic:vibe-coding language:typescript stars:1..50
+typescript,ac1261692159/candela,23,9087,2026-10-11,agpl-3.0,837,,,0,0,0,query-only,topic:vibe-coding language:typescript stars:1..50
+typescript,Kalmuraee/OpenMagic,23,9073,2026-03-26,mit,99,,,1,1,0,readme,topic:vibe-coding language:typescript stars:1..50
+typescript,Mas-inx/lumen-ai-video-editor,22,5920,2026-09-23,mit,401,,,1,1,0,readme,topic:vibe-coding language:typescript stars:1..50
+typescript,yfge/TalkReplay,22,7464,2025-10-01,mit,87,claude,,1,1,1,artifact,topic:vibe-coding language:typescript stars:1..50
+typescript,hellokaton/game-copycat,22,2509,2026-07-16,mit,62,,,1,1,0,readme,topic:vibe-coding language:typescript stars:1..50
+typescript,Shiv-aurora/context-compass,21,1015,2026-04-03,apache-2.0,45,,,1,1,0,readme,topic:vibe-coding language:typescript stars:1..50
+typescript,zackpratamaa/safe-change,21,13672,2026-09-25,agpl-3.0,229,,,0,0,0,query-only,topic:vibe-coding language:typescript stars:1..50
+typescript,glmn-ai/vibereceipt,21,4382,2026-10-12,mit,34,,,1,1,0,readme,topic:vibe-coding language:typescript stars:1..50
+typescript,pentoshi007/clai,20,14674,2026-05-05,mit,2505,,,1,1,0,readme,topic:vibe-coding language:typescript stars:1..50
+typescript,ketthub/clawUI,20,2392,2026-02-08,mit,24,,,1,1,0,readme,topic:vibe-coding language:typescript stars:1..50
+typescript,joeseesun/qiaomu-ui-learn,19,3673,2026-10-06,mit,23,,,0,0,0,query-only,topic:vibe-coding language:typescript stars:1..50
+typescript,toolprint/cco-mcp,19,1033,2025-07-07,mit,65,claude|mcp,,1,1,1,artifact,topic:vibe-coding language:typescript stars:1..50
+typescript,kratai-desci/kratai,19,47453,2026-05-26,mit,153,claude,,1,1,1,artifact,topic:vibe-coding language:typescript stars:1..50
+typescript,AishwaryShrivastav/vibe-testing,18,962,2026-04-15,mit,129,claude|cursor|mcp,,1,1,1,artifact,topic:vibe-coding language:typescript stars:1..50
+typescript,wuruxu/crterm,18,2741,2026-04-05,mit,6,,,0,0,0,query-only,topic:vibe-coding language:typescript stars:1..50
+typescript,backblaze-b2-samples/vibe-coding-starter-kit,17,1785,2026-02-12,mit,118,claude|copilot,,0,1,1,artifact,topic:vibe-coding language:typescript stars:1..50
+typescript,totalumlabs/lovable-alternative,16,5124,2026-09-15,mit,194,claude,,0,1,1,artifact,topic:vibe-coding language:typescript stars:1..50
+typescript,mishushakov/expo-vibe,16,1779,2026-05-11,mit,16,,,1,1,0,readme,topic:vibe-coding language:typescript stars:1..50
+typescript,light-cloud-com/ice,16,29745,2026-03-22,mit,2722,,,1,1,0,readme,topic:vibe-coding language:typescript stars:1..50
+typescript,appydave-templates/starter-nextjs-convex-ai,16,5993,2025-07-15,mit,239,claude|mcp,,1,1,1,artifact,topic:vibe-coding language:typescript stars:1..50
+typescript,purpleeddy/cladding,16,35229,2026-05-18,mit,616,claude|cursor|mcp,,1,1,1,artifact,topic:vibe-coding language:typescript stars:1..50
+typescript,SRX9/UsageAtlas,16,11526,2026-08-13,mit,233,,,1,1,0,readme,topic:vibe-coding language:typescript stars:1..50
+typescript,stevepeak/kyoto,15,14132,2025-11-05,mit,373,cursor,,0,1,1,artifact,topic:vibe-coding language:typescript stars:1..50
+typescript,codewithdripzy/lasso,15,1327,2026-09-21,isc,103,,,1,1,0,readme,topic:vibe-coding language:typescript stars:1..50
+typescript,openmimir/openmimir,15,12022,2026-09-30,mit,68,claude,,1,1,1,artifact,topic:vibe-coding language:typescript stars:1..50
+typescript,NguyenHuynhPhuVinh/MasterContext,15,7144,2025-09-21,mit,71,,Copilot,1,1,1,bot,topic:vibe-coding language:typescript stars:1..50
+typescript,prodlint/prodlint,15,780,2026-02-16,mit,141,claude,,1,1,1,artifact,topic:vibe-coding language:typescript stars:1..50
+typescript,Aidan945/SafeAgentDB,15,95,2026-06-09,mit,6,claude,,1,1,1,artifact,topic:vibe-coding language:typescript stars:1..50
+typescript,nyxandro/remote-vibe-station,14,3203,2026-02-06,none,493,,,1,1,0,readme,topic:vibe-coding language:typescript stars:1..50
+typescript,MakingJamie/claude-colony,14,1338,2025-12-21,mit,106,,,1,1,0,readme,topic:vibe-coding language:typescript stars:1..50
+typescript,Takeoff0518/grid-splitter-react,14,172,2026-03-28,mit,71,,,0,0,0,query-only,topic:vibe-coding language:typescript stars:1..50
+typescript,enkhbold470/inky-gigachad,14,18083,2025-11-08,none,6,claude,,1,1,1,artifact,topic:vibe-coding language:typescript stars:1..50
+typescript,ztxtech/aion,14,12244,2026-04-12,mit,70,,,1,1,0,readme,topic:vibe-coding language:typescript stars:1..50
+typescript,alvinveroy/CodeCompass,14,4590,2025-05-06,mit,39,,,1,1,0,readme,topic:vibe-coding language:typescript stars:1..50
+typescript,coldmint9/Synax,14,22688,2026-04-20,apache-2.0,2214,,,0,0,0,query-only,topic:vibe-coding language:typescript stars:1..50
+typescript,kerplunkstudio/ccplus,13,28866,2026-03-15,mit,348,claude,,1,1,1,artifact,topic:vibe-coding language:typescript stars:1..50
+typescript,vcmf/minmux,13,21059,2026-07-08,mit,474,claude,,1,1,1,artifact,topic:vibe-coding language:typescript stars:1..50
+typescript,SuperYang006/MileStack,13,3349,2026-10-11,apache-2.0,131,,,1,1,0,readme,topic:vibe-coding language:typescript stars:1..50
+typescript,AgentsRoomDev/electron-mcp-for-agentsroom,13,252,2026-05-11,mit,47,,,1,1,0,readme,topic:vibe-coding language:typescript stars:1..50
+typescript,onamfc/vibe-coder-prompt-builder,12,201,2025-11-03,none,28,,,1,1,0,readme,topic:vibe-coding language:typescript stars:1..50
+typescript,byh3071-cpu/vhk,12,25132,2026-05-22,mit,524,claude|cline_roo|copilot|cursor|windsurf,,1,1,1,artifact,topic:vibe-coding language:typescript stars:1..50
+typescript,M00N7682/imugi,12,2318,2026-02-18,mit,42,,,1,1,0,readme,topic:vibe-coding language:typescript stars:1..50
+typescript,aiatelie/ai-atelie,12,3928,2026-05-05,mit,186,claude,,1,1,1,artifact,topic:vibe-coding language:typescript stars:1..50
+typescript,dewantrie/ai-software-factory,12,609,2026-05-28,none,33,,,1,1,0,readme,topic:vibe-coding language:typescript stars:1..50
+typescript,TerryCM/vibegroup,12,284,2026-06-21,mit,31,mcp,,1,1,1,artifact,topic:vibe-coding language:typescript stars:1..50
+typescript,antondanv/treeyard,12,7748,2026-10-06,apache-2.0,237,claude,,1,1,1,artifact,topic:vibe-coding language:typescript stars:1..50
+typescript,Ranteck/strong-mode,12,813,2026-02-07,none,60,claude,,0,1,1,artifact,topic:vibe-coding language:typescript stars:1..50
+typescript,andr3wV/VibeScript,12,117,2025-08-10,none,5,,,1,1,0,readme,topic:vibe-coding language:typescript stars:1..50
+typescript,Syotick/nova-agent,12,1634,2026-08-16,mit,82,,,1,1,0,readme,topic:vibe-coding language:typescript stars:1..50
+typescript,PatrickOgilvie/popcomputer-web,12,8885,2026-01-03,mit,316,claude,,0,1,1,artifact,topic:vibe-coding language:typescript stars:1..50
+typescript,menagerai/menagerai,11,3589,2026-07-08,lgpl-3.0,86,,,1,1,0,readme,topic:vibe-coding language:typescript stars:1..50
+typescript,withvibe/withvibe,11,14897,2026-05-16,agpl-3.0,368,,,0,0,0,query-only,topic:vibe-coding language:typescript stars:1..50
+typescript,langadventurellc/task-trellis-mcp,11,1101,2025-08-04,gpl-3.0,267,claude|mcp,,0,1,1,artifact,topic:vibe-coding language:typescript stars:1..50
+typescript,AmerSarhan/darce-cli,11,28597,2026-03-31,mit,119,claude,,1,1,1,artifact,topic:vibe-coding language:typescript stars:1..50
+typescript,itsflaid/devmap,11,2521,2026-05-30,mit,259,claude,claude,1,1,1,bot,topic:vibe-coding language:typescript stars:1..50
+typescript,speq-ai/speq-tools,11,7439,2026-03-01,mit,18,,,0,0,0,query-only,topic:vibe-coding language:typescript stars:1..50
+typescript,BernhardJackiewicz/architect-to-product,11,1120,2026-03-13,mit,143,mcp,,1,1,1,artifact,topic:vibe-coding language:typescript stars:1..50
+typescript,Dumebii/research-assistant,11,217,2025-06-19,none,79,,,0,0,0,query-only,topic:vibe-coding language:typescript stars:1..50
+typescript,ababol/bnot,11,1134,2026-04-06,noassertion,82,claude|cursor,,1,1,1,artifact,topic:vibe-coding language:typescript stars:1..50
+typescript,yaoleifly/monk-pi,11,257,2026-09-13,none,25,,,1,1,0,readme,topic:vibe-coding language:typescript stars:1..50
+typescript,Slopdar/slopdar,10,1352,2026-06-30,mit,105,claude,,0,1,1,artifact,topic:vibe-coding language:typescript stars:1..50
+typescript,reallongnguyen/nestjs-vibe-coding,10,13360,2024-07-03,none,562,cursor,,1,1,1,artifact,topic:vibe-coding language:typescript stars:1..50
+typescript,COBACOBAINI/vibe,10,14558,2025-08-14,mit,62,,,1,1,0,readme,topic:vibe-coding language:typescript stars:1..50
+typescript,ebbjs/ebbjs,10,43866,2026-03-17,apache-2.0,619,,,0,0,0,query-only,topic:vibe-coding language:typescript stars:1..50
+typescript,gee-46/my-portfolio,10,48893,2026-03-13,none,27,,,1,1,0,readme,topic:vibe-coding language:typescript stars:1..50
+typescript,Gitleonan/mdPlusPlus,10,3158,2026-06-17,mit,104,claude,,0,1,1,artifact,topic:vibe-coding language:typescript stars:1..50
+typescript,FishWoWater/Minimal3DStudio,10,44959,2025-07-04,apache-2.0,10,cursor,,1,1,1,artifact,topic:vibe-coding language:typescript stars:1..50
+typescript,henchiyb/breaker-ai,10,1116,2025-04-19,mit,13,,,1,1,0,readme,topic:vibe-coding language:typescript stars:1..50
+typescript,bworlds-co/clodable,10,30153,2026-10-12,mit,330,claude,,1,1,1,artifact,topic:vibe-coding language:typescript stars:1..50
+typescript,Orion-zhen/o-pi,10,9407,2026-07-02,agpl-3.0,1261,,,0,0,0,query-only,topic:vibe-coding language:typescript stars:1..50
+typescript,assetCLI/assetCLI-init,10,1091,2025-01-05,none,40,,,1,1,0,readme,topic:vibe-coding language:typescript stars:1..50
+typescript,phamquangvinhfpt/CashTrack,10,625,2025-12-16,mit,40,,,1,1,0,readme,topic:vibe-coding language:typescript stars:1..50
+typescript,imMamdouhaboammar/vibe-svgs,9,2317,2026-07-25,mit,50,claude,claude,1,1,1,bot,topic:vibe-coding language:typescript stars:1..50
+typescript,statico/meshtastic-cli,9,565,2025-12-18,mit,39,claude,,1,1,1,artifact,topic:vibe-coding language:typescript stars:1..50
+typescript,dergigi/vibeline-ui,9,512,2025-03-21,none,52,cursor,,1,1,1,artifact,topic:vibe-coding language:typescript stars:1..50
+typescript,Mocinjay/immunogen,9,2011,2026-06-20,mit,188,claude|cursor|mcp,claude,1,1,1,bot,topic:vibe-coding language:typescript stars:1..50
+typescript,x-cli-team/grok-one-shot,9,36211,2025-10-25,none,158,claude,claude,0,1,1,bot,topic:vibe-coding language:typescript stars:1..50
+typescript,ZackAkil/code-shape,9,180,2025-09-16,none,11,,,0,0,0,query-only,topic:vibe-coding language:typescript stars:1..50
+typescript,SarutobiSasuke8/agentops-template,9,384,2026-05-04,mit,9,claude|copilot|cursor,claude,1,1,1,bot,topic:vibe-coding language:typescript stars:1..50
+typescript,mirinodev/maestro,9,1799,2025-07-08,mit,123,claude,claude[bot],1,1,1,bot,topic:vibe-coding language:typescript stars:1..50
+typescript,olosegres/charness,9,47470,2026-02-05,noassertion,1420,claude,,1,1,1,artifact,topic:vibe-coding language:typescript stars:1..50
+typescript,sfvibe/oh-my-rn,9,1837,2026-04-02,mit,37,,,0,0,0,query-only,topic:vibe-coding language:typescript stars:1..50
+typescript,Hakunm/dsh-workspace,9,3037,2026-08-14,agpl-3.0,45,,,1,1,0,readme,topic:vibe-coding language:typescript stars:1..50
+typescript,tbagriyanik/NetworkSimulator,9,17792,2026-03-05,noassertion,1180,,,0,0,0,query-only,topic:vibe-coding language:typescript stars:1..50
+typescript,lwinmoe51/pisilist,9,1650,2026-06-20,mit,55,claude|mcp,,1,1,1,artifact,topic:vibe-coding language:typescript stars:1..50
+typescript,n0zer0d4y/vulcan-file-ops,9,2433,2025-10-09,mit,68,,,1,1,0,readme,topic:vibe-coding language:typescript stars:1..50
+typescript,aero-work/aero-work,8,3460,2026-01-16,mit,94,claude,,1,1,1,artifact,topic:vibe-coding language:typescript stars:1..50
+typescript,jalcantarab/v0-vibecodex,8,17084,2025-04-18,mit,120,cursor,,1,1,1,artifact,topic:vibe-coding language:typescript stars:1..50
+typescript,tenpai-ai/cc-venv,8,783,2026-03-17,mit,42,,,1,1,0,readme,topic:vibe-coding language:typescript stars:1..50
+typescript,AnthusAI/Vibe-Coding-Workbench,8,6806,2025-03-02,mit,38,cursor,,1,1,1,artifact,topic:vibe-coding language:typescript stars:1..50
+typescript,houbb/awesome-ai-coding,8,41836,2025-12-27,none,8,,,1,1,0,readme,topic:vibe-coding language:typescript stars:1..50
+typescript,kpruntov/SpecLoom,8,330,2026-02-14,mit,55,,,1,1,0,readme,topic:vibe-coding language:typescript stars:1..50
+typescript,yerdaulet-damir/netflix-clone-app,8,2041,2026-06-11,noassertion,28,,,1,1,0,readme,topic:vibe-coding language:typescript stars:1..50
+typescript,wubin28/book-vibe-coding-in-action,8,9151,2025-05-15,noassertion,156,cursor,,1,1,1,artifact,topic:vibe-coding language:typescript stars:1..50
+typescript,f1974939505/tmuxes,8,3150,2026-06-03,mit,109,claude,,1,1,1,artifact,topic:vibe-coding language:typescript stars:1..50
+typescript,p2p2sp/viber,8,30412,2026-05-20,mit,430,claude,,1,1,1,artifact,topic:vibe-coding language:typescript stars:1..50
+typescript,awahids/monli,8,13306,2025-08-10,none,370,claude,claude,1,1,1,bot,topic:vibe-coding language:typescript stars:1..50
+typescript,smartworldarafath/Material-3-Expressive-Screen-UI,8,20585,2026-09-05,mit,66,claude,,1,1,1,artifact,topic:vibe-coding language:typescript stars:1..50
+typescript,vibestackdev/vibe-stack,8,519,2026-03-30,mit,21,claude|cursor,,1,1,1,artifact,topic:vibe-coding language:typescript stars:1..50
+typescript,mory-dev/sudonotes,8,4017,2026-08-07,mit,79,claude,,1,1,1,artifact,topic:vibe-coding language:typescript stars:1..50
+typescript,64envy64/anvil,8,263,2026-04-01,apache-2.0,100,,,1,1,0,readme,topic:vibe-coding language:typescript stars:1..50
+typescript,JunyeolYu/line_focus,8,1907,2025-09-15,agpl-3.0,17,,,0,0,0,query-only,topic:vibe-coding language:typescript stars:1..50
+typescript,selfishprimate/yojimbo,7,2795,2026-04-04,mit,9,claude,,0,1,1,artifact,topic:vibe-coding language:typescript stars:1..50
+typescript,Gildaciolopes/agentic-dev-stack,7,3460,2026-11-11,mit,129,claude,,1,1,1,artifact,topic:vibe-coding language:typescript stars:1..50
+typescript,anton-g-kulikov/metacoding,7,1056,2025-06-21,mit,28,claude,,1,1,1,artifact,topic:vibe-coding language:typescript stars:1..50
+javascript,xiaobei930/cc-best,50,7498,2026-01-22,mit,56,claude,,1,1,1,artifact,topic:vibe-coding language:javascript stars:1..50
+javascript,autonomous-ai/autonomous-vibe,48,5647,2026-06-01,mit,684,claude,,1,1,1,artifact,topic:vibe-coding language:javascript stars:1..50
+javascript,Halaska-Studio/ui,47,933,2026-09-10,mit,158,,,1,1,0,readme,topic:vibe-coding language:javascript stars:1..50
+javascript,RocketChat/Opensource-Contribution-Leaderboard,47,1851,2019-04-22,mit,11,,,1,1,0,readme,topic:vibe-coding language:javascript stars:1..50
+javascript,Suraj-G-Rao/My-Portfolio,45,5687,2026-04-16,none,18,,,0,0,0,query-only,topic:vibe-coding language:javascript stars:1..50
+javascript,hallikkristjan-code/production-skeleton,45,264,2026-10-20,mit,33,,,1,1,0,readme,topic:vibe-coding language:javascript stars:1..50
+javascript,inspoai-studio/inspoai-studio,44,22066,2026-09-13,noassertion,188,,,1,1,0,readme,topic:vibe-coding language:javascript stars:1..50
+javascript,AkaraChen/2code,42,28884,2026-02-10,none,32,claude,Copilot,0,1,1,bot,topic:vibe-coding language:javascript stars:1..50
+javascript,MonkeyUI-dev/vibe-to-ui,40,19895,2026-03-19,mit,13,,Copilot,1,1,1,bot,topic:vibe-coding language:javascript stars:1..50
+javascript,Moeeryani/Vibe-Coding-Production-Kit,38,4027,2026-09-22,mit,100,,,1,1,0,readme,topic:vibe-coding language:javascript stars:1..50
+javascript,QAInsights/awesome-ai-tools,37,35388,2026-03-20,none,147,claude,,1,1,1,artifact,topic:vibe-coding language:javascript stars:1..50
+javascript,fancyyan/xiaohongshu-content-collector,35,2432,2026-03-22,mit,12,,,1,1,0,readme,topic:vibe-coding language:javascript stars:1..50
+javascript,pe-menezes/vibeflow,34,3859,2026-03-03,mit,176,claude,,1,1,1,artifact,topic:vibe-coding language:javascript stars:1..50
+javascript,wonseokjung/reversebusiness,33,5286,2026-11-17,mit,37,,,1,1,0,readme,topic:vibe-coding language:javascript stars:1..50
+javascript,opspresso/vibemon-app,33,46312,2026-01-23,mit,181,claude,Copilot,1,1,1,bot,topic:vibe-coding language:javascript stars:1..50
+javascript,anzax/dockashell,30,633,2025-05-22,apache-2.0,102,claude,,1,1,1,artifact,topic:vibe-coding language:javascript stars:1..50
+javascript,den-run-ai/pdfmini,29,222,2025-04-20,mit,17,,claude,0,1,1,bot,topic:vibe-coding language:javascript stars:1..50
+javascript,lin96008-maxlin/prototype-html-editor,29,2620,2026-09-05,mit,6,,,0,0,0,query-only,topic:vibe-coding language:javascript stars:1..50
+javascript,Berrry-Computer/speakbuild,29,2492,2025-01-21,none,49,claude,,1,1,1,artifact,topic:vibe-coding language:javascript stars:1..50
+javascript,annyeong844/lumin-repo-lens,26,1107,2026-05-01,mit,158,,,1,1,0,readme,topic:vibe-coding language:javascript stars:1..50
+javascript,a-bai-2026/codex-work-receipt,23,10303,2026-07-17,gpl-3.0,48,,,1,1,0,readme,topic:vibe-coding language:javascript stars:1..50
+javascript,rizukirr/vibekit,23,1207,2026-04-21,mit,49,claude,,1,1,1,artifact,topic:vibe-coding language:javascript stars:1..50
+javascript,cobanov/pocketvibe,21,43084,2026-10-08,mit,294,claude,,1,1,1,artifact,topic:vibe-coding language:javascript stars:1..50
+javascript,dvnkshl/vibe-coded-custom-launcher-for-samsung-tv,18,20415,2026-10-20,none,12,,,1,1,0,readme,topic:vibe-coding language:javascript stars:1..50
+javascript,loayabdalslam/hjx,18,3418,2026-02-15,mit,20,,,1,1,0,readme,topic:vibe-coding language:javascript stars:1..50
+javascript,kiaquila/unicorn-hub,17,636,2026-04-08,mit,34,claude,,1,1,1,artifact,topic:vibe-coding language:javascript stars:1..50
+javascript,th3vib3coder/vibe-science,17,15100,2026-02-02,apache-2.0,58,claude,,1,1,1,artifact,topic:vibe-coding language:javascript stars:1..50
+javascript,manifestack/manifestack,16,711,2026-10-06,mit,40,,,1,1,0,readme,topic:vibe-coding language:javascript stars:1..50
+javascript,TripoGrowthLab/vibe-gaming-interactive-playbook,16,4575,2026-09-29,noassertion,120,,,1,1,0,readme,topic:vibe-coding language:javascript stars:1..50
+javascript,nic01asFr/Widgets-Grist,16,40069,2026-02-11,mit,1097,claude|mcp,claude,1,1,1,bot,topic:vibe-coding language:javascript stars:1..50
+javascript,maksutovic/joycraft,15,16347,2026-03-23,mit,144,claude,,1,1,1,artifact,topic:vibe-coding language:javascript stars:1..50
+javascript,artmerenfeld/coding-asmr,15,13506,2026-02-24,mit,12,,,1,1,0,readme,topic:vibe-coding language:javascript stars:1..50
+javascript,lglucas/ai-dev-operating-system,15,935,2026-04-27,mit,17,claude,,1,1,1,artifact,topic:vibe-coding language:javascript stars:1..50
+javascript,wonderslife/pdd-skills-v3,15,49227,2026-04-07,mit,151,,,0,0,0,query-only,topic:vibe-coding language:javascript stars:1..50
+javascript,opentandem/opentandem,15,14345,2026-10-27,agpl-3.0,71,,,1,1,0,readme,topic:vibe-coding language:javascript stars:1..50
+javascript,AftabIbrahimKazi/ai-dev-kit,14,2993,2026-07-12,mit,186,,claude,1,1,1,bot,topic:vibe-coding language:javascript stars:1..50
+javascript,stroupaloop/pr-vibe,14,1050,2025-06-17,mit,53,claude,,1,1,1,artifact,topic:vibe-coding language:javascript stars:1..50
+javascript,LiWeny16/create-harness-vibe-coding,14,16120,2026-07-21,none,330,claude,,1,1,1,artifact,topic:vibe-coding language:javascript stars:1..50
+javascript,devrel-kr/github-copilot-bootcamp-2025,13,1426,2025-03-31,mit,17,copilot,,1,1,1,artifact,topic:vibe-coding language:javascript stars:1..50
+javascript,aemal/vibestage-desktop,12,42228,2025-05-23,mit,5,,,0,0,0,query-only,topic:vibe-coding language:javascript stars:1..50
+javascript,thedaviddias/codekeeper,12,142,2025-08-22,noassertion,42,,,0,0,0,query-only,topic:vibe-coding language:javascript stars:1..50
+javascript,yungookim/n.codes,11,11493,2026-01-11,mit,137,claude,claude,1,1,1,bot,topic:vibe-coding language:javascript stars:1..50
+javascript,Anil-matcha/open-ai-vibe-coding-course,11,174,2024-05-13,mit,19,,,0,0,0,query-only,topic:vibe-coding language:javascript stars:1..50
+javascript,Temple-of-Silicon/esoterica,10,29615,2026-01-22,mit,6,claude,claude,1,1,1,bot,topic:vibe-coding language:javascript stars:1..50
+javascript,CGSOG-JumpStarts/JumpStart-AutoNav,10,5819,2026-02-10,mit,279,claude|copilot|cursor|windsurf,,1,1,1,artifact,topic:vibe-coding language:javascript stars:1..50
+javascript,midatlanticAI/PreFlight,9,3614,2026-05-11,mit,366,claude,,1,1,1,artifact,topic:vibe-coding language:javascript stars:1..50
+javascript,01NGVI-QINGYI/dsh-mistral-pro,9,362,2026-11-08,mit,7,,,1,1,0,readme,topic:vibe-coding language:javascript stars:1..50
+javascript,Hrithwin123/Reframe,9,38323,2026-06-23,none,7,,,1,1,0,readme,topic:vibe-coding language:javascript stars:1..50
+javascript,Berrry-Computer/unpkg.ai,9,924,2025-09-09,none,14,,,1,1,0,readme,topic:vibe-coding language:javascript stars:1..50
+javascript,cducote/remoteCC,9,129,2025-11-09,none,12,claude,,1,1,1,artifact,topic:vibe-coding language:javascript stars:1..50
+javascript,Ashish-Patnaik/Buddly-AI,8,114,2025-07-27,apache-2.0,21,,,1,1,0,readme,topic:vibe-coding language:javascript stars:1..50
+javascript,Miftahul-Islam-Efaz/LIQUID-GLASS,8,20199,2026-09-01,none,16,,,0,0,0,query-only,topic:vibe-coding language:javascript stars:1..50
+javascript,sodam-ai/SoDam-Persona-Codex,8,1892,2026-08-09,apache-2.0,15,,,1,1,0,readme,topic:vibe-coding language:javascript stars:1..50
+javascript,DavidVeksler/potemkin-pipeline,8,3224,2026-06-13,mit,30,claude,,0,1,1,artifact,topic:vibe-coding language:javascript stars:1..50
+javascript,hwyuanzi/LiquidGlass-UI,8,79,2026-06-02,mit,6,cursor,,1,1,1,artifact,topic:vibe-coding language:javascript stars:1..50
+javascript,develop212/riff,8,69,2026-10-19,mit,8,,,1,1,0,readme,topic:vibe-coding language:javascript stars:1..50
+javascript,ilramdhan/start-from-here,8,2290,2026-10-24,mit,22,claude|copilot,,1,1,1,artifact,topic:vibe-coding language:javascript stars:1..50
+javascript,cdrcthv/deslop,8,70,2026-10-24,mit,8,,,1,1,0,readme,topic:vibe-coding language:javascript stars:1..50
+javascript,Xu123-Bob/Jarvis---AI-Desktop-Voice-Companion-,8,184,2026-07-18,mit,33,,,1,1,0,readme,topic:vibe-coding language:javascript stars:1..50
+javascript,zzz27578/CentDeck,8,9324,2026-09-29,agpl-3.0,133,,,1,1,0,readme,topic:vibe-coding language:javascript stars:1..50
+javascript,konglong87/anything-ai,7,38714,2026-03-20,mit,27,,,1,1,0,readme,topic:vibe-coding language:javascript stars:1..50
+javascript,gretchenfitze/anti-slop,7,148,2026-10-08,mit,10,,,1,1,0,readme,topic:vibe-coding language:javascript stars:1..50
+javascript,yagyeshVyas/VibeGuard,7,10108,2026-07-11,mit,160,claude|mcp,,0,1,1,artifact,topic:vibe-coding language:javascript stars:1..50
+javascript,itsw1n/create-win-project,7,1279,2026-08-15,mit,127,,Copilot,0,1,1,bot,topic:vibe-coding language:javascript stars:1..50
+javascript,gcrft123/tailr,7,5948,2026-08-30,mit,34,mcp,claude|cursor[bot],1,1,1,bot,topic:vibe-coding language:javascript stars:1..50
+javascript,SolidSnake1765/local-vot,6,14380,2026-09-28,mit,41,,,0,0,0,query-only,topic:vibe-coding language:javascript stars:1..50
+javascript,DarranLiu/Easy-Web-Vibecoding,6,12016,2026-09-20,mit,51,,,1,1,0,readme,topic:vibe-coding language:javascript stars:1..50
+javascript,zzapril/LoopPilot,6,717,2026-06-25,mit,36,claude,,1,1,1,artifact,topic:vibe-coding language:javascript stars:1..50
+javascript,nika110/openhuddle,6,15562,2026-10-18,mit,49,,,1,1,0,readme,topic:vibe-coding language:javascript stars:1..50
+javascript,2huy4n/stop-wishing,6,469,2026-10-20,agpl-3.0,23,,,1,1,0,readme,topic:vibe-coding language:javascript stars:1..50
+javascript,rizvee/multimodel-dev-os,6,4937,2026-05-30,mit,367,claude|cursor,,1,1,1,artifact,topic:vibe-coding language:javascript stars:1..50
+javascript,Luisacaotica/ChaoticMinimaxH3Director_WIP,6,1313,2026-08-08,mit,6,,,0,0,0,query-only,topic:vibe-coding language:javascript stars:1..50
+javascript,iyuenan3/maxwell-homepage,6,3172,2026-03-11,none,26,,,1,1,0,readme,topic:vibe-coding language:javascript stars:1..50
+javascript,chjoel0621/vibespec,5,2015,2026-07-09,mit,112,,,1,1,0,readme,topic:vibe-coding language:javascript stars:1..50
+javascript,BaronJensen/termi-ai,5,7329,2025-08-11,mit,65,,,1,1,0,readme,topic:vibe-coding language:javascript stars:1..50
+javascript,mp-se/ha-dashboard,5,25821,2025-11-29,noassertion,110,copilot,,0,1,1,artifact,topic:vibe-coding language:javascript stars:1..50
+javascript,usmanmanii/realitygate,5,371,2026-10-19,mit,53,claude,,1,1,1,artifact,topic:vibe-coding language:javascript stars:1..50
+javascript,Mun1to/Vibeset,5,6651,2026-06-11,mit,167,claude,,0,1,1,artifact,topic:vibe-coding language:javascript stars:1..50
+javascript,wrsmith108/vibe-to-docker,5,2700,2025-10-23,apache-2.0,133,claude,claude,0,1,1,bot,topic:vibe-coding language:javascript stars:1..50
+javascript,buzz39/beforeship,5,204,2026-07-16,mit,23,,Copilot,1,1,1,bot,topic:vibe-coding language:javascript stars:1..50
+javascript,SeiOkami/WTF-Quiz-OneS,5,5153,2025-09-19,none,9,,,0,0,0,query-only,topic:vibe-coding language:javascript stars:1..50
+javascript,edgewiselab/ship-kit,5,190,2026-07-27,mit,19,,,1,1,0,readme,topic:vibe-coding language:javascript stars:1..50
+javascript,Xon77/FizzyHydra,5,4315,2025-08-02,noassertion,24,,,0,0,0,query-only,topic:vibe-coding language:javascript stars:1..50
+javascript,humancto/legacy-games,5,2008,2026-02-06,noassertion,23,,,0,0,0,query-only,topic:vibe-coding language:javascript stars:1..50
+javascript,UnLince/The-Unity-Architect,5,2437,2026-04-15,mit,5,,,1,1,0,readme,topic:vibe-coding language:javascript stars:1..50
+javascript,imMamdouhaboammar/Riftbook,5,658,2026-06-27,mit,16,claude,,0,1,1,artifact,topic:vibe-coding language:javascript stars:1..50
+javascript,neodk2004/vibewright,5,6484,2026-10-11,mit,25,claude,,1,1,1,artifact,topic:vibe-coding language:javascript stars:1..50
+javascript,micaelcf/ef-harness,5,753,2026-09-24,mit,8,,,1,1,0,readme,topic:vibe-coding language:javascript stars:1..50
+javascript,TQSY114514/Aether,5,42945,2026-07-11,mit,459,,,1,1,0,readme,topic:vibe-coding language:javascript stars:1..50
+javascript,matthummel-pa/keepary,4,406,2026-06-16,mit,24,,,0,0,0,query-only,topic:vibe-coding language:javascript stars:1..50
+javascript,imMamdouhaboammar/unslop-preflight,4,752,2026-06-08,mit,121,claude,,0,1,1,artifact,topic:vibe-coding language:javascript stars:1..50
+javascript,thesajidalam/vibeguard,4,169,2026-08-02,mit,19,,,1,1,0,readme,topic:vibe-coding language:javascript stars:1..50
+javascript,klaus-2/dsh-redline,4,15199,2026-11-07,mit,18,,,1,1,0,readme,topic:vibe-coding language:javascript stars:1..50
+javascript,ShuaiKeAng/Image-Encryptor,4,163,2026-04-11,mit,8,,,0,0,0,query-only,topic:vibe-coding language:javascript stars:1..50
+javascript,jaiganesh6999/seowebchecker-seoaudit-sdk,4,1545,2026-09-25,mit,44,,,1,1,0,readme,topic:vibe-coding language:javascript stars:1..50
+javascript,Alexandre-LPZ/taste-cockpit,4,28598,2026-11-15,mit,154,,,1,1,0,readme,topic:vibe-coding language:javascript stars:1..50
+javascript,whiteuistore/sketch-ui-theme-switcher,4,26609,2026-02-27,mit,8,,,0,0,0,query-only,topic:vibe-coding language:javascript stars:1..50
+javascript,SathiaAI/graphsmith,4,9027,2026-07-20,mit,238,copilot|cursor,claude,1,1,1,bot,topic:vibe-coding language:javascript stars:1..50
+javascript,mdsohaib/screenshot-time-machine,4,2094,2026-08-15,mit,16,claude,,1,1,1,artifact,topic:vibe-coding language:javascript stars:1..50
+javascript,shishir-dey/ngspiceX,4,15564,2025-06-25,none,20,,,1,1,0,readme,topic:vibe-coding language:javascript stars:1..50
+javascript,OptimaiNetwork/optimai-creative-agents,4,3631,2026-10-08,mit,124,,,0,0,0,query-only,topic:vibe-coding language:javascript stars:1..50
+javascript,itsdanylol/claude-sitecraft,4,3406,2026-11-20,cc-by-4.0,18,,claude,1,1,1,bot,topic:vibe-coding language:javascript stars:1..50
+javascript,dheerajjha/show-your-work,4,204,2026-10-09,mit,28,,,1,1,0,readme,topic:vibe-coding language:javascript stars:1..50
+javascript,boranb/ennyn,4,19139,2026-11-21,mit,151,claude,,1,1,1,artifact,topic:vibe-coding language:javascript stars:1..50
+javascript,ribato22/vibecheck,4,1436,2026-10-28,mit,9,,,1,1,0,readme,topic:vibe-coding language:javascript stars:1..50
+javascript,lunox-work/bouncer,4,48498,2026-10-28,mit,84,,,1,1,0,readme,topic:vibe-coding language:javascript stars:1..50
+javascript,evarga/vibe-coding-demo,4,6373,2026-05-03,mit,21,,Copilot,0,1,1,bot,topic:vibe-coding language:javascript stars:1..50
+javascript,Leoomk/contextmap,4,272,2026-11-26,mit,16,cursor,,1,1,1,artifact,topic:vibe-coding language:javascript stars:1..50
+javascript,stilero/bankan,4,10608,2026-03-07,mit,68,claude,,1,1,1,artifact,topic:vibe-coding language:javascript stars:1..50
+javascript,hieunguyenak92/rea-pro-max,3,1348,2026-11-04,mit,122,,,1,1,0,readme,topic:vibe-coding language:javascript stars:1..50
+javascript,hackjutsu/mini-chatbot,3,6624,2025-11-13,mit,69,,,1,1,0,readme,topic:vibe-coding language:javascript stars:1..50
+javascript,rawkintrevo/mapache,3,21989,2026-06-09,agpl-3.0,677,,,1,1,0,readme,topic:vibe-coding language:javascript stars:1..50
+javascript,theisegoria/game-debug-mcp,3,1923,2026-08-21,apache-2.0,31,,,0,0,0,query-only,topic:vibe-coding language:javascript stars:1..50
+javascript,dui14/vibe-coding-workflow,3,38212,2026-05-27,mit,155,claude|copilot,,1,1,1,artifact,topic:vibe-coding language:javascript stars:1..50
+javascript,kyrie2to11/Zephyrus_AI_DJ,3,2142,2026-05-08,mit,17,claude,,1,1,1,artifact,topic:vibe-coding language:javascript stars:1..50
+javascript,nzkbuild/steroid-workflow,3,1704,2026-03-10,mit,85,,,0,0,0,query-only,topic:vibe-coding language:javascript stars:1..50
+javascript,DariusHQ/noskip,3,678,2026-10-09,mit,104,,,1,1,0,readme,topic:vibe-coding language:javascript stars:1..50
+javascript,bmubook/ag-launchpad-ar,3,1692,2026-07-05,mit,65,claude|cursor,,1,1,1,artifact,topic:vibe-coding language:javascript stars:1..50
+javascript,gui-lin/vibe-knowledge-studio,3,231,2026-10-26,mit,10,,,1,1,0,readme,topic:vibe-coding language:javascript stars:1..50
+javascript,whiteuistore/stack-layout-hacks,3,1204,2026-03-26,mit,15,,,0,0,0,query-only,topic:vibe-coding language:javascript stars:1..50
+javascript,k4its1t/deepseek-harness-desktop-community,3,3621,2026-08-14,mit,24,,,1,1,0,readme,topic:vibe-coding language:javascript stars:1..50
+javascript,math2024444-spec/agent-commands,3,1891,2025-11-26,apache-2.0,5,,,1,1,0,readme,topic:vibe-coding language:javascript stars:1..50
+javascript,acarducci65-svg/vibe-multiagent-public,3,35459,2026-09-11,mit,29,,,1,1,0,readme,topic:vibe-coding language:javascript stars:1..50
+javascript,priberry-data/greenlitlab,3,2945,2026-11-08,apache-2.0,35,,,1,1,0,readme,topic:vibe-coding language:javascript stars:1..50
+javascript,schmalhorst/google_antigravity_test,3,54,2025-11-29,none,18,,,0,0,0,query-only,topic:vibe-coding language:javascript stars:1..50
+javascript,SquizAI/VIbeCoding_1101_Book,17,1836,2025-04-22,none,6,,,0,0,0,query-only,"""vibe coded"" in:readme language:javascript stars:1..50"
+javascript,Azure-Samples/mcp-workshop-dotnet,36,829,2023-10-12,mit,6,,Copilot,1,1,1,bot,"""vibe coded"" in:readme language:javascript stars:1..50"
+javascript,dvasyliev/react-crash-course,46,258,2024-05-05,none,9,,,1,1,0,readme,"""vibe coded"" in:readme language:javascript stars:1..50"
+javascript,dvasyliev/react-ai-chatbot,34,196,2024-11-21,none,16,,,1,1,0,readme,"""vibe coded"" in:readme language:javascript stars:1..50"
+javascript,wonseokjung/connect-ai-writer,9,8530,2026-11-24,noassertion,39,,,1,1,0,readme,"""vibe coded"" in:readme language:javascript stars:1..50"
+javascript,PacktPublishing/Build-with-Claude-Code,32,8067,2026-07-15,mit,41,claude,,1,1,1,artifact,"""vibe coded"" in:readme language:javascript stars:1..50"
+javascript,rambros3d/discord-terminator,24,27899,2026-02-14,none,6,,,0,0,0,query-only,"""vibe coded"" in:readme language:javascript stars:1..50"
+javascript,X-School-Academy/X-FluxAgent,38,911,2025-05-15,agpl-3.0,6,,,1,1,0,readme,"""vibe coded"" in:readme language:javascript stars:1..50"
+javascript,josephistired/DiscordBot-v14,48,1250,2022-10-08,mit,131,,,0,0,0,query-only,"""vibe coded"" in:readme language:javascript stars:1..50"
+javascript,rohitbhardwaj/ChatGPTSoftwareArchitects,40,6013,2024-02-27,none,16,claude,,1,1,1,artifact,"""vibe coded"" in:readme language:javascript stars:1..50"
+javascript,MikeBets/ai-basic-browser-v1,9,248,2025-08-24,none,16,claude,,1,1,1,artifact,"""vibe coded"" in:readme language:javascript stars:1..50"
+javascript,andrewwoan/demo-emotional-experiences-part-one,31,31068,2025-09-12,mit,18,,,0,0,0,query-only,"""vibe coded"" in:readme language:javascript stars:1..50"
+javascript,flipperdevices/flipperone-testing,29,13223,2025-09-08,none,109,claude,,0,1,1,artifact,"""vibe coded"" in:readme language:javascript stars:1..50"
+javascript,lucas-datacamp/vibe-design-system,10,691,2026-06-15,none,126,claude|cursor,,1,1,1,artifact,"""vibe coded"" in:readme language:javascript stars:1..50"
+javascript,bezael/ai-workflow-kit,47,2280,2026-04-05,none,29,claude|copilot|cursor,,1,1,1,artifact,"""vibe coded"" in:readme language:javascript stars:1..50"
+javascript,cheezeburger/React-Learning-Management-System,16,1095,2020-07-20,none,48,,,1,1,0,readme,"""vibe coded"" in:readme language:javascript stars:1..50"
+javascript,wass08/r3f-carousel-slider,7,70,2025-08-08,mit,6,,,1,1,0,readme,"""vibe coded"" in:readme language:javascript stars:1..50"
+javascript,matdaaiga-kr/github-copilot-workshop,3,11946,2025-04-02,none,23,copilot,,1,1,1,artifact,"""vibe coded"" in:readme language:javascript stars:1..50"
+javascript,giang6283623/minimal-vibe-coding-kit,26,1413,2026-06-24,mit,265,claude|cursor,,1,1,1,artifact,"""vibe coded"" in:readme language:javascript stars:1..50"
+javascript,rdumasia303/Gemini_Claude_Earth,34,37638,2026-02-20,none,12,,,1,1,0,readme,"""vibe coded"" in:readme language:javascript stars:1..50"
+javascript,wix/skills,40,30813,2026-01-25,mit,678,mcp,,1,1,1,artifact,"""vibe coded"" in:readme language:javascript stars:1..50"
+javascript,athm793/buggie-skill,12,167,2026-06-17,none,8,,,1,1,0,readme,"""vibe coded"" in:readme language:javascript stars:1..50"
+javascript,archestra-ai/apps-gallery,2,44102,2026-07-22,mit,14,,,0,0,0,query-only,"""vibe coded"" in:readme language:javascript stars:1..50"
+javascript,DaSE-VibeCoding/SummerCamp-2026,8,1472,2026-07-13,none,16,,,0,0,0,query-only,"""vibe coded"" in:readme language:javascript stars:1..50"
+javascript,ColaFanta/go-simple-admin-template,9,2316,2026-02-06,mit,83,,,1,1,0,readme,"""vibe coded"" in:readme language:javascript stars:1..50"
+rust,toolprint/just-mcp,45,883,2025-07-07,mit,88,claude|mcp,,1,1,1,artifact,topic:vibe-coding language:rust stars:1..50
+rust,gabrielmaialva33/winx-code-agent,41,6051,2025-04-17,mit,212,,,1,1,0,readme,topic:vibe-coding language:rust stars:1..50
+rust,leolaporte/beatcheck,39,169,2026-01-11,none,25,claude,,1,1,1,artifact,topic:vibe-coding language:rust stars:1..50
+rust,2AMLogic/vibesql,36,49477,2025-10-25,apache-2.0,1829,claude,,1,1,1,artifact,topic:vibe-coding language:rust stars:1..50
+rust,reqvire-org/reqvire,29,31994,2024-12-27,apache-2.0,160,claude|mcp,claude,0,1,1,bot,topic:vibe-coding language:rust stars:1..50
+rust,siropkin/budi,26,16048,2026-03-01,mit,91,claude,,1,1,1,artifact,topic:vibe-coding language:rust stars:1..50
+rust,BetaYao/seahelm,23,21242,2026-06-25,mit,204,claude,,1,1,1,artifact,topic:vibe-coding language:rust stars:1..50
+rust,panbanda/omen,23,17644,2025-11-26,apache-2.0,282,claude,,0,1,1,artifact,topic:vibe-coding language:rust stars:1..50
+rust,pixlie/SmartCrawler,22,409,2025-06-05,gpl-3.0,9,claude,,0,1,1,artifact,topic:vibe-coding language:rust stars:1..50
+rust,txtx/axel,21,411,2026-01-05,none,25,,,1,1,0,readme,topic:vibe-coding language:rust stars:1..50
+rust,crussella0129/Animus_GECK,20,331,2026-01-25,gpl-3.0,8,,,1,1,0,readme,topic:vibe-coding language:rust stars:1..50
+rust,lilhammerfun/clumsies,19,27412,2025-12-03,mit,206,copilot,Copilot,1,1,1,bot,topic:vibe-coding language:rust stars:1..50
+rust,senweaver/SenWeaverCoding,18,18942,2026-04-07,mit,1308,,,1,1,0,readme,topic:vibe-coding language:rust stars:1..50
+rust,junhoyeo/uira,17,6266,2026-01-24,none,377,,Copilot|claude,1,1,1,bot,topic:vibe-coding language:rust stars:1..50
+rust,programmersd21/ratatui-skill,16,2100,2026-11-25,mit,233,,,1,1,0,readme,topic:vibe-coding language:rust stars:1..50
+rust,akshan-main/vibe-check,15,3179,2026-03-04,mit,8,claude,,1,1,1,artifact,topic:vibe-coding language:rust stars:1..50
+rust,teaql/teaql-rs,15,7833,2026-04-18,apache-2.0,1327,,,1,1,0,readme,topic:vibe-coding language:rust stars:1..50
+rust,second-state/vibekeys_firmware,14,741,2026-01-28,none,23,,,0,0,0,query-only,topic:vibe-coding language:rust stars:1..50
+rust,bystrex/bystrex,14,1620,2026-11-24,mit,300,claude,claude,0,1,1,bot,topic:vibe-coding language:rust stars:1..50
+rust,condrdev/condr,13,41250,2026-08-27,apache-2.0,382,claude|cursor,,1,1,1,artifact,topic:vibe-coding language:rust stars:1..50
+rust,tiylabs/tiycode,12,20024,2026-03-11,apache-2.0,196,,,1,1,0,readme,topic:vibe-coding language:rust stars:1..50
+rust,tenatarika/vex,12,6012,2026-05-07,mit,372,claude,,0,1,1,artifact,topic:vibe-coding language:rust stars:1..50
+rust,hongxin/RealConsole,11,18317,2025-10-17,mit,311,claude,,1,1,1,artifact,topic:vibe-coding language:rust stars:1..50
+rust,ChukarAI/Vibe_Assembly,10,6234,2026-07-20,apache-2.0,74,,,1,1,0,readme,topic:vibe-coding language:rust stars:1..50
+rust,johnhkchen/my-little-soda,10,1887,2025-08-19,mit,172,claude,,1,1,1,artifact,topic:vibe-coding language:rust stars:1..50
+rust,ViCo-Lab/candy,10,1676,2026-07-08,noassertion,39,,,0,0,0,query-only,topic:vibe-coding language:rust stars:1..50
+rust,Loctree/loctree,10,7329,2025-11-21,noassertion,422,claude|copilot|mcp,,0,1,1,artifact,topic:vibe-coding language:rust stars:1..50
+rust,uwzis/UniSpec,10,1710,2026-03-25,mit,54,claude,,1,1,1,artifact,topic:vibe-coding language:rust stars:1..50
+rust,toolprint/vibe-workspace,9,956,2025-07-25,mit,91,claude,,1,1,1,artifact,topic:vibe-coding language:rust stars:1..50
+rust,NxTsh/linefeed,8,2114,2026-08-26,apache-2.0,22,claude,,1,1,1,artifact,topic:vibe-coding language:rust stars:1..50
+rust,zorya-development/north,8,6480,2026-02-09,none,215,claude,,1,1,1,artifact,topic:vibe-coding language:rust stars:1..50
+rust,risqinf/apiku,8,1117,2026-05-26,mit,39,,,0,0,0,query-only,topic:vibe-coding language:rust stars:1..50
+rust,sena-nana/LiliaCode,8,22150,2026-05-19,mit,384,,,1,1,0,readme,topic:vibe-coding language:rust stars:1..50
+rust,emircan-sahin/gitviber,8,41067,2026-09-21,gpl-3.0,1046,claude,,1,1,1,artifact,topic:vibe-coding language:rust stars:1..50
+rust,statico/nethack-tiles-client,8,2541,2026-08-01,mit,20,claude,claude,1,1,1,bot,topic:vibe-coding language:rust stars:1..50
+rust,nnevskij/shaft,7,2110,2026-11-12,apache-2.0,40,,,0,0,0,query-only,topic:vibe-coding language:rust stars:1..50
+rust,Thooer/croon-app,7,565,2026-11-17,apache-2.0,40,,,1,1,0,readme,topic:vibe-coding language:rust stars:1..50
+rust,AnnenkovLabs/jig,7,1431,2026-07-26,agpl-3.0,126,,,1,1,0,readme,topic:vibe-coding language:rust stars:1..50
+rust,flolibio/tailr,7,7825,2026-05-25,mit,29,claude,,1,1,1,artifact,topic:vibe-coding language:rust stars:1..50
+rust,coko7/osomty,6,103,2026-10-28,mit,7,,,1,1,0,readme,topic:vibe-coding language:rust stars:1..50
+rust,frankhart2018/animdsl,6,120,2026-02-22,none,12,,,1,1,0,readme,topic:vibe-coding language:rust stars:1..50
+rust,lh3/badclip,6,898,2026-07-30,none,16,claude,,1,1,1,artifact,topic:vibe-coding language:rust stars:1..50
+rust,HWu0101/falcon-photo-viewer,6,41571,2026-10-03,apache-2.0,346,,,1,1,0,readme,topic:vibe-coding language:rust stars:1..50
+rust,openSVM/vibedev,5,751,2026-01-04,mit,63,claude,Copilot,1,1,1,bot,topic:vibe-coding language:rust stars:1..50
+rust,Eslzzyl/tidev,5,12464,2026-04-12,apache-2.0,261,,,1,1,0,readme,topic:vibe-coding language:rust stars:1..50
+rust,sagarrroy/sandspy,5,653,2026-03-29,mit,44,,,1,1,0,readme,topic:vibe-coding language:rust stars:1..50
+rust,ChukarAI/Vibe_Router,5,502,2026-09-27,apache-2.0,54,,,1,1,0,readme,topic:vibe-coding language:rust stars:1..50
+rust,lucasjinreal/xa,5,2232,2026-01-07,none,32,,,1,1,0,readme,topic:vibe-coding language:rust stars:1..50
+rust,paulfxyz/mang,5,1073,2026-03-22,mit,14,,,1,1,0,readme,topic:vibe-coding language:rust stars:1..50
+rust,vulcandth/vibeEmu,5,7440,2025-05-27,mit,110,,Copilot,0,1,1,bot,topic:vibe-coding language:rust stars:1..50
+rust,teaql/teaql-cargo-cli,5,236,2026-04-25,mit,9,,,0,0,0,query-only,topic:vibe-coding language:rust stars:1..50
+rust,possible055/agentshim,5,7455,2026-08-04,mit,668,,,1,1,0,readme,topic:vibe-coding language:rust stars:1..50
+rust,dburkart/vibix,5,10664,2026-04-12,noassertion,2649,claude|cursor,claude,1,1,1,bot,topic:vibe-coding language:rust stars:1..50
+rust,patrickreed22/vibe-kanban,4,47118,2026-01-14,apache-2.0,237,claude,,1,1,1,artifact,topic:vibe-coding language:rust stars:1..50
+rust,yoouTaro/rgrip,4,25149,2026-10-13,apache-2.0,44,,,0,0,0,query-only,topic:vibe-coding language:rust stars:1..50
+rust,chteau/vcwl,4,1658,2026-10-22,mit,53,,,0,0,0,query-only,topic:vibe-coding language:rust stars:1..50
+rust,yusei531642/vibe-editor,4,26506,2026-04-11,mit,182,claude|mcp,,1,1,1,artifact,topic:vibe-coding language:rust stars:1..50
+rust,noirphoria/void-hifi,3,6318,2026-11-26,mit,17,,,0,0,0,query-only,topic:vibe-coding language:rust stars:1..50
+rust,leaperone/vibeface,3,20799,2026-10-16,none,381,claude|cursor|mcp,cursor[bot],1,1,1,bot,topic:vibe-coding language:rust stars:1..50
+rust,Omanjusan/Nekoviewer,3,9061,2026-06-25,mit,190,,,0,0,0,query-only,topic:vibe-coding language:rust stars:1..50
+rust,leocavalcante/vhp,3,2817,2025-12-26,bsd-3-clause,115,,Copilot,0,1,1,bot,topic:vibe-coding language:rust stars:1..50
+rust,AmenAdem/Orbit,3,11868,2026-11-14,mit,189,claude|cursor,claude,1,1,1,bot,topic:vibe-coding language:rust stars:1..50
+rust,Metatopia-Dev/metatopia-game-engine,3,840,2025-08-25,mit,72,,,0,0,0,query-only,topic:vibe-coding language:rust stars:1..50
+rust,kaindrakonis/vibedev,3,2613,2026-01-19,mit,63,claude,Copilot,1,1,1,bot,topic:vibe-coding language:rust stars:1..50
+rust,Cloud370/kuku,3,7844,2026-05-14,apache-2.0,609,claude,,0,1,1,artifact,topic:vibe-coding language:rust stars:1..50
+rust,emadgh/GahYar,3,5154,2026-08-09,mit,12,,,0,0,0,query-only,topic:vibe-coding language:rust stars:1..50
+rust,54cndr/DS-Code,3,2534,2026-08-06,none,71,,,1,1,0,readme,topic:vibe-coding language:rust stars:1..50
+rust,bankerneel/wamt,3,5265,2026-11-18,mit,19,,,1,1,0,readme,topic:vibe-coding language:rust stars:1..50
+rust,qWaitCrypto/HarnessKit,3,815,2026-05-12,mit,81,claude,claude|codex,1,1,1,bot,topic:vibe-coding language:rust stars:1..50
+rust,hoytnix/athanor,2,104,2026-03-03,agpl-3.0,6,,,1,1,0,readme,topic:vibe-coding language:rust stars:1..50
+rust,Hakureirm/vibird,2,295,2026-06-21,agpl-3.0,18,mcp,,1,1,1,artifact,topic:vibe-coding language:rust stars:1..50
+rust,mashPermz/minicraft,2,5941,2026-06-12,none,11,claude,,1,1,1,artifact,topic:vibe-coding language:rust stars:1..50
+rust,555aaditya/Svetra,2,4356,2026-03-19,mit,74,claude,,1,1,1,artifact,topic:vibe-coding language:rust stars:1..50
+rust,hoytnix/kiln,2,108,2026-03-03,agpl-3.0,27,,,0,0,0,query-only,topic:vibe-coding language:rust stars:1..50
+rust,LocShadowVN/kestrel-browser,2,601,2026-10-08,gpl-3.0,28,,,0,0,0,query-only,topic:vibe-coding language:rust stars:1..50
+rust,byKAYRA/goley-salgo,2,411,2026-08-28,mit,41,,,0,0,0,query-only,topic:vibe-coding language:rust stars:1..50
+rust,avelone123123/slopguard,2,2899,2026-10-30,mit,58,,,0,0,0,query-only,topic:vibe-coding language:rust stars:1..50
+rust,amarao/duoload,2,316,2025-06-07,noassertion,23,,,0,0,0,query-only,topic:vibe-coding language:rust stars:1..50
+rust,IntMainJhy/Vibe-SSH,2,4595,2026-11-16,noassertion,40,,,0,0,0,query-only,topic:vibe-coding language:rust stars:1..50
+rust,msork/WizRust101-RPC,2,46849,2026-10-01,mit,23,,,0,0,0,query-only,topic:vibe-coding language:rust stars:1..50
+rust,arawlins/toll-optimizer,2,464,2025-11-28,mit,19,claude,,1,1,1,artifact,topic:vibe-coding language:rust stars:1..50
+rust,Mustenaka/OneKaleidoscope,2,2579,2026-07-29,none,191,claude,,1,1,1,artifact,topic:vibe-coding language:rust stars:1..50
+rust,jark006/RemoteOps,2,992,2026-07-12,mit,47,,,1,1,0,readme,topic:vibe-coding language:rust stars:1..50
+rust,byKAYRA/goley-calenton,2,422,2026-08-28,mit,33,,,0,0,0,query-only,topic:vibe-coding language:rust stars:1..50
+rust,shaozk/herdr-shadow-pane,2,1331,2026-08-31,none,10,,,0,0,0,query-only,topic:vibe-coding language:rust stars:1..50
+rust,Fabian06051999/vibevoice,2,1779,2026-05-22,mit,10,,,1,1,0,readme,topic:vibe-coding language:rust stars:1..50
+rust,tugcantopaloglu/polyglot-ai,2,5471,2025-12-12,mit,46,,,1,1,0,readme,topic:vibe-coding language:rust stars:1..50
+rust,hoytnix/patchiest,2,63,2026-03-03,agpl-3.0,13,,,0,0,0,query-only,topic:vibe-coding language:rust stars:1..50
+rust,ishida-supsys/oretachi,2,8923,2026-03-06,mit,52,claude,,1,1,1,artifact,topic:vibe-coding language:rust stars:1..50
+rust,StephanSchmidt/appos,2,3978,2026-11-16,mit,156,,,0,0,0,query-only,topic:vibe-coding language:rust stars:1..50
+rust,hoytnix/awsm.wasm,2,69,2026-03-08,agpl-3.0,10,,,1,1,0,readme,topic:vibe-coding language:rust stars:1..50
+rust,nxtvoid/hoshi,1,7683,2026-11-08,mit,738,claude,,1,1,1,artifact,topic:vibe-coding language:rust stars:1..50
+rust,qxryz/zztodo,1,40432,2026-07-24,mit,25,,,0,0,0,query-only,topic:vibe-coding language:rust stars:1..50
+rust,dRafaleD/repora,1,116,2026-10-13,mit,18,,,0,0,0,query-only,topic:vibe-coding language:rust stars:1..50
+rust,MLGBJDLW/Nexa,1,38226,2026-03-05,mit,914,,Copilot,0,1,1,bot,topic:vibe-coding language:rust stars:1..50
+rust,WKK-T/splendor-ai,1,31340,2026-10-26,mit,30,,,0,0,0,query-only,topic:vibe-coding language:rust stars:1..50
+rust,aezizhu/a2zusage,1,68,2026-01-16,apache-2.0,22,,,1,1,0,readme,topic:vibe-coding language:rust stars:1..50
+rust,jinyimumu-ctrl/Paste-boss,1,324,2026-11-07,mit,11,,,0,0,0,query-only,topic:vibe-coding language:rust stars:1..50
+rust,tommad6821/VibeKeys,1,575,2026-07-29,none,11,,,1,1,0,readme,topic:vibe-coding language:rust stars:1..50
+rust,jasdian/claude-crew,1,798,2026-03-16,mit,17,claude,,1,1,1,artifact,topic:vibe-coding language:rust stars:1..50
+rust,lamlet/lamlet,1,1565,2026-11-01,mit,42,claude,,0,1,1,artifact,topic:vibe-coding language:rust stars:1..50
+rust,Lixsuz86/3Point,1,6642,2026-11-07,none,75,,,0,0,0,query-only,topic:vibe-coding language:rust stars:1..50
+rust,shishir-dey/Callisto,1,94,2025-08-28,mit,9,,,0,0,0,query-only,topic:vibe-coding language:rust stars:1..50
+rust,Qu3ltron/RepOGovnor,1,1899,2026-05-28,mit,52,claude|cursor,,1,1,1,artifact,topic:vibe-coding language:rust stars:1..50
+rust,huangqcEvent/coldstart,1,5643,2026-10-30,mit,122,,,0,0,0,query-only,topic:vibe-coding language:rust stars:1..50
+rust,mortenlundgren/Kaku,1,23510,2026-02-22,noassertion,393,,,0,0,0,query-only,topic:vibe-coding language:rust stars:1..50
+rust,glferreira-devsecops/hullcheck,1,94,2026-10-25,mit,10,claude|cursor|mcp,,1,1,1,artifact,topic:vibe-coding language:rust stars:1..50
+rust,BuboTerrae/Orbis,1,142,2026-09-13,mit,50,,,1,1,0,readme,topic:vibe-coding language:rust stars:1..50
+rust,Zoranner/memo-brain,1,1268,2026-01-25,noassertion,68,cursor,,0,1,1,artifact,topic:vibe-coding language:rust stars:1..50
+rust,hupe1980/devplane,1,11275,2026-09-13,apache-2.0,187,,,0,0,0,query-only,topic:vibe-coding language:rust stars:1..50
+rust,WhisteriaStudios/Teralow,1,1542,2026-09-03,none,5,,,1,1,0,readme,topic:vibe-coding language:rust stars:1..50
+rust,mmgalushka/dps150,1,2193,2026-10-27,mit,59,,,1,1,0,readme,topic:vibe-coding language:rust stars:1..50
+rust,zhenlohuang/vibemate,1,466,2026-02-26,mit,51,claude,,1,1,1,artifact,topic:vibe-coding language:rust stars:1..50
+rust,DavidoTek/hassdash4linux,1,245,2026-11-01,gpl-3.0,39,,,0,0,0,query-only,topic:vibe-coding language:rust stars:1..50
+rust,Lixsuz86/Aurora,1,98,2026-11-01,none,29,cursor,,0,1,1,artifact,topic:vibe-coding language:rust stars:1..50
+rust,arslanibrahim8/Harbormap,1,1518,2026-11-05,agpl-3.0,155,,,1,1,0,readme,topic:vibe-coding language:rust stars:1..50
+rust,jherforth/Monastery,1,1799,2026-06-05,agpl-3.0,35,claude,,1,1,1,artifact,topic:vibe-coding language:rust stars:1..50
+rust,LocShadowVN/VibirdBrowser,1,872,2026-09-09,gpl-3.0,25,,,0,0,0,query-only,topic:vibe-coding language:rust stars:1..50
+rust,mawoka-myblock/sendspin-sender,1,70,2026-10-20,wtfpl,15,,,0,0,0,query-only,topic:vibe-coding language:rust stars:1..50
+rust,tuannm99/muxfw,1,204,2026-04-19,none,28,,,0,0,0,query-only,topic:vibe-coding language:rust stars:1..50
+rust,neerajsunil/ion,1,1378,2026-10-14,apache-2.0,130,claude,,1,1,1,artifact,topic:vibe-coding language:rust stars:1..50
+rust,davidcastilloc/rust-webview-vst-template,1,913,2026-11-08,mit,34,claude|cursor,,1,1,1,artifact,topic:vibe-coding language:rust stars:1..50
+rust,maes773/Acustia_Player,1,855,2025-03-04,none,38,,,0,0,0,query-only,topic:vibe-coding language:rust stars:1..50
+rust,melgarafael/lina-space,9,22674,2026-06-04,none,208,claude,,1,1,1,artifact,"""vibe coded"" in:readme language:rust stars:1..50"
+rust,pgaskin/vento,49,8949,2026-08-15,gpl-3.0,174,,claude,1,1,1,bot,"""vibe coded"" in:readme language:rust stars:1..50"
+rust,lanesawyer/anytype_rs,6,263,2025-06-20,gpl-3.0,29,,,1,1,0,readme,"""vibe coded"" in:readme language:rust stars:1..50"
+rust,SemiAnalysisAI/FuzzX,47,4755,2026-05-15,apache-2.0,14,,,1,1,0,readme,"""vibe coded"" in:readme language:rust stars:1..50"
+rust,opcop/amux,8,3858,2026-03-28,none,132,claude,,1,1,1,artifact,"""vibe coded"" in:readme language:rust stars:1..50"
+rust,KSXGitHub/perfectionist,22,5038,2026-05-09,mit,729,claude|copilot,claude,0,1,1,bot,"""vibe coded"" in:readme language:rust stars:1..50"
+rust,neeerp/RustMS,41,35082,2020-07-05,gpl-3.0,884,claude,,1,1,1,artifact,"""vibe coded"" in:readme language:rust stars:1..50"
+rust,milankinen/airlock,50,8371,2026-03-30,apache-2.0,512,claude,,1,1,1,artifact,"""vibe coded"" in:readme language:rust stars:1..50"
+rust,med1844/TheBlockheadsTools,23,22004,2020-03-02,none,85,,,0,0,0,query-only,"""vibe coded"" in:readme language:rust stars:1..50"
+rust,MikanseiLaboratory/eiviz,36,10604,2026-08-23,noassertion,166,,cursor[bot],1,1,1,bot,"""vibe coded"" in:readme language:rust stars:1..50"
+rust,justinmoon/pika,44,22703,2026-02-08,mit,266,claude|mcp,,0,1,1,artifact,"""vibe coded"" in:readme language:rust stars:1..50"
+rust,Zoxc/varde,20,22257,2026-10-01,agpl-3.0,919,claude,,0,1,1,artifact,"""vibe coded"" in:readme language:rust stars:1..50"
+rust,GoogleCloudPlatform/aether,21,17193,2025-08-22,apache-2.0,158,,,1,1,0,readme,"""vibe coded"" in:readme language:rust stars:1..50"
+rust,champierre/live-scratch,9,26059,2026-02-08,mit,6,claude,,1,1,1,artifact,"""vibe coded"" in:readme language:rust stars:1..50"
+rust,ariana-dot-dev/ascii-world,9,238,2026-06-04,none,6,,,0,0,0,query-only,"""vibe coded"" in:readme language:rust stars:1..50"
+rust,Akkitto/Tauridium,17,4963,2026-08-21,mit,291,,,1,1,0,readme,"""vibe coded"" in:readme language:rust stars:1..50"
+rust,ocentra/bitnet.rs,12,2549,2025-06-19,none,65,,,1,1,0,readme,"""vibe coded"" in:readme language:rust stars:1..50"
+rust,proxysoul/stem,16,5909,2026-11-06,mit,27,,,1,1,0,readme,"""vibe coded"" in:readme language:rust stars:1..50"
+rust,taurus42119-stack/GODKILLER-ZERO,20,1178,2026-09-17,mit,28,,,1,1,0,readme,"""vibe coded"" in:readme language:rust stars:1..50"
+rust,scosman/freecell,22,29986,2026-06-30,apache-2.0,277,claude,claude,0,1,1,bot,"""vibe coded"" in:readme language:rust stars:1..50"
+rust,pt-icp-hub/ICP-Bootcamp-Vibe-Coding-Beginner,1,761,2025-05-10,none,14,,,0,0,0,query-only,"""vibe coded"" in:readme language:rust stars:1..50"
+rust,JaviSoto/copilot-money-cli,36,760,2025-12-16,mit,19,,,1,1,0,readme,"""vibe coded"" in:readme language:rust stars:1..50"
+rust,kuuniki/cosmic-ext-overview,13,121,2026-01-30,none,34,,,0,0,0,query-only,"""vibe coded"" in:readme language:rust stars:1..50"
+rust,andorthehood/my-static-websites,13,2256,2017-03-15,mit,83,copilot,Copilot,0,1,1,bot,"""vibe coded"" in:readme language:rust stars:1..50"
+rust,TuscanPL/SparkyMK2,29,2460,2026-09-14,gpl-3.0,39,,,0,0,0,query-only,"""vibe coded"" in:readme language:rust stars:1..50"
+rust,Mai0313/VibeCodingTracker,14,7320,2025-09-30,mit,138,claude,,1,1,1,artifact,"""vibe coded"" in:readme language:rust stars:1..50"
+rust,triamazikamno/railoxide,27,17062,2026-06-03,mit,1094,,,0,0,0,query-only,"""vibe coded"" in:readme language:rust stars:1..50"
+java,zlsun2000/QuietTV,49,5959,2026-10-04,mit,57,,,1,1,0,readme,topic:vibe-coding language:java stars:1..50
+java,knifeyspoony/ghidra-copilot,40,554,2025-10-16,none,71,,,1,1,0,readme,topic:vibe-coding language:java stars:1..50
+java,cyq114514/Re-BiliTerminal,27,36048,2026-09-12,gpl-3.0,598,,,0,0,0,query-only,topic:vibe-coding language:java stars:1..50
+java,Nefrols/NTS_MCP_FS,13,2053,2025-12-23,apache-2.0,174,,,1,1,0,readme,topic:vibe-coding language:java stars:1..50
+java,zb614433612/CodeCraft,12,46938,2026-05-22,mit,423,,,1,1,0,readme,topic:vibe-coding language:java stars:1..50
+java,ungurenko/cleanhome-tv,4,2064,2026-11-09,noassertion,135,claude,,1,1,1,artifact,topic:vibe-coding language:java stars:1..50
+java,teaql/teaql-maven-plugin,3,217,2026-05-16,apache-2.0,13,,,0,0,0,query-only,topic:vibe-coding language:java stars:1..50
+java,tattwamasii2p/mini-agi-planner-hybrid,2,277,2026-04-09,bsd-3-clause,184,claude,,0,1,1,artifact,topic:vibe-coding language:java stars:1..50
+java,meshoklv/vibenokia,2,3754,2026-10-22,mit,370,,,1,1,0,readme,topic:vibe-coding language:java stars:1..50
+java,RexTechie/code-cube,2,2652,2026-05-29,none,156,,,1,1,0,readme,topic:vibe-coding language:java stars:1..50
+java,xxueewa/system-design-interview-coach,2,18446,2026-01-11,mit,20,claude,,1,1,1,artifact,topic:vibe-coding language:java stars:1..50
+java,Sissari77/Craftium,2,4087,2026-10-21,mit,124,,,0,0,0,query-only,topic:vibe-coding language:java stars:1..50
+java,hazgal/HillbillyWordle,1,4029,2025-05-08,none,7,,,0,0,0,query-only,topic:vibe-coding language:java stars:1..50
+java,tertiarycourses/C139-AI-Vibe-Coding-for-Android-Apps-Development,1,10650,2026-10-03,none,37,,,1,1,0,readme,topic:vibe-coding language:java stars:1..50
+java,oswwwaldotc/super-jules-ai-computing-machine,1,84,2026-01-31,mit,18,,,0,0,0,query-only,topic:vibe-coding language:java stars:1..50
+java,mkgraiitr/investment-intelligence-platform,1,380,2026-08-08,none,37,,,0,0,0,query-only,topic:vibe-coding language:java stars:1..50
+java,pratz-s/vibe-tv,1,8928,2026-11-25,gpl-3.0,31,,,1,1,0,readme,topic:vibe-coding language:java stars:1..50
+java,rianfalltwilight-lab/scex-constructionwand-kots,1,25478,2026-09-04,mit,79,,,1,1,0,readme,topic:vibe-coding language:java stars:1..50
+java,Cheeseburger08/region-switch,1,124,2026-09-30,mit,5,,,1,1,0,readme,topic:vibe-coding language:java stars:1..50
+java,lokeshkaradekar/Opencode-SI-,1,4066,2026-10-13,mit,32,,,1,1,0,readme,topic:vibe-coding language:java stars:1..50
+java,HarryW61/kassenbuch-java,1,200,2026-10-31,gpl-3.0,21,,,1,1,0,readme,topic:vibe-coding language:java stars:1..50
+java,RythenGlyth/Annnovibe,1,1074,2026-11-04,apache-2.0,34,,,1,1,0,readme,topic:vibe-coding language:java stars:1..50
+java,vadis365/Mob-Grinding-Utils,28,2731,2016-11-01,none,142,,,0,0,0,query-only,"""vibe coded"" in:readme language:java stars:1..50"
+java,Regyl/yagfi-back,24,609,2025-12-18,mit,202,,,1,1,0,readme,"""vibe coded"" in:readme language:java stars:1..50"
+java,innnky/majobroom_forge,9,331,2022-01-13,mit,48,,,1,1,0,readme,"""vibe coded"" in:readme language:java stars:1..50"
+java,marcusgreenwood/vibecraft,28,643,2025-08-11,mit,39,cursor,,1,1,1,artifact,"""vibe coded"" in:readme language:java stars:1..50"
+java,filip26/iron-verifiable-credentials,22,3175,2022-05-14,apache-2.0,122,,,0,0,0,query-only,"""vibe coded"" in:readme language:java stars:1..50"
+java,dw1e/Axiom,18,23029,2026-04-29,gpl-3.0,168,,,1,1,0,readme,"""vibe coded"" in:readme language:java stars:1..50"
+java,jillesvangurp/spring-depend,46,55,2017-02-08,mit,21,,,0,0,0,query-only,"""vibe coded"" in:readme language:java stars:1..50"
+java,roryp/vibecoding,10,15808,2026-03-21,none,9,copilot,,1,1,1,artifact,"""vibe coded"" in:readme language:java stars:1..50"
+java,shuttheirprayer/Collections-Of-Optimizations,7,2352,2026-08-10,none,1392,,,1,1,0,readme,"""vibe coded"" in:readme language:java stars:1..50"
+java,Derec-Mods/Throwing-Disc-Backport,9,3557,2026-11-15,mit,321,,,1,1,0,readme,"""vibe coded"" in:readme language:java stars:1..50"
+java,Aditya-raghuvanshi19/SpringBoot-0-to-100-Cohort4.0-AI-DevOps,35,9271,2025-11-22,none,67,,,1,1,0,readme,"""vibe coded"" in:readme language:java stars:1..50"
+java,Not-a-Tyler/Mossura,32,241,2026-01-31,cc0-1.0,49,,,0,0,0,query-only,"""vibe coded"" in:readme language:java stars:1..50"
+java,Ev-Hoang/Bedrock-Chest-Case-Opening,7,1846,2025-08-07,noassertion,17,,,0,0,0,query-only,"""vibe coded"" in:readme language:java stars:1..50"
+java,vepo/issues,8,3353,2025-06-28,apache-2.0,586,claude|cursor,,0,1,1,artifact,"""vibe coded"" in:readme language:java stars:1..50"
+java,dw1e/KnockbackManager,8,130,2026-01-25,gpl-3.0,31,,,1,1,0,readme,"""vibe coded"" in:readme language:java stars:1..50"
+java,Tib3rius/Collector,26,101,2025-10-09,none,33,claude,,0,1,1,artifact,"""vibe coded"" in:readme language:java stars:1..50"
+java,9xhk-1/163MusicPro,12,2228,2026-03-29,mit,81,copilot,Copilot,0,1,1,bot,"""vibe coded"" in:readme language:java stars:1..50"
+java,BLCK-B/MusicReleaseTracker,33,3581,2023-06-11,gpl-3.0,44,,,0,0,0,query-only,"""vibe coded"" in:readme language:java stars:1..50"
+java,outlandnish/ghidra-tms320c28x,10,2051,2026-06-23,apache-2.0,88,claude,,1,1,1,artifact,"""vibe coded"" in:readme language:java stars:1..50"
+java,thheller/shadow-http,1,603,2026-02-23,none,44,,,0,0,0,query-only,"""vibe coded"" in:readme language:java stars:1..50"
+java,dedatech/gsms,8,5638,2026-01-01,none,187,claude,,1,1,1,artifact,"""vibe coded"" in:readme language:java stars:1..50"
+java,xGabou/Voxy-for-NeoForge-and-Forge-but-cooler,9,2354,2026-05-28,noassertion,444,,,0,0,0,query-only,"""vibe coded"" in:readme language:java stars:1..50"
+java,filip26/iridium-cbor-ld,15,1191,2022-06-30,apache-2.0,72,,,0,0,0,query-only,"""vibe coded"" in:readme language:java stars:1..50"
+java,Vibe-Fiction/AI-dea,7,49354,2025-08-07,mit,98,,,0,0,0,query-only,"""vibe coded"" in:readme language:java stars:1..50"
+java,is-wuyi/Syncmaterial,4,3028,2026-04-11,gpl-3.0,74,claude,,0,1,1,artifact,"""vibe coded"" in:readme language:java stars:1..50"
+java,pgaskin/cmus-android,15,6841,2026-07-20,gpl-2.0,19,,claude,1,1,1,bot,"""vibe coded"" in:readme language:java stars:1..50"
+java,Moid-M/Moid-Addon,9,274,2026-03-10,cc0-1.0,27,,,1,1,0,readme,"""vibe coded"" in:readme language:java stars:1..50"
+java,RogoShum/SketchRender,8,7908,2024-12-01,none,781,,,0,0,0,query-only,"""vibe coded"" in:readme language:java stars:1..50"
+java,sivaprasadreddy/agentic-expense-manager,9,138,2026-05-17,apache-2.0,38,claude,,1,1,1,artifact,"""vibe coded"" in:readme language:java stars:1..50"
+java,W01fh4cker/Karlin,6,73,2026-01-26,apache-2.0,35,,,0,0,0,query-only,"""vibe coded"" in:readme language:java stars:1..50"
+java,thpeng/chattender-fahrplan-mcp,8,1761,2025-11-06,mit,12,,,1,1,0,readme,"""vibe coded"" in:readme language:java stars:1..50"
+java,SXXCLL/gt-smart-home-android,4,23007,2026-04-25,none,7,,,0,0,0,query-only,"""vibe coded"" in:readme language:java stars:1..50"
+java,sumver/hooktbulu,27,868,2026-02-06,none,20,,,0,0,0,query-only,"""vibe coded"" in:readme language:java stars:1..50"
+java,kriss2012/Disk-mangement,12,698,2026-06-23,mit,20,,,1,1,0,readme,"""vibe coded"" in:readme language:java stars:1..50"
+java,StrategyRadar/strategyradar-chiringuito-example,3,204,2025-10-10,none,30,claude,,1,1,1,artifact,"""vibe coded"" in:readme language:java stars:1..50"
+java,MontesanoDev/LibrePDF,33,594,2026-04-15,gpl-3.0,39,,,0,0,0,query-only,"""vibe coded"" in:readme language:java stars:1..50"
+java,avrabie/sparrow-air,3,3157,2025-05-07,none,117,,,0,0,0,query-only,"""vibe coded"" in:readme language:java stars:1..50"
+java,Galassis/Halation,3,125,2026-07-16,gpl-3.0,32,,,0,0,0,query-only,"""vibe coded"" in:readme language:java stars:1..50"
+java,filip26/carbon-did-core,4,646,2022-07-29,apache-2.0,23,,,0,0,0,query-only,"""vibe coded"" in:readme language:java stars:1..50"
+java,ezerssss/icebase,3,134,2023-11-28,none,49,,,0,0,0,query-only,"""vibe coded"" in:readme language:java stars:1..50"
+java,iasonasTan/Vocabulary-Quiz,1,1168,2026-07-04,gpl-3.0,13,,,0,0,0,query-only,"""vibe coded"" in:readme language:java stars:1..50"
+java,KevinRunforrestt/NotPipePlus,5,2009,2026-10-29,wtfpl,76,,,0,0,0,query-only,"""vibe coded"" in:readme language:java stars:1..50"
+java,cnpetershen/employee-evaluation,2,84,2026-06-24,none,58,,,0,0,0,query-only,"""vibe coded"" in:readme language:java stars:1..50"
+java,ColiFish/Carpet-CoF-Addition,4,391,2026-10-10,mit,53,,,0,0,0,query-only,"""vibe coded"" in:readme language:java stars:1..50"
+java,sreeego/tv-home-studio,32,16179,2026-10-30,mit,48,,,0,0,0,query-only,"""vibe coded"" in:readme language:java stars:1..50"
+java,git-syl/hermes-agent-demo,31,1686,2026-08-29,apache-2.0,105,,,1,1,0,readme,"""vibe coded"" in:readme language:java stars:1..50"
+java,Samba89/wear-signal,2,672,2026-06-28,agpl-3.0,283,,,1,1,0,readme,"""vibe coded"" in:readme language:java stars:1..50"
+java,fvkd/termux-launcher,5,23508,2026-03-04,gpl-3.0,226,,,0,0,0,query-only,"""vibe coded"" in:readme language:java stars:1..50"
+java,nikaiw/hextraview,6,333,2021-11-24,gpl-3.0,15,,,0,0,0,query-only,"""vibe coded"" in:readme language:java stars:1..50"
+java,msbaek/bedrock-agent-demo,9,1278,2026-01-25,none,24,,,1,1,0,readme,"""vibe coded"" in:readme language:java stars:1..50"
+java,WilliamStanton/vibe-build,5,261,2026-02-21,none,18,,,0,0,0,query-only,"""vibe coded"" in:readme language:java stars:1..50"
+java,jachymb/JetBrainsStanPlugin,2,444,2026-05-28,none,221,claude,,1,1,1,artifact,"""vibe coded"" in:readme language:java stars:1..50"
+java,wxb-gs/zhiguang_be_vibe_coding,2,1657,2026-05-14,none,182,claude,,1,1,1,artifact,"""vibe coded"" in:readme language:java stars:1..50"
+java,4Fixxx/VibeMC,2,117,2026-03-22,mit,11,,,1,1,0,readme,"""vibe coded"" in:readme language:java stars:1..50"
+java,rianfalltwilight-lab/scex-viscriptshop-ae2-bridge,2,23163,2026-09-02,gpl-3.0,22,,,0,0,0,query-only,"""vibe coded"" in:readme language:java stars:1..50"
+java,LuigiLoeck/Phonk-Edit-Mod,7,43876,2025-10-21,cc0-1.0,13,,,0,0,0,query-only,"""vibe coded"" in:readme language:java stars:1..50"
+java,Nahuel92/pit4u,2,3461,2024-10-14,mit,23,,,0,0,0,query-only,"""vibe coded"" in:readme language:java stars:1..50"
+java,woojung3/jwlee-cowork,1,1456,2026-02-27,none,122,,,1,1,0,readme,"""vibe coded"" in:readme language:java stars:1..50"
+java,Lukas22041/PatchLib,4,1701,2026-06-16,noassertion,141,,,1,1,0,readme,"""vibe coded"" in:readme language:java stars:1..50"
+java,Encrypia/itemscroller-moreworkblocks,2,784,2026-06-27,lgpl-3.0,104,,,0,0,0,query-only,"""vibe coded"" in:readme language:java stars:1..50"
+java,Theu5er/AliasPlus,4,287,2026-10-04,mit,15,,,0,0,0,query-only,"""vibe coded"" in:readme language:java stars:1..50"
+java,gustavofrainer21/Sistema-de-Gestao-de-Eventos-e-Auditorios,2,4434,2026-09-01,none,11,,,0,0,0,query-only,"""vibe coded"" in:readme language:java stars:1..50"
+java,Lucwousin/jagfx,3,4335,2025-09-02,none,44,,,0,0,0,query-only,"""vibe coded"" in:readme language:java stars:1..50"
+java,Legonin-dev/BleachHack-1.21.11,2,45903,2026-10-27,gpl-3.0,311,,,0,0,0,query-only,"""vibe coded"" in:readme language:java stars:1..50"
+java,VishantEXE/Amaterasu,6,2928,2026-11-08,gpl-3.0,34,,,0,0,0,query-only,"""vibe coded"" in:readme language:java stars:1..50"
+java,jtm2kfpv-git/DJI-Unchained-VOC,3,8786,2026-08-26,apache-2.0,309,,,0,0,0,query-only,"""vibe coded"" in:readme language:java stars:1..50"
+java,zerohpminecraft/loominary,2,21542,2026-04-29,mit,54,claude,claude,1,1,1,bot,"""vibe coded"" in:readme language:java stars:1..50"
+java,mohamedhassan218/snap,2,77,2025-01-22,mit,35,,,0,0,0,query-only,"""vibe coded"" in:readme language:java stars:1..50"
+java,thefaketanjim/Smart-Expense-Tracker,2,1221,2026-05-11,none,17,,,0,0,0,query-only,"""vibe coded"" in:readme language:java stars:1..50"
+java,maxid/jmqx,3,998,2023-11-06,mit,281,,,0,0,0,query-only,"""vibe coded"" in:readme language:java stars:1..50"
+java,Oranges-sour/AssetManagement,1,99,2026-01-02,none,9,,,0,0,0,query-only,"""vibe coded"" in:readme language:java stars:1..50"
+java,metoo2008/vibeterm,3,1823,2026-08-23,gpl-3.0,22,claude,,1,1,1,artifact,"""vibe coded"" in:readme language:java stars:1..50"
+java,MCXCC303/JNBTExplorer,2,183,2026-03-10,mit,39,,,0,0,0,query-only,"""vibe coded"" in:readme language:java stars:1..50"
+java,indra-2022/DSA-WITH-JAVA,1,496,2026-05-25,none,136,,,0,0,0,query-only,"""vibe coded"" in:readme language:java stars:1..50"
+java,malandrakisgeo/mnemosyne,20,428,2024-04-20,apache-2.0,42,,,0,0,0,query-only,"""vibe coded"" in:readme language:java stars:1..50"
+java,patrickrb/JTTYAF,3,23509,2026-10-09,mit,570,claude,,1,1,1,artifact,"""vibe coded"" in:readme language:java stars:1..50"
+java,link-fgfgui/jeiptweakp,1,86,2026-05-07,noassertion,15,,,0,0,0,query-only,"""vibe coded"" in:readme language:java stars:1..50"
+java,The-hz/MeteorClient-CNTextRenderingSupport,2,12372,2026-07-06,mit,8,,,0,0,0,query-only,"""vibe coded"" in:readme language:java stars:1..50"
+java,PluvIIter/MusicParty,32,7321,2025-12-26,none,211,,,0,0,0,query-only,"""vibe coded"" in:readme language:java stars:1..50"
+java,Komeiji-V/MusicParty,4,985,2026-08-20,gpl-3.0,143,,,0,0,0,query-only,"""vibe coded"" in:readme language:java stars:1..50"
+java,diegopacheco/tupilang,6,2065,2025-04-12,unlicense,55,,,0,0,0,query-only,"""vibe coded"" in:readme language:java stars:1..50"
+java,y-ahn/vibeCoding_1_JavaProject,1,188,2026-02-26,none,202,,,1,1,0,readme,"""vibe coded"" in:readme language:java stars:1..50"
+java,james9dev/connectify-api-server-gcp,1,283,2026-03-09,none,129,,,0,0,0,query-only,"""vibe coded"" in:readme language:java stars:1..50"
+java,NotVibeCodedSlop/FoliaShopChest,1,23163,2026-08-31,apache-2.0,18,,,1,1,0,readme,"""vibe coded"" in:readme language:java stars:1..50"
+java,giveen/zap-extension-aitrafficanalyst,1,1387,2026-01-29,apache-2.0,12,copilot,,1,1,1,artifact,"""vibe coded"" in:readme language:java stars:1..50"
+java,CopyPasteUser/PC-Remote-Control-,2,6223,2024-04-04,mit,11,,,0,0,0,query-only,"""vibe coded"" in:readme language:java stars:1..50"
+java,erren282/erren282-launcher,1,6175,2026-10-24,gpl-3.0,982,,,0,0,0,query-only,"""vibe coded"" in:readme language:java stars:1..50"
+java,GuangDongPerson/bridgetap-launcher,4,1848,2026-11-19,gpl-3.0,43,,,0,0,0,query-only,"""vibe coded"" in:readme language:java stars:1..50"
+java,nichv/AutoGGReborn,1,952,2026-04-01,none,7,,,1,1,0,readme,"""vibe coded"" in:readme language:java stars:1..50"
+java,Harley-xk/n-2,2,721,2026-09-23,none,364,claude,,1,1,1,artifact,"""vibe coded"" in:readme language:java stars:1..50"
+java,jwhenry28/claude-burp-displayer,4,383,2025-09-08,none,16,claude,,1,1,1,artifact,"""vibe coded"" in:readme language:java stars:1..50"
+java,rzo1/bloodfields,3,2001,2026-05-10,none,259,,,1,1,0,readme,"""vibe coded"" in:readme language:java stars:1..50"
+java,JulianMella/VoxelSphereHollow,1,70,2025-09-18,cc0-1.0,7,,,0,0,0,query-only,"""vibe coded"" in:readme language:java stars:1..50"
+java,filip26/iron-did-cel,2,852,2026-02-18,apache-2.0,64,,,0,0,0,query-only,"""vibe coded"" in:readme language:java stars:1..50"
+java,JohannesRabauer/vaadin-banking-app,1,1163,2026-02-22,none,11,,,0,0,0,query-only,"""vibe coded"" in:readme language:java stars:1..50"
+java,Nesvilab/SpecLibIO,2,7127,2025-11-16,apache-2.0,12,,,0,0,0,query-only,"""vibe coded"" in:readme language:java stars:1..50"
+java,SirMrPickle/route-validator-1.21.11,1,75,2026-06-24,cc0-1.0,11,,,0,0,0,query-only,"""vibe coded"" in:readme language:java stars:1..50"
+java,pppopipupu/FX-EASY,2,17350,2026-10-16,apache-2.0,222,,,0,0,0,query-only,"""vibe coded"" in:readme language:java stars:1..50"
+java,RubyImpala/Glaze,1,381,2026-03-30,gpl-3.0,53,,,0,0,0,query-only,"""vibe coded"" in:readme language:java stars:1..50"
+java,handsomestWei/dh-netsdk-http,5,37298,2025-07-10,apache-2.0,3521,,,1,1,0,readme,"""vibe coded"" in:readme language:java stars:1..50"
+java,17Artist/Herald-MCClientMCP,2,603,2026-06-12,gpl-3.0,4163,,,0,0,0,query-only,"""vibe coded"" in:readme language:java stars:1..50"
+java,1eoBao/QGprogram,1,83,2026-03-22,none,23,,,0,0,0,query-only,"""vibe coded"" in:readme language:java stars:1..50"
+java,LuanaSza/Projeto-PetShop-Java-POO,1,14089,2026-01-11,none,12,,,0,0,0,query-only,"""vibe coded"" in:readme language:java stars:1..50"
+java,Lokiiiiii1026/Loki-ai-Vibe-coder,1,697,2026-08-02,none,307,,,1,1,0,readme,"""vibe coded"" in:readme language:java stars:1..50"
+java,accsaber/accsaber-reloaded-backend,2,5630,2026-03-14,none,1356,,,1,1,0,readme,"""vibe coded"" in:readme language:java stars:1..50"
+java,gokhoso/JavacBot,1,165,2025-12-17,gpl-3.0,31,,,0,0,0,query-only,"""vibe coded"" in:readme language:java stars:1..50"
+java,HierarchyMan/MariaDBBukkit,2,50,2026-06-21,gpl-3.0,20,,,0,0,0,query-only,"""vibe coded"" in:readme language:java stars:1..50"
+java,shed4329/onezip,1,5099,2022-06-05,apache-2.0,156,,,0,0,0,query-only,"""vibe coded"" in:readme language:java stars:1..50"
+java,rohitbhardwaj/ClaudeCodeArchitecture,1,349,2026-07-15,noassertion,77,claude,,1,1,1,artifact,"""vibe coded"" in:readme language:java stars:1..50"
+java,sanadlab/vibe_coded_android_apps,1,3922,2025-04-09,mit,48,,,1,1,0,readme,"""vibe coded"" in:readme language:java stars:1..50"
+java,Pitohui-Dichrous/WebSurf,1,5694,2026-10-28,none,69,,,0,0,0,query-only,"""vibe coded"" in:readme language:java stars:1..50"
+java,sfkamath/jvm-hotpath,11,1018,2026-02-01,mit,28,claude,,1,1,1,artifact,"""vibe coded"" in:readme language:java stars:1..50"
+java,occtoberr/indicators,1,165,2026-11-23,mit,7,,,1,1,0,readme,"""vibe coded"" in:readme language:java stars:1..50"
+java,whillow-ann/Stable-Github-Contribution-Faker,1,295,2026-03-12,none,5,,,0,0,0,query-only,"""vibe coded"" in:readme language:java stars:1..50"
+java,brrock/astro-client,1,162,2026-04-25,none,70,,,1,1,0,readme,"""vibe coded"" in:readme language:java stars:1..50"
+java,iceBear67/edge,2,307,2025-07-02,apache-2.0,81,,,0,0,0,query-only,"""vibe coded"" in:readme language:java stars:1..50"
+java,rainmana/Wallety,1,195,2026-10-12,none,10,claude,claude,0,1,1,bot,"""vibe coded"" in:readme language:java stars:1..50"
+java,getdipakkumar2008-coder/sprintbootAppwith-spring-ai-agent-utils,1,41857,2026-10-01,none,68,claude,,1,1,1,artifact,"""vibe coded"" in:readme language:java stars:1..50"
+java,Diapyrus/ECE_K430-Port-Management-System-Java-2024,1,11639,2026-10-06,none,8,,,0,0,0,query-only,"""vibe coded"" in:readme language:java stars:1..50"
+java,albogdano/velocity-netbeans,4,4120,2026-05-05,noassertion,118,,,0,0,0,query-only,"""vibe coded"" in:readme language:java stars:1..50"
+java,HKingFish/HiNovel,6,1776,2026-06-19,apache-2.0,308,,,1,1,0,readme,"""vibe coded"" in:readme language:java stars:1..50"
+java,Viperisuseful/viperproxy,1,7381,2026-05-09,mit,16,,,0,0,0,query-only,"""vibe coded"" in:readme language:java stars:1..50"
+java,teach-plt/www,10,16471,2023-04-01,none,107,,,0,0,0,query-only,"""vibe coded"" in:readme language:java stars:1..50"
+java,mithro/ghidra-optimized-stdvector-decompiler,3,1201,2025-11-07,apache-2.0,7,claude,claude,0,1,1,bot,"""vibe coded"" in:readme language:java stars:1..50"
+java,PhilippeSteinbach/WatchParty,1,1558,2026-02-25,none,83,copilot,Copilot,0,1,1,bot,"""vibe coded"" in:readme language:java stars:1..50"
+java,eric-eldard/junie-voice,1,201,2025-11-02,none,16,,,1,1,0,readme,"""vibe coded"" in:readme language:java stars:1..50"
+java,mikenseer/JAIMP,1,196,2025-06-03,mit,11,,,1,1,0,readme,"""vibe coded"" in:readme language:java stars:1..50"
+java,tottori139/auto-ominous-bottle,1,1451,2026-10-21,mit,15,,,1,1,0,readme,"""vibe coded"" in:readme language:java stars:1..50"

@@ -1,0 +1,59 @@
+=== AI-tooling artefacts as a second evidence instrument ===
+
+Strong artefacts: .cursorrules/.cursor/, .claude/ or CLAUDE.md, Copilot instruction
+files, .windsurfrules, aider config, .clinerules/.roo, .continue, .specstory, MCP
+config. Weak: AGENTS.md or a prompts/ directory on its own, which plenty of
+non-AI repositories carry, including this study's own.
+
+--- AI arm, by evidence tier ---
+
+tier                    n  scanned   strong  strong %  weak only
+----------------------------------------------------------------
+bot commit             19       19       12       63%          3
+README declaration     11       11        6       55%          0
+query only            172      164       43       26%         35
+
+Verifiability of the AI arm, both instruments together:
+  scanned                           194
+  commit or README evidence          30 (15.5%)
+  strong artefact evidence           61 (31.4%)
+  either instrument                  73 (37.6%)
+  no evidence of any kind           121 (62.4%)
+
+--- Control arm (collected as no AI mention, no bot commit) ---
+
+scanned 189 of 200
+  strong artefact present: 39 (20.6%)
+  weak only:               32 (16.9%)
+
+A control repo carrying .cursorrules or a .claude/ directory is not a clean
+control under the study's own definition. Those are the likely contamination.
+
+=== What contamination does to the measured effect ===
+
+Measured contamination of the control arm: c = 20.6%.
+
+Two-sided misclassification dilutes a real difference by about (1 - c - f),
+where c is the share of controls that are really AI-assisted and f is the
+share of the AI arm that is really hand-written. c is measured above. f is
+not identifiable from this data, so the dilution is bounded rather than
+estimated:
+
+  f =   0%: measured effect is about 79% of the true one, so the true effect is up to 1.26x larger
+  f =  10%: measured effect is about 69% of the true one, so the true effect is up to 1.44x larger
+  f =  20%: measured effect is about 59% of the true one, so the true effect is up to 1.68x larger
+  f =  40%: measured effect is about 39% of the true one, so the true effect is up to 2.54x larger
+
+This is dilution: it moves a real difference toward zero and does nothing to a
+truly null result. It also cannot create a difference that is not there, so it
+explains how a medium effect could hide in this sample but does not license
+the claim that one is hiding.
+
+=== What this does not measure ===
+
+- Authors who scrub traces will not appear in either instrument. The AI arm is
+  therefore a lower bound on AI-assisted repositories at every tier.
+- Absence of artefacts is not evidence of hand-written code: many agent users
+  never commit rule files, and some keep them outside the repository.
+- Artefacts can be committed for other reasons (shared team config, a fork of a
+  template that ships .cursorrules). Every flag here is suggestive, not proof.

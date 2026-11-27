@@ -1,0 +1,54 @@
+=== Licence presence, AI-assisted vs traditional (no licence gate) ===
+
+AI-assisted candidates (vibe queries, v2 accept):      n=202
+  no licence                                           61 (30.2%)
+  licence file GitHub cannot identify (NOASSERTION)    15 (7.4%)
+  recognised OSS licence                              126 (62.4%)
+
+Traditional candidates (same filters, no gate):        n=250
+  no licence                                           96 (38.4%)
+  licence file GitHub cannot identify (NOASSERTION)    14 (5.6%)
+  recognised OSS licence                              140 (56.0%)
+
+For reference, the study's licence-gated control arm (data/controls.csv):
+  n=200, no licence 0 (0.0%), recognised 174 (87.0%)
+  -> that arm cannot have an unlicensed row, so it cannot estimate a base rate.
+
+Unlicensed vs licensed, AI arm against traditional arm:
+  odds ratio 0.69 (95% CI 0.47 to 1.03), Fisher exact p=0.0742
+  traditional repositories are the ones more often unlicensed.
+
+=== Stratified by star band (unlicensed share) ===
+
+band      AI n  AI unlic  trad n  trad unlic      OR        p
+1-10       169    57 (34%)     229    91 (40%)    0.77    0.249
+11-50       17     3 (18%)      21     5 (24%)    0.69    0.709
+>50         16 (too few)       0            
+
+  Mantel-Haenszel pooled OR across star bands: 0.77
+
+=== Stratified by size band (unlicensed share) ===
+
+band      AI n  AI unlic  trad n  trad unlic      OR        p
+50-300      40    20 (50%)      27    18 (67%)    0.50    0.214
+300-3k     100    28 (28%)      92    37 (40%)    0.58   0.0931
+>3k         62    13 (21%)     131    41 (31%)    0.58     0.17
+
+=== Licence family among licensed repos ===
+
+  AI-assisted  n= 126  permissive  107 (85%)  copyleft  19 (15%)  other 0
+  traditional  n= 140  permissive  116 (83%)  copyleft  22 (16%)  other 2
+
+  copyleft share, AI vs traditional: OR 0.95, Fisher p=1
+
+=== How to read this ===
+
+- Both arms come from GitHub search with the same structural filters (>=5 .py
+  files, 50-50000 KB, app not library/course, 2024-2026, 1-50 stars). The AI
+  arm is defined by self-declaration (vibe queries plus README/bot evidence);
+  the traditional arm by the absence of any AI mention and of bot commits.
+- The traditional arm comes from generic Python queries, not from a census of
+  all Python repos, so the base rate is a sample estimate, not a population
+  parameter. Different queries, same coarse profile.
+- Licences are as GitHub reports them. NOASSERTION means a licence file that
+  GitHub cannot map to an SPDX id, counted separately rather than as unlicensed.
