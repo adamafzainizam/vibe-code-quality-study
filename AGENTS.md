@@ -88,8 +88,51 @@ GitHub Search API, unauthenticated (10 req/min limit):
    - gh CLI active account switched to adamafzainizam (skibidam still in keyring).
    - Humanizer pass done on all public-facing text (LinkedIn post, blog post,
      README, docs/, AGENTS.md). Keep this standard for post #2.
-7. Next session queue:
-   - FIRST: Adam publishes LinkedIn post 1 (text + charts ready)
-   - Post #2 candidate: deeper dive on license-gate attrition / methodology
-   - Expand sample (n>46) + add correctness checks (tests, execution) per post plan
-   - Eventually: preprint writeup (Zenodo DOI) per original roadmap
+7. Next session queue (revised 2026-11-27):
+   - Adam's steer: publish when a pass finds something substantial, not a known
+     given, so post 1 stays unpublished until post 2 gives it a reason to exist.
+   - Post #2 = the methods note in docs/second-pass-2026-11-27.md (power,
+     verifiability of the arm, hygiene null, licence base rate). Write the public
+     version from that document, humanizer pass, no em dashes.
+   - Expand the sample toward 95 pairs (55 for d_z 0.4, 95 for 0.3), selecting the
+     AI arm on bot evidence where possible, and without a licence gate.
+   - Resume the licence sweep to 250 candidates (script is resumable).
+   - Eventually: preprint writeup (Zenodo DOI) per original roadmap.
+
+## Second pass (2026-11-27): what 46 pairs can actually support
+
+Full write-up with tables: `docs/second-pass-2026-11-27.md`. Four checks, all
+reproducible from this repo, all run this session.
+
+1. **Power (`scripts/power_analysis.py`, `data/power_analysis.txt`).** At n=46 the
+   minimum detectable effect for the two-sided Wilcoxon is |d_z| = 0.44 at 80%
+   power, and power at d_z 0.3 is 50%. Five metrics (sloc, docstring_density,
+   cc_max, mi_mean, lizard_max_ccn) have their whole bootstrap CI inside that
+   undetectable band. Pairs needed: about 95 for d_z 0.3, 55 for 0.4. Post 1's null
+   rules out a large difference and nothing smaller.
+2. **The AI arm is 85% unverifiable.** Of 202 accepted candidates, only 19 (9.4%)
+   carry an AI-agent commit, 11 (5.4%) a README declaration, and 172 (85.1%) rest on
+   a search match alone. The 46 analysed pairs: 9 / 5 / 32. Caveat both ways: agents
+   run under the developer's own Git identity leave no bot commit, so no trace is
+   not evidence of no use; and the bot-evidence subgroup does show a larger negative
+   complexity delta (median pct_cc_gt_10 -3.9 against -0.4, n=9, p=0.89), which is a
+   direction to test rather than a result.
+3. **Engineering hygiene is a null too (`scripts/measure_hygiene.py`,
+   `scripts/hygiene_stats.py`, `data/hygiene_metrics.csv`, `data/hygiene_stats.txt`).**
+   86 of 92 repos cloned and measured arm-blind: tests 98% AI against 92%
+   traditional, CI 70% against 78%, lockfile 32% against 25%, pyproject 62% against
+   62%, hygiene score 2.77 against 2.67 (paired p=0.63). Every q above 0.75 after
+   BH-FDR. Only lead: prints per kloc 2.1 against 3.6, raw p=0.084, q=0.76.
+4. **The licence gate was one-sided and the base rate runs the other way
+   (`scripts/collect_license_base_rate.py`, `scripts/license_base_rate_analysis.py`,
+   `data/license_base_rate.csv`, `data/license_base_rate_stats.txt`).**
+   `collect_controls.py` rejected unlicensed repos at collection, so every
+   licence-gated repo in run 1 was an AI-arm repo. Re-collected the traditional arm
+   with the same filters and no gate: 67 accepted, 38.8% unlicensed against 30.2% in
+   the AI arm, odds ratio 0.68 (CI 0.38 to 1.21, p=0.228), direction consistent in
+   every size and star stratum but nowhere significant. The 250-candidate sweep was
+   stopped deliberately at 67 (slow, side question); the script resumes.
+
+Consequence for the project: post 2 is a methods note about resolution and
+instruments, not a second "no difference" post, and the next data step is a
+registered arm (bot evidence, no licence gate, about 95 pairs).
